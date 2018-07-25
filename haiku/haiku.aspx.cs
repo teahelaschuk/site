@@ -12,23 +12,16 @@ namespace haiku
 {
     public partial class haiku : System.Web.UI.Page
     {
-        string haikoo;
         Random r;
         List<string> lines;
         int lineNum;
 
         protected void Page_Load(object sender, EventArgs e)
         {
-            haikoo = "testing\ntesting\ntesting";
             r = new Random();
 
             string url = Server.MapPath("~/App_Data/mhyph.txt");
             lines = new List<string>(File.ReadAllLines(url));
-
-            if(IsPostBack)
-            {
-                DataList1.DataBind();
-            }
         }
 
         protected void btn_saveq_Click(object sender, EventArgs e)
@@ -63,15 +56,14 @@ namespace haiku
             {
                 ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "alertMessage", "alert('Something went wrong! Cannot add to database')", true);
             }
-
+            
             // refresh
+            con.Close();
             Response.Redirect(Request.RawUrl);
         }
 
         protected void btn_generate_Click(object sender, EventArgs e)
         {
-            haikoo = "";
-
             label_haiku1.Text = MakeLine(5);
             label_haiku2.Text = MakeLine(7);
             label_haiku3.Text = MakeLine(5);
@@ -80,7 +72,6 @@ namespace haiku
             text_initials.Visible = true;
             btn_saveq.Visible = true;
             div_accent.Attributes["style"] = "visibility: visible";
-
         }
 
         protected string MakeLine(int max)
@@ -124,7 +115,7 @@ namespace haiku
             return true;
         }
 
-       
+
     }
 
 }
