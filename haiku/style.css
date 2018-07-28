@@ -96,6 +96,18 @@ a:visited {
     color: lightgray;
 }
 
+.votebtn {
+    background-color: transparent;
+    border: none;
+    font-size: smaller;
+    color: gray;
+}
+
+.votebtn:hover {
+    color: lavender;
+}
+
+
 .haikulist {
     align-content: center;
     margin: auto;

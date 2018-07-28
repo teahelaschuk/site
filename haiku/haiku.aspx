@@ -46,13 +46,16 @@
                     <asp:Label ID="line3Label" runat="server" Text='<%# Eval("line3") %>' />
                     <br />
                     <br />
-                    <asp:Label CssClass="haikuInfoLabel" ID="votesLabel" runat="server" Text='<%# Eval("author") + ", " + Eval("entrydate", "{0:d}")+ ", Votes: " + Eval("votes")%>' />
+                    <asp:Label CssClass="haikuInfoLabel" ID="authorLabel" runat="server" Text='<%# Eval("author") + ", " + Eval("entrydate", "{0:d}") %>' />
                     <br />
+                    <asp:Button CssClass="votebtn" ID="btn_voteup" runat="server" Text="▲" CommandArgument='<%#Eval("ID")+","+ Eval("votes")%>' CommandName="upClick" OnClick="votebtn_Click" CausesValidation="False" />
+                    <asp:Label CssClass="haikuInfoLabel" ID="votesLabel" runat="server" Text='<%# Eval("votes")%>' />
+                    <asp:Button CssClass="votebtn" ID="btn_votedown" runat="server" Text="▼" CommandArgument='<%#Eval("ID")+","+ Eval("votes")%>' CommandName="downClick" OnClick="votebtn_Click" CausesValidation="False" />
                 </ItemTemplate>
                 <SeparatorTemplate>
                     <br />
                     ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
-                    <br />
+                    <br /><br />
                 </SeparatorTemplate>
             </asp:DataList>
             <asp:SqlDataSource ID="haikus_saved" runat="server" ConnectionString="<%$ ConnectionStrings:ConnectionString %>" ProviderName="<%$ ConnectionStrings:ConnectionString.ProviderName %>" SelectCommand="SELECT * FROM [haikus] ORDER BY [votes] DESC, [entrydate] DESC"></asp:SqlDataSource>

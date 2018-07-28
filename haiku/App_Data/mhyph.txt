@@ -4,20 +4,10 @@ a =tem=po
 a-=plen=ty
 aard=vark
 aard=wolf
-Aar=on
-Aar=on=it=ic
-Aa=ron's =beard
-Aa=ron's =rod
-Aa=ron=ic
 ab =o=vo
 abb
-Abbe=vill=i=an
-Abbe=vil=e=an
 abbr
 abbrev
-Abd-=al-=Ka=dir
-Abd-=al-=Rah=man
-Abd-=el-=Ka=dir
 absinth
 ab=a
 ab=ac=ti=nal
@@ -29,38 +19,23 @@ ab=ax=i=al
 ab=a=ca
 ab=a=ci
 ab=a=cist
-Ab=a=co
 ab=a=cus
 ab=a=cus=es
 ab=a=lo=ne
-Ab=a=ris
 ab=a=tis
-Ab=ba
-Ab=bas=id
-Ab=bas=sid
-Ab=bas=side
 ab=ba=cy
 ab=ba=tial
 ab=bess
-Ab=bey
 ab=bey
 ab=bey=stede
-Ab=be=ville
-Ab=bie
 ab=bot
-Ab=bot
-Ab=bots=ford
-Ab=bott
 ab=bot=cy
 ab=bot=ship
-Ab=boud
 ab=bre=vi=ate
 ab=bre=vi=at=ed
 ab=bre=vi=at=ing
 ab=bre=vi=a=tion
 ab=bre=vi=a=tor
-Ab=by
-Ab=di=as
 ab=di=cant
 ab=di=cate
 ab=di=cat=ed
@@ -79,31 +54,19 @@ ab=duct
 ab=duc=ing
 ab=duc=tion
 ab=duc=tor
-Ab=dul-=A=ziz
-Ab=dul-=Ha=mid =II
 ab=du=cens
 ab=du=cens =nerve
 ab=du=cent
 ab=du=cen=tes
-Ab=er=crom=bie
-Ab=er=dare
-Ab=er=deen
-Ab=er=deen =An=gus
-Ab=er=deen=shire
-Ab=er=do=ni=an
 ab=er=neth=y
 ab=er=rance
 ab=er=rant
 ab=er=ran=cy
 ab=er=ra=tion
 ab=er=ra=tion=al
-Ab=er=yst=wyth
 ab=es=se
 ab=es=sive
-Ab=e=lard
-Ab=e=o=ku=ta
 ab=far=ad
-Ab=ga=tha
 ab=hen=ry
 ab=hom=i=na=ble
 ab=hor
@@ -113,28 +76,18 @@ ab=hor=rent
 ab=hor=rent=ly
 ab=hor=rer
 ab=hor=ring
-Ab=ing=don
-Ab=ing=ger
-Ab=ing=ton
 ab=ir=ri=tant
 ab=ir=ri=tate
 ab=ir=ri=tat=ed
 ab=ir=ri=tat=ing
 ab=ir=ri=ta=tion
 ab=ir=ri=ta=tive
-Ab=i=a
-Ab=i=djan
 ab=i=ent
 ab=i=et=ic =ac=id
 ab=i=e=tate
 ab=i=gail
-Ab=i=gail
-Ab=i=lene
-Ab=i=lyne
 ab=i=ot=ro=phy
 ab=i=o=troph=ic
-Ab=i=sag
-Ab=i=shag
 ab=ject
 ab=ject=ed=ness
 ab=ject=ly
@@ -148,11 +101,6 @@ ab=jur=a=to=ry
 ab=jur=er
 ab=jur=ing
 ab=ju=ra=tion
-Ab=khaz
-Ab=kha=si=a
-Ab=kha=si=an
-Ab=kha=zi=a
-Ab=kha=zi=an
 ab=lac=tate
 ab=lac=tat=ed
 ab=lac=tat=ing
@@ -172,9 +120,6 @@ ab=lu=tion
 ab=lu=tion=ar=y
 ab=mho
 ab=mo=dal=i=ty
-Ab=na=ki
-Ab=ner
-Ab=ney =lev=el
 ab=ne=gate
 ab=ne=gat=ed
 ab=ne=gat=ing
@@ -194,7 +139,6 @@ ab=nor=mal=ly
 ab=nor=mal=ness
 ab=nor=mi=ty
 ab=o
-Ab=o
 ab=ohm
 ab=os
 ab=o=li=tion
@@ -211,11 +155,9 @@ ab=o=ma=sum
 ab=o=ma=sus
 ab=o=rad
 ab=o=ral
-Ab=o=rig=i=nal
 ab=o=rig=i=nal
 ab=o=rig=i=nal=i=ty
 ab=o=rig=i=nal=ly
-Ab=o=rig=i=ne
 ab=o=rig=i=ne
 ab=ra=ca=dab=ra
 ab=re=act
@@ -231,7 +173,6 @@ ab=rupt
 ab=rupt=ly
 ab=rupt=ness
 ab=rup=tion
-Ab=sa=lom
 ab=scess
 ab=scessed
 ab=scind
@@ -261,7 +202,6 @@ ab=sen=tee
 ab=sen=tee =land=lord
 ab=sen=tee=ism
 ab=sen=ti=a
-Ab=se=con
 ab=sinth
 ab=sinthe
 ab=sinth=ism
@@ -298,7 +238,6 @@ ab=sorp=tiv=i=ty
 ab=sorp=ti=om=e=ter
 ab=sorp=ti=o=met=ric
 ab=sor=be=fa=cient
-Ab=so=lute
 ab=so=lute
 ab=so=lute =al=co=hol
 ab=so=lute =ceil=ing
@@ -366,24 +305,14 @@ ab=surd
 ab=surd=i=ty
 ab=surd=ly
 ab=surd=ness
-Ab=syr=tus
-Ab=u =Dha=bi
-Ab=u =Sim=bel
 ab=volt
 ab=watt
-Ab=ys=sin=i=a
-Ab=ys=sin=i=an
-Ab=ys=sin=i=an =cat
-Ab=y=la
 ace
 ace=y-=deuc=y
 ache
-Ach=e=son
-Ach=il=le=an
 ach=ing
 ach=ing=ly
 ach=la=myd=e=ous
-Ach=med
 ach=o=lu=ric
 ach=o=lu=ri=a
 ach=ro=ite
@@ -395,9 +324,7 @@ ach=ro=mat=i=cal=ly
 ach=ro=ma=tic=i=ty
 ack-=ack
 ack=ee
-Ack=er=ley
 ack=ey
-Ack=ley
 ack=ton
 act
 act =of =con=tri=tion
@@ -413,7 +340,6 @@ ac=a=dem=i=cals
 ac=a=dem=i=cal=ly
 ac=a=dem=i=cism
 ac=a=de=mi=a
-Ac=a=de=mus
 ac=a=rine
 ac=a=ri=a=sis
 ac=a=roid
@@ -422,8 +348,6 @@ ac=a=rol=o=gist
 ac=a=rol=o=gy
 ac=a=ro=pho=bi=a
 ac=a=rus
-Ac=cad
-Ac=ca=di=an
 ac=cede
 ac=ced=ed
 ac=ced=ence
@@ -505,7 +429,6 @@ ac=ci=den=tal=ist
 ac=ci=den=tal=i=ty
 ac=ci=den=tal=ly
 ac=ci=den=tal=ness
-Ac=ci=us
 ac=claim
 ac=claim=er
 ac=clam=a=to=ry
@@ -600,7 +523,6 @@ ac=cou=tre=ment
 ac=co=lade
 ac=co=lad=ed
 ac=co=lat=ed
-Ac=cra
 ac=cra
 ac=cred=it
 ac=cred=it=ment
@@ -612,7 +534,6 @@ ac=cret=ing
 ac=cre=tion
 ac=cre=tion=ar=y
 ac=cre=tive
-Ac=cring=ton
 ac=croach
 ac=croach=ment
 ac=crue
@@ -670,7 +591,6 @@ ac=cu=sa=ti=val
 ac=cu=sa=to=ri=al
 ac=cu=sa=to=ri=al=ly
 ac=cu=sa=to=ry
-Ac=cu=tron
 ac=er=ate
 ac=er=bate
 ac=er=bat=ed
@@ -734,8 +654,6 @@ ac=id=ly
 ac=id=ness
 ac=id=y
 ac=ing
-Ac=i=dal=i=um
-Ac=i=dan=the=ra
 ac=i=de=mi=a
 ac=i=dim=e=ter
 ac=i=dim=e=try
@@ -778,12 +696,10 @@ ac=me
 ac=mes=the=sia
 ac=mic
 ac=mite
-Ac=mon
 ac=ne
 ac=ne=mi=a
 ac=node
 ac=no=dal
-Ac=ol
 ac=ous=ti=cian
 ac=o=asm
 ac=o=cotl
@@ -825,7 +741,6 @@ ac=rid
 ac=rid=ly
 ac=ri=dine
 ac=ri=fla=vine
-Ac=ri=lan
 ac=ri=mo=ni=ous
 ac=ri=mo=ni=ous=ly
 ac=ri=mo=ni=ous=ness
@@ -861,8 +776,6 @@ ac=ro=sto=li=um
 ac=ro=ter
 ac=ro=tism
 ac=ry=lyl
-Ac=ta
-Ac=tae=on
 ac=tin
 ac=tin=ic
 ac=tin=ism
@@ -890,7 +803,6 @@ ac=tion =sta=tions
 ac=tion=a=ble
 ac=tion=a=bly
 ac=tion=less
-Ac=tis
 ac=tive
 ac=tive =du=ty
 ac=tive =list
@@ -935,7 +847,6 @@ ac=ti=no=my=co=sis
 ac=ti=no=ther=a=py
 ac=ti=no=u=ra=ni=um
 ac=ti=no=zo=an
-Ac=ti=um
 ac=ti=vate
 ac=ti=vat=ed
 ac=ti=vat=ed =a=lu=mi=na
@@ -944,12 +855,9 @@ ac=ti=vat=ed =sludge
 ac=ti=vat=ing
 ac=ti=va=tion
 ac=ti=va=tor
-Ac=ton
 ac=ton
-Ac=tor
 ac=tor
 ac=tor-=proof
-Ac=tor=i=dae
 ac=to=my=o=sin
 ac=tress
 ac=tu=al
@@ -1003,25 +911,13 @@ add=ing =ma=chine
 add=i=ble
 adze
 ad=age
-Ad=al=bert
-Ad=am
-Ad=am's =ap=ple
-Ad=am's-=nee=dle
-Ad=am-=and-=Eve
-Ad=ams
-Ad=ams-=Stokes =syn=drome
 ad=ams=ite
-Ad=am=ic
-Ad=am=ite
-Ad=am=it=ic
 ad=ap=ta=tion
 ad=ap=ta=tion=al
 ad=ap=ta=tion=al=ly
 ad=ax=i=al
-Ad=a=ma
 ad=a=mant
 ad=a=man=tine
-Ad=dams
 ad=dax
 ad=dend
 ad=den=dum
@@ -1034,14 +930,8 @@ ad=dict=ed
 ad=dict=ed=ness
 ad=dic=tion
 ad=dic=tive
-Ad=die
-Ad=ding=ton
-Ad=dis =Ab=a=ba
 ad=dit=a=ment
 ad=dit=a=men=ta=ry
-Ad=di=son
-Ad=di=son's =dis=ease
-Ad=di=so=ni=an
 ad=di=tion
 ad=di=tion=al
 ad=di=tion=al=ly
@@ -1138,9 +1028,6 @@ ad=i=po=pec=tic
 ad=i=po=pex=ic
 ad=i=po=pex=is
 ad=i=po=pex=i=a
-Ad=i=ron=dack
-Ad=i=ron=dack =Moun=tains
-Ad=i=ron=dacks
 ad=ja=cence
 ad=ja=cent
 ad=ja=cent=ly
@@ -1189,11 +1076,6 @@ ad=ju=tant =bird
 ad=ju=tant =gen=er=al
 ad=ju=tan=cy
 ad=ju=vant
-Ad=lai
-Ad=ler
-Ad=ley
-Ad=le=ri=an
-Ad=mah
 ad=man
 ad=mass
 ad=meas=ure
@@ -1201,8 +1083,6 @@ ad=meas=ured
 ad=meas=ure=ment
 ad=meas=ur=er
 ad=meas=ur=ing
-Ad=me=te
-Ad=me=tus
 ad=min
 ad=min=is=ter
 ad=min=is=trant
@@ -1242,14 +1122,8 @@ ad=mix
 ad=mix=ture
 ad=mi=nic=u=lar
 ad=mi=ral
-Ad=mi=ral
 ad=mi=ral=ship
 ad=mi=ral=ty
-Ad=mi=ral=ty =Board
-Ad=mi=ral=ty =House
-Ad=mi=ral=ty =Is=lands
-Ad=mi=ral=ty =mile
-Ad=mi=ral=ty =Range
 ad=mi=ra=bil=i=ty
 ad=mi=ra=ble
 ad=mi=ra=ble=ness
@@ -1266,24 +1140,14 @@ ad=mon=i=to=ri=al
 ad=mon=i=to=ri=ly
 ad=mon=i=to=ry
 ad=mo=ni=tion
-Ad=nah
-Ad=nan
 ad=nate
 ad=na=tion
 ad=nom=i=nal
 ad=noun
-Ad=olf
-Ad=olph
-Ad=olphe
 ad=o=les=cence
 ad=o=les=cent
 ad=o=les=cent=ly
-Ad=o=nai
-Ad=o=na=is
-Ad=o=ni=as
-Ad=o=ni=jah
 ad=o=ra=tion
-Ad=ras=te=a
 ad=ren=er=gic
 ad=res
 ad=re=nal
@@ -1324,8 +1188,6 @@ ad=u=la=res=cent
 ad=u=la=tion
 ad=u=la=tor
 ad=u=la=to=ry
-Ad=u=rol
-Ad=vai=ta
 ad=vance
 ad=vance =guard
 ad=vance =poll
@@ -1343,11 +1205,7 @@ ad=van=ta=geous=ly
 ad=van=ta=geous=ness
 ad=vec=tion
 ad=vec=tive
-Ad=vent
 ad=vent
-Ad=vent =Sun=day
-Ad=vent=ism
-Ad=vent=ist
 ad=ven=tive
 ad=ven=tive=ly
 ad=ven=ti=tial
@@ -1423,7 +1281,6 @@ ad=voc=a=to=ry
 ad=vow=son
 ad=vo=caat
 ad=vo=cate
-Ad=vo=cate =De=pute
 ad=vo=cat=ed
 ad=vo=cat=ing
 ad=vo=ca=cy
@@ -1433,10 +1290,6 @@ ad=y=nam=ic
 ad=y=na=mi=a
 ad=y=tum
 ad=zu=ki =bean
-Aech=mag=o=ras
-Aeg=le
-Ael=bert
-Ael=fric
 aeron
 aer=ate
 aer=at=ed
@@ -1447,7 +1300,6 @@ aer=en=chy=ma
 aer=ie
 aer=ies
 aer=if=er=ous
-Aer=i=a
 aer=i=al
 aer=i=al =lad=der
 aer=i=al =per=spec=tive
@@ -1467,7 +1319,6 @@ aer=obe
 aer=og=e=nous
 aer=og=ra=pher
 aer=og=ra=phy
-Aer=ol
 aer=ol=o=gist
 aer=ol=o=gy
 aer=om=e=ter
@@ -1580,11 +1431,6 @@ aer=o=ther=mo=dy=nam=ics
 aer=o=tow
 aer=o=trop=ic
 aer=y
-Aes=chi=nes
-Aes=chy=le=an
-Aes=chy=lus
-Aes=cu=la=pi=an
-Aes=cu=la=pi=us
 aes=cu=lin
 aes=thete
 aes=thet=ic
@@ -1604,11 +1450,6 @@ aes=ti=va=tion
 aes=ti=va=tor
 aet
 aetat
-Aeth=el=bert
-Aet=na
-Ae=ac=i=des
-Ae=ae=a
-Ae=a=cus
 ae=cid=i=a
 ae=cid=i=um
 ae=ci=a
@@ -1620,88 +1461,34 @@ ae=de=a=gus
 ae=dic=u=la
 ae=dile
 ae=dile=ship
-Ae=dil=berct
 ae=dil=i=tian
 ae=di=cule
 ae=doe=a=gus
-Ae=e=tes
-Ae=gae=on
-Ae=ga=tes
-Ae=ges=ta
-Ae=ge=an
-Ae=ge=an =Is=lands
-Ae=ge=an =Sea
-Ae=ge=ri=a
-Ae=ge=us
-Ae=gim=i=us
-Ae=gir
 ae=gir=ine
 ae=gir=ite
 ae=gis
-Ae=gis=thus
-Ae=gi=a
-Ae=gi=a=le
-Ae=gi=a=leus
-Ae=gi=a=li=a
-Ae=gi=co=res
-Ae=gi=na
-Ae=gi=nae=a
-Ae=gi=ne=tan
-Ae=gi=o=chus
-Ae=gi=pan
-Ae=gi=um
-Ae=gos=pot=a=mi
 ae=gro=tat
-Ae=gyp=tus
-Ae=ne=as
-Ae=ne=as =Sil=vi=us
-Ae=ne=id
-Ae=ni=us
-Ae=ol=ic
 ae=ol=i=pile
 ae=ol=i=pyle
 ae=on
-Ae=o=lis
-Ae=o=li=a
-Ae=o=li=an
 ae=o=li=an =harp
-Ae=o=li=an =Is=lands
-Ae=o=li=des
 ae=o=lot=ro=py
 ae=o=lo=trop=ic
-Ae=o=lus
 ae=o=ni=an
-Ae=py=or=nis
 ae=py=or=nis
-Ae=py=tus
 ae=rar=i=a
 ae=rar=i=an
 ae=rar=i=um
 ae=ron=o=my
 ae=ru=gi=nous
 ae=ru=go
-Ae=sa=cus
-Ae=se=pus
-Ae=sir
-Ae=sop
-Ae=so=pi=an
-Ae=sta=tis
-Ae=sy=e=tes
-Ae=thal=i=des
 ae=ther
 ae=the=re=al
-Ae=the=ri=a
 ae=thon
-Ae=thra
-Ae=thyl=la
 ae=ti=ol=o=gist
 ae=ti=ol=o=gy
 ae=ti=o=log=i=cal
 ae=ti=o=log=i=cal=ly
-Ae=to=li=a
-Ae=to=li=an
-Ae=to=lus
-Ae=ë=tes
 aff
 aft
 aft=most
@@ -1810,50 +1597,12 @@ af=fron=tive
 af=fron=tive=ness
 af=fu=sion
 af=ghan
-Af=ghan
-Af=ghan =hound
 af=ghan=ets
-Af=ghan=i
 af=ghan=i
-Af=ghan=i=stan
 af=la=tox=in
-Af=ra=mer=i=can
-Af=ra=sia
-Af=ra=sian
 af=reet
-Af=ric
 af=rit
-Af=ri=ca
-Af=ri=can
-Af=ri=can =lil=y
-Af=ri=can =ma=hog=a=ny
-Af=ri=can =vi=o=let
-Af=ri=can=der
-Af=ri=can=der=ism
-Af=ri=can=ise
-Af=ri=can=ism
-Af=ri=can=ist
-Af=ri=can=ize
-Af=ri=can=ized
-Af=ri=can=iz=ing
-Af=ri=can=i=za=tion
-Af=ri=can=thro=pus
-Af=ri=kaans
-Af=ri=kan=der
-Af=ri=kan=der=ism
-Af=ri=ka=ner
-Af=ri=ka=ner=dom
-Af=ri=ka=ner=ise
-Af=ri=ka=ner=ize
-Af=ro
-Af=ro-=A=mer=i=can
-Af=ro-=A=sian
-Af=ro-=A=si=at=ic
-Af=ro-=chain
-Af=ro-=comb
-Af=ro-=Cu=ban
 af=ror=mo=si=a
-Af=ro=a=si=at=ic
 af=ter
 af=ter-=din=ner
 af=ters
@@ -1902,7 +1651,6 @@ agcy
 age
 age =har=den=ing
 age =of =con=sent
-Age =of =Rea=son
 age-=old
 age=ing
 age=less
@@ -1910,11 +1658,9 @@ age=less=ness
 age=long
 agr
 agric
-Agri=gento
 agt
 ag=al=mat=o=lite
 ag=al=wood
-Ag=as=siz
 ag=ate
 ag=ate =line
 ag=ate=like
@@ -1922,43 +1668,25 @@ ag=ate=ware
 ag=at=ize
 ag=at=ized
 ag=at=iz=ing
-Ag=a=bus
-Ag=a=cles
 ag=a=lite
 ag=a=ma
-Ag=a=mem=non
-Ag=a=me=de
-Ag=a=me=des
 ag=a=mid
 ag=a=mous
 ag=a=mo=gen=e=sis
 ag=a=mo=ge=net=ic
 ag=a=mo=ge=net=i=cal=ly
 ag=a=my
-Ag=a=nip=pe
-Ag=a=nus
 ag=a=pan=thus
 ag=a=pan=thus=es
 ag=a=ric
 ag=a=ri=ta
 ag=a=ta
-Ag=a=tha
-Ag=a=thar=chi=des
-Ag=a=tho
-Ag=a=thon
-Ag=a=thyr=sus
 ag=a=toid
 ag=ba
 ag=er=a=tum
-Ag=e=la=us
-Ag=gad=ic
 ag=gad=ic
-Ag=ga=da
-Ag=ga=dah
 ag=ger
-Ag=ge=us
 ag=gie
-Ag=gie
 ag=gior=na=men=to
 ag=glom=er=ate
 ag=glom=er=at=ed
@@ -2023,7 +1751,6 @@ ag=ile
 ag=ile=ly
 ag=ile=ness
 ag=ing
-Ag=in=court
 ag=io=tage
 ag=it=prop
 ag=it=prop=ist
@@ -2048,14 +1775,10 @@ ag=nail
 ag=nate
 ag=nat=ic
 ag=nat=i=cal=ly
-Ag=na=tha
 ag=na=thous
 ag=na=tion
 ag=neaux
 ag=nel
-Ag=nes
-Ag=new
-Ag=ni
 ag=nize
 ag=nized
 ag=niz=ing
@@ -2067,9 +1790,7 @@ ag=nos=ti=cal=ly
 ag=nos=ti=cism
 ag=no=men
 ag=no=sia
-Ag=nus =De=i
 ag=on
-Ag=on
 ag=o=nal
 ag=o=nise
 ag=o=nised
@@ -2087,11 +1808,8 @@ ag=o=ny
 ag=o=ny =col=umn
 ag=o=ra
 ag=o=rae
-Ag=o=rae=a
-Ag=o=rae=us
 ag=o=ra=pho=bi=a
 ag=ra=pha
-Ag=rip=pi=na
 ag=ri=busi=ness
 ag=ri=cul=ture
 ag=ri=cul=tur=al
@@ -2149,7 +1867,6 @@ air =host=ess
 air =jack=et
 air =let=ter
 air =mar=shal
-Air =Of=fic=er
 air =pock=et
 air =pow=er
 air =ri=fle
@@ -2170,7 +1887,6 @@ air-=sea =res=cue
 air-=to-=sur=face
 air-=traf=fic =con=trol
 air-=twist=ed
-Aire=dale
 airs
 airt
 airth
@@ -2191,7 +1907,6 @@ air=crafts=wom=en
 air=craft=man
 air=crew
 air=crew=man
-Air=drie
 air=dried
 air=drome
 air=drop
@@ -2246,27 +1961,19 @@ air=wom=an
 air=wom=en
 air=wor=thi=ness
 air=wor=thy
-Air=y
 air=y
 air=y-=fair=y
 aisle
 ait
 aitch
 aitch=bone
-Ait=ken
-Aix-=en-=Pro=vence
-Aix-=la-=Cha=pelle
 ai=blins
-Ai=dan
-Ai=din
-Ai=dos
 ai=glet
 ai=gret
 ai=grette
 ai=guille
 ai=guil=lette
 ai=guil=let=ted
-Ai=ken
 ai=kid=o
 ai=ki=do
 ai=ko=na
@@ -2274,7 +1981,6 @@ ai=ku=chi
 ai=lan=thic
 ai=lan=thus
 ai=lan=thus=es
-Ai=leen
 ai=ler=on
 ai=lette
 ai=lu=ro=phile
@@ -2284,60 +1990,22 @@ ai=lu=ro=phobe
 ai=lu=ro=pho=bic
 ai=lu=ro=pho=bi=a
 ai=mak
-Ai=mee
-Ai=nu
-Aj=mer
-Aj=mer-=Mer=wa=ra
 ake
-Ake=ley
 ake=ton
-Akh=e=ta=ton
-Akh=ma=to=va
-Akh=na=ton
-Ak=a=ba
-Ak=bar
 ak=ee
 ak=e=bi
-Ak=he=na=ten
-Ak=he=na=ton
-Ak=hi=sar
 ak=ing
-Ak=i=hi=to
 ak=i=nete
-Ak=kad
-Ak=ka=di=an
-Ak=ker=man
-Ak=kra
-Ak=mo=linsk
-Ak=ron
 ak=ro=ter
 ak=ro=te=ri=a
 ak=ro=te=ri=on
-Ak=sum
-Ak=tyu=binsk
 ak=va=vit
-Ak=yab
 al =den=te
-Al =Fai=y
-Al =Fat=ah
-Al =Ha=sa
-Al =Ho=fuf
-Al =Hu=fuf
-Al =Man=su=rah
-Al =Man=s=rah
-Al =Ma=di=nah
-Al =Si=rat
 al-=Fus=tat
-Al-=Ga=zel
-Al-=Is=kan=da=rî=yah
 al-=Sa=hih
 al-=Uz=za
 ala=bastron
 alb
-Alc=mae=on
-Alc=man
-Alc=ma=on
-Alc=me=ne
 ald=ox=ime
 ale
 ale=cost
@@ -2346,15 +2014,12 @@ ale=hous=es
 ale=wife
 ale=yard
 alfa
-Alf=heim
 alg
 alias
 alk
-Alk=maar
 alk=ox=ide
 all
 all'ot=ta=va
-all-=A=mer=i=can
 all-=a=round
 all-=em=brac=ing
 all-=ex=pense
@@ -2369,9 +2034,6 @@ all-=pow=er=ful
 all-=pur=pose
 all-=round=er
 all-=weath=er
-All=hal=lows
-All=hal=low=mas
-All=hal=low=tide
 all=heal
 all=mouth
 all=ness
@@ -2379,8 +2041,6 @@ all=ov=er
 all=round
 all=seed
 all=spice
-All=ston
-All=var
 all=you
 alms
 alms=giv=er
@@ -2393,28 +2053,14 @@ alms=wom=en
 alm=er=ies
 alm=er=y
 alp
-Alpes =Ma=ri=times
-Alpes-=de-=Haute-=Pro=vence
-Alpes-=Ma=ri=times
 alpha=numeric
 alp=horn
 alt
 alt=az=i=muth
-Alt=dorf
-Alt=dor=fer
-Alt=geld
 alt=horn
 alum
-Al=al=co=me=neus
-Al=an
-Al=an-=a-=dale
-Al=an=brooke
-Al=as=tair
-Al=as=ter
 al=as=trim
-Al=a=bam=a
 al=a=bam=ine
-Al=a=bam=i=an
 al=a=ban=dite
 al=a=bas=ter
 al=a=bas=toi
@@ -2423,82 +2069,34 @@ al=a=bas=tra
 al=a=bas=trine
 al=a=bas=tron
 al=a=bas=trum
-Al=a=man=ni
-Al=a=man=nic
-Al=a=mein
-Al=a=me=da
 al=a=me=da
 al=a=mi=qui
-Al=a=mo
 al=a=mo
 al=a=mode
-Al=a=mo=gor=do
-Al=a=mo=sa
 al=a=nine
-Al=a=ric
 al=ba
-Al=ba
-Al=ba =Lon=ga
-Al=ban
 al=bar=i=um
-Al=bay
-Al=ba=ce=te
 al=ba=core
-Al=ba=my=cin
-Al=ba=ne=se
-Al=ba=ni=a
-Al=ba=ni=an
-Al=ba=ny
 al=ba=rel=li
 al=ba=rel=lo
 al=ba=rel=los
 al=ba=ta
-Al=ba=teg=ni=us
 al=ba=tross
-Al=bee
-Al=ben
-Al=bert
 al=bert
-Al=bert =Ed=ward
-Al=bert =I
 al=bert=ite
-Al=bert=ville
 al=ber=go
-Al=ber=ich
-Al=ber=ta
-Al=ber=ti
-Al=ber=tine
-Al=ber=tist
-Al=ber=ti=na
-Al=ber=to
-Al=ber=tus =Mag=nus
 al=ber=type
 al=bes=cence
 al=bes=cent
 al=be=do
 al=be=dom=e=ter
 al=be=it
-Al=be=marle
-Al=be=marle =Sound
-Al=be=ro=ni
-Al=bi
-Al=bin
 al=bin=ic
 al=bite
 al=bit=ic
-Al=bi=a
-Al=bi=gen=ses
-Al=bi=gen=si=an
-Al=bi=gen=si=an=ism
-Al=bi=na
 al=bi=nism
 al=bi=nis=tic
 al=bi=no
-Al=bi=no=ni
-Al=bi=nus
-Al=bi=on
-Al=boin
-Al=brecht
 al=bronze
 al=bum
 al=bur=nous
@@ -2528,32 +2126,17 @@ al=bu=mi=nous
 al=bu=mi=nu=ric
 al=bu=mi=nu=ri=a
 al=bu=mose
-Al=bu=na
-Al=bu=ne=a
-Al=bu=quer=que
-Al=bu=ry
-Al=b=niz
 al=cade
-Al=cae=us
 al=caide
 al=cai=de
 al=cal=de
-Al=can =High=way
-Al=can=dre
 al=cap=ton
 al=cap=ton=u=ri=a
-Al=cath=o=us
 al=cay=de
 al=cay=des
 al=ca=hest
-Al=ca=ic
-Al=ca=ids
 al=ca=lig=e=nes
-Al=ca=traz
-Al=ca=zar
 al=ca=zar
-Al=ceste
-Al=ces=tis
 al=chem=ic
 al=chem=i=cal=ly
 al=che=mise
@@ -2565,29 +2148,13 @@ al=che=mized
 al=che=miz=ing
 al=che=my
 al=che=rin=ga
-Al=chuine
 al=cid
-Al=cid=i=ce
-Al=cim=e=de
-Al=cim=e=don
-Al=cin=o=us
-Al=cis
-Al=ci=bi=a=des
-Al=ci=bi=a=de=an
-Al=ci=des
 al=ci=dine
-Al=ci=me=des
 al=clad
-Al=cock
-Al=con
-Al=cor
-Al=cott
 al=cove
-Al=co=a
 al=co=hol
 al=co=hol=ate
 al=co=hol=ic
-Al=co=hol=ics =A=non=y=mous
 al=co=hol=ic=i=ty
 al=co=hol=ise
 al=co=hol=ised
@@ -2603,20 +2170,8 @@ al=co=hol=om=e=try
 al=co=hol=o=met=ric
 al=co=hol=yt=ic
 al=co=hol=y=sis
-Al=co=ran
-Al=co=ran=ic
-Al=co=ran=ist
-Al=cuin
 al=cy=o=nar=i=an
-Al=cy=o=ne
-Al=cy=o=neus
-Al=da
-Al=dab=ra
-Al=dan
-Al=deb=a=ran
-Al=den
 al=der
-Al=der
 al=der =buck=thorn
 al=der =fly
 al=der=fly
@@ -2625,94 +2180,35 @@ al=der=man=cy
 al=der=man=ic
 al=der=man=ry
 al=der=man=ship
-Al=der=mas=ton
-Al=der=ney
-Al=der=shot
 al=de=hyde
 al=de=hy=dic
-Al=dine
-Al=ding=ton
-Al=dis
-Al=dis =lamp
-Al=do
 al=dol
 al=dose
 al=dos=te=rone
-Al=dous
 al=do=hex=ose
 al=do=ste=rone
-Al=drich
-Al=dridge-=Brown=hills
 al=drin
-Al=dus
-Al=dus =Ma=nu=ti=us
-Al=ec
 al=ec
-Al=eck
 al=eck
-Al=es=san=dra
-Al=es=san=dro
-Al=eut
 al=eu=ron
 al=eu=rone
 al=eu=ron=ic
-Al=ex
-Al=ex=an=der
 al=ex=an=der
-Al=ex=an=der =Ar=chi=pel=a=go
-Al=ex=an=der =I
-Al=ex=an=der =I =Is=land
-Al=ex=an=der =II
-Al=ex=an=der =III
-Al=ex=an=der =Nev=ski
-Al=ex=an=der =the =Great
-Al=ex=an=der =VI
 al=ex=an=ders
-Al=ex=an=der=son
-Al=ex=an=dra
-Al=ex=an=dret=ta
-Al=ex=an=drine
 al=ex=an=drite
-Al=ex=an=dri=a
-Al=ex=an=dri=an
-Al=ex=an=dri=nus
 al=ex=in=ic
 al=e=gar
-Al=e=khine
-Al=e=man=ni
-Al=e=man=nic
-Al=e=the=a
-Al=e=thi=a
 al=e=vin
 al=fal=fa
-Al=fa=dir
-Al=fa=ra=bi=us
-Al=fe=o
-Al=fie
-Al=fie=ri
 al=fil=a=ri=a
 al=fil=e=ri=a
-Al=fon=so
-Al=fon=so =XIII
-Al=fon=son
 al=for=ja
-Al=fra=ga=nus
-Al=fred
-Al=fred =the =Great
 al=fres=co
-Al=fre=da
-Al=fre=do
-Al=fric
-Al=fur
 al=ga
 al=gae
 al=gal
-Al=gar
 al=gar=ro=ba
-Al=ga=lene
 al=ga=ro=ba
-Al=ger
-Al=ger=non
 al=get=ic
 al=ge=bra
 al=ge=bra=ic
@@ -2720,11 +2216,7 @@ al=ge=bra=ic =num=ber
 al=ge=bra=ist
 al=ge=bra=i=cal
 al=ge=bra=i=cal=ly
-Al=ge=ci=ras
-Al=ge=rine
 al=ge=rine
-Al=ge=ri=a
-Al=ge=ri=an
 al=ge=ri=enne
 al=ge=ri=ta
 al=ge=sic
@@ -2732,38 +2224,26 @@ al=ge=sim=e=ter
 al=ge=si=a
 al=ge=si=om=e=ter
 al=ge=si=re=cep=tor
-Al=ghe=ro
 al=gid
 al=gid=i=ty
 al=gid=ness
-Al=giers
 al=gin
 al=gin=ic =ac=id
 al=gi=cide
 al=gi=nate
 al=goid
-Al=gol
 al=gol=o=gist
 al=gol=o=gy
 al=gom=e=ter
 al=gom=e=try
-Al=gon=kin
-Al=gon=ki=an
-Al=gon=quin
-Al=gon=quin =Park
-Al=gon=qui=an
 al=goph=a=gous
 al=gor
 al=go=lag=nic
 al=go=lag=nist
 al=go=lag=ni=a
 al=go=log=i=cal
-Al=go=ma
-Al=go=man
 al=go=met=ric
 al=go=met=ri=cal=ly
-Al=go=na
-Al=go=nac
 al=go=pho=bi=a
 al=go=rism
 al=go=ris=mic
@@ -2771,17 +2251,7 @@ al=go=rithm
 al=go=rith=mic
 al=graph=ic
 al=gra=phy
-Al=gren
 al=gum
-Al=gy
-Al=ham=bra
-Al=ham=bresque
-Al=ha=zen
-Al=ice
-Al=ice =Springs
-Al=ice-=in-=Won=der=land
-Al=ice=ville
-Al=ick
 al=ien
 al=ien=age
 al=ien=ate
@@ -2798,11 +2268,9 @@ al=ien=ist
 al=ien=or
 al=ip=te=ri=a
 al=ip=te=ri=on
-Al=is=ter
 al=i=bi
 al=i=bil=i=ty
 al=i=ble
-Al=i=can=te
 al=i=cy=clic
 al=i=dad
 al=i=dade
@@ -2818,13 +2286,10 @@ al=i=men=ta=tive=ly
 al=i=men=ta=tive=ness
 al=i=mo=nied
 al=i=mo=ny
-Al=i=oth
 al=i=ped
 al=i=phat=ic
 al=i=quant
-Al=i=quip=pa
 al=i=quot
-Al=i=son
 al=kal=ic
 al=kane
 al=kane=thi=ol
@@ -2881,7 +2346,6 @@ al=ker=mes
 al=ke=ken=gi
 al=kie
 al=kine
-Al=ko=ran
 al=ky
 al=kyd =res=in
 al=kyl
@@ -2889,13 +2353,8 @@ al=kyl=a=tion
 al=kyl=ic
 al=kyne
 al=l'an=ti=ca
-Al=la
 al=la =bre=ve
 al=la =pri=ma
-Al=lah
-Al=lah=a=bad
-Al=lan
-Al=lan-=a-=Dale
 al=lan=ite
 al=lan=toid
 al=lan=toi=dal
@@ -2918,12 +2377,6 @@ al=leg=ing
 al=lele
 al=lel=ic
 al=lel=ism
-Al=len
-Al=len=by
-Al=len=dale
-Al=len=de
-Al=len=town
-Al=lep=pey
 al=ler=gen
 al=ler=gen=ic
 al=ler=gen=ic=i=ty
@@ -2935,13 +2388,7 @@ al=ley =cat
 al=ley=fired=est
 al=ley=way
 al=le=cret
-Al=le=gan
 al=le=ga=tion
-Al=le=gha=ni=an
-Al=le=ghe=nies
-Al=le=ghe=ni=an
-Al=le=ghe=ny
-Al=le=ghe=ny =Moun=tains
 al=le=giance
 al=le=giant
 al=le=gor=ic
@@ -2960,9 +2407,7 @@ al=le=go=rized
 al=le=go=riz=er
 al=le=go=riz=ing
 al=le=go=ry
-Al=le=gra
 al=le=gret=to
-Al=le=gro
 al=le=gro
 al=le=lo=morph
 al=le=lo=mor=phic
@@ -2981,9 +2426,6 @@ al=le=vi=a=tive
 al=le=vi=a=tor
 al=le=vi=a=to=ry
 al=lied
-Al=lied
-Al=lier
-Al=lies
 al=lies
 al=lit=er=ate
 al=lit=er=at=ed
@@ -2993,7 +2435,6 @@ al=lit=er=a=tive
 al=lit=er=a=tive=ly
 al=lit=er=a=tive=ness
 al=lit=er=a=tor
-Al=li=ance
 al=li=ance
 al=li=a=ble
 al=li=a=ceous
@@ -3006,7 +2447,6 @@ al=li=ga=tor =pep=per
 al=li=ga=tor=fish
 al=li=ga=tor=fish=es
 al=li=sion
-Al=li=son
 al=li=um
 al=loch=thon
 al=loch=tho=nous
@@ -3047,7 +2487,6 @@ al=low=a=bly
 al=low=ed=ly
 al=loy
 al=loyed =junc=tion
-Al=lo=a
 al=lo=bar=ic
 al=lo=cate
 al=lo=cat=ed
@@ -3094,7 +2533,6 @@ al=lo=trop=i=cal=ly
 al=lo=tro=pic=i=ty
 al=lo=type
 al=lo=typ=ic
-Al=lo=way
 al=lude
 al=lud=ed
 al=lud=ing
@@ -3119,13 +2557,10 @@ al=mah
 al=man=dine
 al=man=dite
 al=ma=can=tar
-Al=mer=ic
 al=might=i=ly
 al=might=i=ness
 al=might=y
-Al=might=y
 al=mi=que
-Al=mi=ra
 al=mi=rah
 al=mond
 al=mond-=eyed
@@ -3136,36 +2571,23 @@ al=mon=er
 al=mon=ry
 al=most
 al=mous
-Al=mo=had
-Al=mo=hade
-Al=mo=ra=vid
-Al=mo=ra=vide
 al=muce
 al=mug
 al=mu=can=tar
-Al=ni=co
 al=oe
 al=oes
 al=oes=wood
-Al=or=ton
 al=o=et=ic
 al=o=in
-Al=o=i=dae
-Al=o=pe
 al=o=pe=cic
 al=o=pe=ci=a
-Al=o=y=sius
 al=pac=a
 al=pen=glow
 al=pen=horn
 al=pen=stock
 al=pes=trine
-Al=pet=ra=gi=us
-Al=pe=na
 al=pha
-Al=pha
 al=pha =and =o=me=ga
-Al=pha =Cen=tau=ri
 al=pha =i=ron
 al=pha =par=ti=cle
 al=pha =priv=a=tive
@@ -3174,7 +2596,6 @@ al=pha =rhythm
 al=pha-=hy=poph=a=mine
 al=pha-=naph=thol
 al=pha-=naph=thyl=thi=o=u=re=a
-Al=phae=a
 al=pha=bet
 al=pha=bet=ic
 al=pha=bet=ise
@@ -3194,49 +2615,22 @@ al=pha=mer=i=cal=ly
 al=pha=nu=mer=ic
 al=pha=nu=mer=i=cal
 al=pha=nu=mer=i=cal=ly
-Al=phe=si=boe=a
-Al=phe=us
 al=phit=o=man=cy
-Al=phons
-Al=phonse
-Al=phon=so
-Al=phon=sus
 al=pho=sis
 al=pine
-Al=pine
 al=pine=ly
 al=pin=ism
 al=pin=ist
-Al=pin=ist
 al=read=y
 al=right
-Al=sace
-Al=sace-=Lorrain=er
-Al=sace-=Lor=raine
-Al=sa=tia
-Al=sa=tian
 al=sike
-Al=sip
 al=si=na=ceous
 al=so
 al=so-=ran
-Al=son
-Al=ston
-Al=ta
-Al=tai
-Al=tai =Moun=tains
-Al=tair
 al=tar
 al=tar =boy
 al=tar=age
 al=tar=piece
-Al=tay
-Al=ta=de=na
-Al=ta=ian
-Al=ta=ic
-Al=ta=ir
-Al=ta=mi=ra
-Al=ta=vis=ta
 al=ter
 al=ter =e=go
 al=tered =chord
@@ -3269,13 +2663,8 @@ al=ter=na=tive=ly
 al=ter=na=tive=ness
 al=ter=na=tiv=i=ty
 al=ter=na=tor
-Al=tes
-Al=thae=a
 al=thae=a
-Al=thae=me=nes
 al=the=a
-Al=the=a
-Al=thing
 al=tho
 al=though
 al=ti-=ri=lie=vi
@@ -3285,7 +2674,6 @@ al=tis=si=mo
 al=ti=graph
 al=ti=met=ri=cal
 al=ti=met=tri=cal=ly
-Al=ti=pla=no
 al=ti=tude
 al=ti=tu=di=nal
 al=to
@@ -3293,20 +2681,14 @@ al=to =clef
 al=to =horn
 al=to-=re=lie=vo
 al=to-=ri=lie=vo
-Al=ton
-Al=too=na
 al=to=cu=mu=lus
 al=to=geth=er
-Al=to=na
 al=to=stra=tus
-Al=trin=cham
 al=tri=cial
 al=tru=ism
 al=tru=ist
 al=tru=is=tic
 al=tru=is=ti=cal=ly
-Al=tus
-Al=tu=ras
 al=um
 al=um=root
 al=ure
@@ -3317,12 +2699,6 @@ al=u=min=ic
 al=u=min=i=um
 al=u=nite
 al=u=ta=ceous
-Al=va
-Al=vah
-Al=van
-Al=var
-Al=va=ra=do
-Al=va=ro
 al=ve=at=ed
 al=ve=o=la
 al=ve=o=lar
@@ -3331,57 +2707,32 @@ al=ve=o=late
 al=ve=o=lat=ed
 al=ve=o=la=tion
 al=ve=o=lus
-Al=ve=ra
-Al=vin
 al=vine
-Al=vis
-Al=vi=na
-Al=vi=no
-Al=vi=ra
 al=way
 al=ways
-Al=win
 al=wite
-Al=wyn
-Al=yce
-Al=ys
-Al=y=at=tes
-Al=y=son
 ambs=ace
 ames=ace
-Ames=bur=y
 amn't
 amp
 amt
 amu
-Am=al=thae=a
-Am=al=the=a
 am=au=rot=ic
 am=au=ro=sis
-Am=a=belle
-Am=a=bel=la
 am=a=da=vat
-Am=a=de=o
-Am=a=dis
 am=a=dou
-Am=a=lek
-Am=a=lek=ite
 am=a=ni=ta
 am=a=ranth
 am=a=ran=tha=ceous
 am=a=ran=thine
 am=a=relle
-Am=a=ril=lo
 am=a=ryl=lis
-Am=a=ryl=lis
 am=a=ryl=li=da=ceous
-Am=a=si=as
 am=a=teur
 am=a=teur=ish
 am=a=teur=ish=ly
 am=a=teur=ish=ness
 am=a=teur=ism
-Am=a=thi
 am=a=tive
 am=a=tive=ly
 am=a=tive=ness
@@ -3391,14 +2742,9 @@ am=a=to=ri=al
 am=a=to=ri=al=ly
 am=a=to=ry
 am=a=tun=gu=la
-Am=a=zi=ah
 am=a=zon
-Am=a=zon
 am=a=zon =ant
 am=a=zon=ite
-Am=a=zon=o=mach=i=a
-Am=a=zo=nis
-Am=a=zo=ni=an
 am=ba
 am=bage
 am=bas=sa=dor
@@ -3413,18 +2759,15 @@ am=ba=ges
 am=ba=gious
 am=ba=gious=ly
 am=ba=gious=ness
-Am=ba=la
 am=ba=rel=la
 am=ba=ri
 am=ba=ry
-Am=bed=kar
 am=ber
 am=ber=fish
 am=ber=fish=es
 am=ber=gris
 am=ber=i=na
 am=ber=jack
-Am=ber=ley
 am=ber=like
 am=ber=oid
 am=ber=ous
@@ -3467,7 +2810,6 @@ am=bi=vert
 am=bi=ver=sion
 am=ble
 am=bler
-Am=bler
 am=bling=ly
 am=blyg=o=nite
 am=bly=op=ic
@@ -3475,24 +2817,17 @@ am=bly=o=pi=a
 am=bly=o=scope
 am=bly=pod
 am=bo
-Am=boise
-Am=boi=na
 am=boi=na
-Am=bon
 am=bon
 am=boy=na
 am=bo=cep=tor
 am=bo=nes
 am=bret=to=lide
 am=broid
-Am=broise
-Am=brose
-Am=bro=gio
 am=bro=sia
 am=bro=sial
 am=bro=sial=ly
 am=bro=sian
-Am=bro=sio
 am=bro=si=a
 am=bro=si=a =bee=tle
 am=bro=si=a=ceous
@@ -3520,16 +2855,9 @@ am=bu=lat=ing
 am=bu=la=tion
 am=bu=la=tor
 am=bu=la=to=ry
-Am=chit=ka
 am=ent
-Am=en=hot=pe =IV
-Am=en=ho=tep =IV
 am=en=ta=ceous
 am=en=tif=er=ous
-Am=er=ind
-Am=er=in=dian
-Am=er=in=dic
-Am=er=in=di=an
 am=er=ism
 am=er=is=tic
 am=er=i=ci=um
@@ -3540,10 +2868,6 @@ am=e=thyst=like
 am=e=thys=tine
 am=e=trop=ic
 am=e=tro=pi=a
-Am=for=tas
-Am=har=ic
-Am=ha=ra
-Am=herst
 am=ic
 am=ice
 am=ide
@@ -3563,9 +2887,6 @@ am=i=da=tion
 am=i=din
 am=i=dine
 am=i=dol
-Am=i=dol
-Am=i=ens
-Am=i=gen
 am=i=nase
 am=i=nate
 am=i=nat=ed
@@ -3576,22 +2897,12 @@ am=i=tate
 am=i=tot=ic
 am=i=tot=i=cal=ly
 am=i=to=sis
-Am=i=ty
 am=i=ty
-Am=i=ty=ville
-Am=man
-Am=ma=na=ti
 am=me=ter
 am=mine
 am=mi=a=ceous
-Am=mi=a=nus
-Am=mi=sad=dai
-Am=mi=shad=dai
 am=mo
-Am=mon
 am=mon=ic
-Am=mon=ite
-Am=mon=it=ish
 am=mon=i=cal
 am=mon=i=fied
 am=mon=i=fi=ca=tion
@@ -3605,7 +2916,6 @@ am=mo=nal
 am=mo=nate
 am=mo=nia
 am=mo=nite
-Am=mo=nites
 am=mo=nit=ic
 am=mo=ni=a
 am=mo=ni=a =so=lu=tion
@@ -3660,9 +2970,6 @@ am=or=tiz=ing
 am=or=ti=sa=tion
 am=or=ti=za=tion
 am=o=bar=bi=tal
-Am=o=ret
-Am=o=rette
-Am=o=ret=ti
 am=o=ret=ti
 am=o=ret=to
 am=o=rist
@@ -3673,7 +2980,6 @@ am=o=rous=ly
 am=o=rous=ness
 am=o=ro=so
 am=o=site
-Am=p
 am=pere
 am=pere-=hour
 am=pere-=turn
@@ -3683,11 +2989,9 @@ am=per=sand
 am=pe=lite
 am=pe=lit=ic
 am=pe=lop=sis
-Am=pe=los
 am=pher=ot=o=kous
 am=phet=a=mine
 am=phe=rot=o=ky
-Am=phib=i=a
 am=phib=i=an
 am=phib=i=ous
 am=phib=i=ous=ly
@@ -3699,18 +3003,11 @@ am=phib=o=log=i=cal=ly
 am=phib=o=lous
 am=phib=o=ly
 am=phic=ty=on
-Am=phic=ty=on
 am=phic=ty=on=ic
 am=phic=ty=o=ny
-Am=phid=a=mas
 am=phig=e=nous
 am=phig=e=nous=ly
-Am=phil=o=chus
 am=phim=a=cer
-Am=phim=a=chus
-Am=phim=a=rus
-Am=phin=o=me
-Am=phin=o=mus
 am=phip=ro=style
 am=phip=ro=sty=lar
 am=phis=bae=na
@@ -3721,9 +3018,6 @@ am=phis=bae=noid
 am=phis=bae=nous
 am=phis=ci=ans
 am=phis=ci=i
-Am=phis=sa
-Am=phis=sus
-Am=phith=e=mis
 am=phit=o=kal
 am=phit=o=kous
 am=phit=o=ky
@@ -3731,12 +3025,9 @@ am=phit=ri=cha
 am=phit=ri=chate
 am=phit=ri=chous
 am=phit=ro=pous
-Am=phit=ru=o
-Am=phit=ry=on
 am=phi=ar=thro=di=al
 am=phi=ar=thro=sis
 am=phi=as=ter
-Am=phi=a=ra=us
 am=phi=bi=ot=ic
 am=phi=blas=tu=la
 am=phi=bole
@@ -3759,8 +3050,6 @@ am=phi=kar=y=on
 am=phi=kar=y=ot=ic
 am=phi=mix=es
 am=phi=mix=is
-Am=phi=on
-Am=phi=on=ic
 am=phi=ox=i
 am=phi=ox=us
 am=phi=pneus=tic
@@ -3782,8 +3071,6 @@ am=phi=thu=ron
 am=phi=thy=ra
 am=phi=thy=ron
 am=phi=thy=rons
-Am=phi=tri=te
-Am=phi=us
 am=phi=u=ma
 am=phog=e=nous
 am=phog=e=ny
@@ -3797,7 +3084,6 @@ am=pho=ral
 am=pho=ric=i=ty
 am=pho=ris=kos
 am=pho=ter=ic
-Am=pho=te=rus
 am=ple
 am=plec=tant
 am=plex=i=caul
@@ -3831,20 +3117,9 @@ am=pu=ta=tion
 am=pu=ta=tive
 am=pu=ta=tor
 am=pu=tee
-Am=pyx
-Am=py=ci=des
-Am=py=cus
 am=père
-Am=père
-Am=ram
-Am=ra=tian
-Am=ra=va=ti
 am=ree=ta
-Am=ri
-Am=rit=sar
 am=ri=ta
-Am=ster=dam
-Am=torg
 am=trac
 am=track
 am=u=let
@@ -3856,8 +3131,6 @@ am=yl =ni=trite
 am=yl=ase
 am=yl=ene
 am=yl=ose
-Am=yn=tor
-Am=y=cus
 am=y=el=ic
 am=y=e=li=a
 am=y=la=ceous
@@ -3870,53 +3143,30 @@ am=y=lo=lyt=ic
 am=y=lo=pec=tin
 am=y=lo=plast
 am=y=lum
-Am=y=mo=ne
-Am=y=tal
-Am=y=tha=on
 an-=end
 anal
 anat
 and
 and/or
 and=i=ron
-And=va=ri
 ane
 anes
 angst
-Ang=kor
-Ang=lis=tics
 ang=strom
 ang=wan=ti=bo
 anim
 ankh
 ann
-Ann =Ar=bor
-Anne =Bo=leyn
-Anne =of =Aus=tri=a
-Anne =of =Bo=he=mi=a
-Anne=cy
-Anne=ma=rie
-Ann=fwn
-Ann=ville
 anon
-Ans=gar=i=us
 ant
 ant-=pip=it
-Antn=to=ni=o=ni
 ant=ac=id
 ant=al=ka=li
 ant=al=ka=line
 ant=arc=tic
-Ant=arc=tic
-Ant=arc=tic =Ar=chi=pel=a=go
-Ant=arc=tic =Cir=cle
-Ant=arc=tic =O=cean
-Ant=arc=tic =Pen=in=su=la
-Ant=arc=ti=ca
 ant=ar=thrit=ic
 ant=asth=mat=ic
 ant=a=ap=i=ces
-Ant=a=buse
 ant=a=pex
 ant=a=pex=es
 ant=a=troph=ic
@@ -3932,15 +3182,10 @@ ant=lered
 ant=ler=less
 ant=like
 ant=li=a
-Ant=li=a
 ant=li=ate
-Ant=li=li=ae
 ant=li=on
 ant=shrike
-Ant=si=ra=ne
 ant=thrush
-Ant=werp
-Ant=wer=pen
 anx=ious
 anx=ious=ly
 anx=ious=ness
@@ -3999,17 +3244,8 @@ an=as=pid
 an=as=tig=mat
 an=as=tig=mat=ic
 an=at=ta
-An=ax
-An=ax=ag=o=ras
-An=ax=ag=o=re=an
-An=ax=ar=e=te
-An=ax=ib=ia
-An=ax=im=e=nes
 an=a=bae=na
 an=a=ban=tid
-An=a=bap=tism
-An=a=bap=tist
-An=a=bap=tis=ti=cal=ly
 an=a=bas
 an=a=bat=ic
 an=a=bi=ot=ic
@@ -4025,15 +3261,11 @@ an=a=chron=i=cal
 an=a=chron=i=cal=ly
 an=a=cid=i=ty
 an=a=clas=tic
-An=a=cle=tus
 an=a=clit=ic
 an=a=cli=nal
 an=a=cli=sis
 an=a=coe=no=sis
-An=a=con=da
 an=a=con=da
-An=a=cor=tes
-An=a=cos=ti=a
 an=a=cous=tic
 an=a=co=lu=thic
 an=a=co=lu=thi=a
@@ -4046,11 +3278,9 @@ an=a=cru=ses
 an=a=cru=sis
 an=a=cu=sia
 an=a=cu=sic
-An=a=dar=ko
 an=a=dem
 an=a=de=ni=a
 an=a=di=plo=sis
-An=a=dy=om=e=ne
 an=a=gen=e=sis
 an=a=ge=net=ic
 an=a=glyph
@@ -4075,8 +3305,6 @@ an=a=gram=ma=tis=ing
 an=a=gram=ma=tize
 an=a=gram=ma=tized
 an=a=gram=ma=tiz=ing
-An=a=heim
-An=a=kim
 an=a=lects
 an=a=lec=ta
 an=a=lec=tic
@@ -4118,8 +3346,6 @@ an=a=mor=phic
 an=a=mor=phism
 an=a=mor=pho=scope
 an=a=mor=pho=sis
-An=a=mo=sa
-An=a=ni=as
 an=a=paest
 an=a=paes=tic
 an=a=paes=ti=cal=ly
@@ -4138,39 +3364,26 @@ an=a=ple=ro=sis
 an=a=poph=y=sis
 an=a=sar=ca
 an=a=sar=cous
-An=a=sta=sia
-An=a=sta=si=a
 an=a=tase
 an=a=tex=es
 an=a=tex=is
 an=a=tine
-An=a=tol
-An=a=tole
-An=a=tol=ic
 an=a=tom=ic
 an=a=tom=i=cal
 an=a=tom=i=cal =snuff=box
 an=a=tom=i=cal=ly
 an=a=tom=i=co=path=o=log=i=cal
-An=a=to=li=a
-An=a=to=li=an
 an=ba
 an=bur=y
-An=cae=us
 an=ces=tor
 an=ces=tral
 an=ces=tral=ly
 an=ces=tress
 an=ces=try
-An=ches=mi=us
-An=chin=o=ë
-An=chi=a=le
-An=chi=ses
 an=chor
 an=chor =man
 an=chor =ring
 an=chor=age
-An=chor=age
 an=chor=a=ble
 an=chor=less
 an=chor=like
@@ -4195,9 +3408,7 @@ an=chy=lot=ic
 an=chy=lo=sis
 an=cien =r=gime
 an=cient
-An=cient =Greek
 an=cient =his=to=ry
-An=cient =of =Days
 an=cient=ly
 an=cient=ness
 an=cient=ry
@@ -4209,9 +3420,7 @@ an=cip=i=tous
 an=ci=le
 an=dan=te
 an=dan=ti=no
-An=da=lu=sia
 an=da=lu=site
-An=da=lu=si=a
 an=da=men=to
 an=des=ite
 an=de=sine
@@ -4219,37 +3428,20 @@ an=de=site
 an=de=sit=ic
 an=do=ro=ba
 an=dra=dite
-An=drew's-=cross
-An=drewes
-An=drews
-An=dre=a
-An=dre=ot=ti
-An=dre=yev
 an=droc=ra=cy
-An=droc=ra=tes
 an=droe=cial
 an=droe=ci=a
 an=droe=ci=um
 an=drog=e=nous
-An=drog=e=us
 an=drog=y=nous
 an=drog=y=ny
 an=droid
-An=drom=a=che
 an=drom=e=da
-An=drom=e=da
-An=dron
 an=dron
-An=droph=o=nos
-An=dros
-An=dros=cog=gin
 an=dros=ter=one
 an=dro=cen=tric
-An=dro=cles
-An=dro=cle=a
 an=dro=clin=i=a
 an=dro=clin=i=um
-An=dro=clus
 an=dro=clus
 an=dro=co=ni=a
 an=dro=co=ni=um
@@ -4260,8 +3452,6 @@ an=dro=gam=one
 an=dro=gen
 an=dro=gen=ic
 an=dro=gyne
-An=dro=maque
-An=dro=ma=che
 an=dro=mo=noe=cious
 an=dro=mo=noe=cism
 an=dro=pet=a=lous
@@ -4270,10 +3460,6 @@ an=dro=sphinx
 an=dro=sphinx=es
 an=dro=sphin=ges
 an=dro=spore
-An=drus
-An=dvar
-An=dva=ri
-An=dy
 an=ec=dote
 an=ec=dot=age
 an=ec=dot=ic
@@ -4336,56 +3522,30 @@ an=e=thole
 an=frac=tu=os=i=ty
 an=frac=tu=ous
 an=ga
-An=gang
-An=garsk
 an=ga=kok
-An=ga=ra
 an=ga=ry
 an=gel
-An=gel
 an=gel =cake
-An=gel =Falls
 an=gel =food =cake
 an=gel =shark
 an=gel's =tears
 an=gel's-=trum=pet
-An=gelica
-An=gell
 an=gels-=on-=horse=back
 an=gel=fish
 an=gel=fish=es
 an=gel=hood
-An=gel=ic
 an=gel=ic
-An=gel=ic =Doc=tor
 an=gel=ic=a
 an=gel=i=ca
-An=gel=i=ca
 an=gel=i=cal
 an=gel=i=cal=ly
 an=gel=i=cal=ness
-An=gel=i=can
 an=gel=ol=o=gy
 an=ger
-An=gers
-An=ger=bo=da
 an=ger=ly
 an=ge=kok
-An=ge=la
-An=ge=le=no
-An=ge=line
 an=ge=lique
-An=ge=li=co
-An=ge=li=na
-An=ge=lo
 an=ge=lus
-An=ge=lus
-An=ge=lyn
-An=ge=ro=na
-An=ge=ro=ni=a
-An=ge=vin
-An=ge=vine
-An=gie
 an=gi=na
 an=gi=na =pec=to=ris
 an=gi=nal
@@ -4408,7 +3568,6 @@ an=gi=o=sper=mous
 an=gi=o=to=nin
 an=gi=o=tribe
 an=glaise
-An=gle
 an=gle
 an=gle =brack=et
 an=gle =i=ron
@@ -4424,100 +3583,32 @@ an=gle =plate
 an=gle-=off
 an=gled
 an=gler
-An=gles
-An=gle=doz=er
 an=gle=pod
-An=gle=sey
 an=gle=site
 an=gle=smith
-An=gle=ton
 an=gle=wing
 an=gle=worm
-An=glic
 an=gling
-An=glist
-An=gli=a
-An=gli=an
-An=gli=can
-An=gli=can =Church
-An=gli=can =Com=mun=ion
-An=gli=can=ism
-An=gli=can=ly
-An=gli=ce
 an=gli=cise
-An=gli=cise
-An=gli=cised
-An=gli=cism
-An=gli=cist
-An=gli=cis=ing
 an=gli=cize
-An=gli=cize
-An=gli=cized
-An=gli=ciz=ing
 an=gli=ci=sa=tion
-An=gli=ci=sa=tion
-An=gli=ci=za=tion
 an=gli=ci=za=tion
-An=gli=fied
-An=gli=fi=ca=tion
-An=gli=fy
 an=gli=fy
-An=gli=fy=ing
-An=glo
-An=glo-=Aus=tral=ian
-An=glo-=A=mer=i=can
-An=glo-=A=mer=i=can=ism
-An=glo-=Cath=o=lic
-An=glo-=French
-An=glo-=Gal=lic
-An=glo-=In=di=an
-An=glo-=Irish
-An=glo-=I=rish
-An=glo-=Nor=man
-An=glo-=Sax=on
-An=glo=Ca=thol=i=cism
-An=glo=ma=ni=a
-An=glo=ma=ni=ac
-An=glo=ma=ni=a=cal
-An=glo=phil
-An=glo=phile
-An=glo=phil=i=a
-An=glo=phil=i=ac
-An=glo=phobe
-An=glo=phone
-An=glo=pho=bi=a
-An=glo=pho=bi=ac
 an=gor
 an=gos=tu=ra
 an=gos=tu=ra =bark
 an=gos=tu=ra =bit=ters
-An=gou=mois
-An=go=la
-An=go=lese
-An=go=ra
 an=go=ra
-An=go=ra =cat
-An=go=ra =goat
-An=go=ra =rab=bit
-An=go=stu=ra
-An=gra =do =He=ro=is=mo
 an=gri=er
 an=gri=est
 an=gri=ly
 an=gri=ness
 an=gry
 an=gry =young =man
-An=gr=bo=dha
-An=guier
-An=guil=la
 an=guil=li=form
 an=guine
-An=guis
 an=guish
 an=guished
-An=gur=bo=da
-An=gus
-An=gus =Og
 an=gu=lar
 an=gu=lar =ac=cel=er=a=tion
 an=gu=lar =mo=men=tum
@@ -4534,7 +3625,6 @@ an=gu=lose
 an=gu=los=i=ty
 an=gu=lous
 an=haem=a=to=poi=e=sis
-An=halt
 an=har=mon=ic
 an=hem=a=to=poi=e=sis
 an=hem=i=ton=ic
@@ -4545,7 +3635,6 @@ an=he=ma=to=sis
 an=hin=ga
 an=hi=drot=ic
 an=hi=dro=sis
-An=hwei
 an=hy=dre=mic
 an=hy=dre=mi=a
 an=hy=dride
@@ -4559,8 +3648,6 @@ an=ise
 an=is=al=de=hyde
 an=is=ei=kon=ic
 an=is=ei=ko=ni=a
-An=i=ak=chak
-An=i=ce=tus
 an=i=con=ic
 an=i=con=ism
 an=i=lide
@@ -4639,13 +3726,7 @@ an=i=so=me=tro=pi=a
 an=i=so=phyl=lous
 an=i=so=phyl=ly
 an=i=so=trop=ic
-An=i=us
-An=ja=nette
-An=jou
-An=ka=ra
 an=ker=ite
-An=ke=ny
-An=king
 an=kle
 an=kle =sock
 an=kle-=deep
@@ -4665,33 +3746,20 @@ an=ky=lo=sis
 an=lace
 an=la=ge
 an=na
-An=na
 an=nal
 an=nals
 an=nal=ist
 an=nal=is=tic
 an=nal=is=ti=cal=ly
-An=nam
-An=nam=ite
-An=nap=o=lis
-An=nap=o=lis =Roy=al
 an=nates
 an=nats
 an=nat=to
-An=na=ba
-An=na=bel
 an=na=berg=ite
-An=na=mese
-An=na=pur=na
-An=na=tol
 an=neal
 an=neal=er
 an=nec=tant
 an=nec=tent
-An=nel=i=da
 an=nel=i=dan
-An=nen=sky
-An=nette
 an=nex
 an=nexe
 an=nex=a=ble
@@ -4700,10 +3768,7 @@ an=nex=a=tion=al
 an=nex=a=tion=ism
 an=nex=a=tion=ist
 an=nex=ment
-An=ne=cy
 an=ne=lid
-An=nie
-An=nis=ton
 an=ni=hi=late
 an=ni=hi=lat=ed
 an=ni=hi=lat=ing
@@ -4717,7 +3782,6 @@ an=ni=hi=la=tion=is=ti=cal
 an=ni=hi=la=tive
 an=ni=hi=la=tor
 an=ni=ver=sa=ry
-An=ni=ver=sa=ry =Day
 an=no =Dom=i=ni
 an=no =reg=ni
 an=no =ur=bis =con=di=tae
@@ -4746,7 +3810,6 @@ an=nulled
 an=nul=la=ble
 an=nul=ling
 an=nul=ment
-An=nun=cia=ta
 an=nun=ci=ate
 an=nun=ci=at=ed
 an=nun=ci=at=ing
@@ -4755,8 +3818,6 @@ an=nun=ci=a=tion
 an=nun=ci=a=tive
 an=nun=ci=a=tor
 an=nun=ci=a=to=ry
-An=nun=zia=ta
-An=nun=zio
 an=nus =mi=ra=bi=lis
 an=nu=al
 an=nu=al =par=al=lax
@@ -4775,7 +3836,6 @@ an=nu=la=tion
 an=nu=let
 an=nu=lose
 an=nu=lus
-An=nwn
 an=ode
 an=od=ic
 an=od=i=cal=ly
@@ -4826,19 +3886,9 @@ an=o=rex=i=a =ner=vo=sa
 an=o=rex=i=ant
 an=o=sog=no=sia
 an=sa
-An=sar
-An=sar=i=an
 an=sate
-An=schau=ung
-An=schluss
-An=sel
-An=selm
 an=ser=ine
-An=ser=met
 an=ser=ous
-An=shan
-An=son
-An=so=ni=a
 an=stoss
 an=swer
 an=swer =back
@@ -4851,9 +3901,6 @@ an=swer=er
 an=swer=less
 an=swer=less=ly
 an=ta
-An=tae=a
-An=tae=an
-An=tae=us
 an=tag=o=nise
 an=tag=o=nised
 an=tag=o=nism
@@ -4867,16 +3914,7 @@ an=tag=o=niz=a=ble
 an=tag=o=niz=ing
 an=tag=o=ni=sa=tion
 an=tag=o=ni=za=tion
-An=tag=o=ras
-An=tal
-An=tal=ya
-An=tan=a=ri=vo
 an=tar=an=ga
-An=tar=es
-An=ta=buse
-An=ta=ki=ya
-An=ta=kya
-An=ta=na=na=ri=vo
 an=ta=ra=la
 an=te
 an=te =me=rid=i=em
@@ -4897,9 +3935,7 @@ an=ten=ni=fer
 an=ten=ni=form
 an=ten=nule
 an=ten=nu=lar
-An=tep
 an=ter=o=pa=ri=et=al
-An=ter=us
 an=te=bel=lum
 an=te=cede
 an=te=ced=ed
@@ -4931,7 +3967,6 @@ an=te=me=rid=i=an
 an=te=mun=dane
 an=te=nave
 an=te=na=tal
-An=te=nor
 an=te=num=ber
 an=te=nup=tial
 an=te=or=bit=al
@@ -4950,13 +3985,9 @@ an=te=ri=or
 an=te=ri=or=i=ty
 an=te=ri=or=ly
 an=te=room
-An=te=ros
 an=te=type
 an=te=vert
 an=te=ver=sion
-An=te=vor=ta
-An=thas
-An=theil
 an=thel=min=thic
 an=thel=min=tic
 an=them
@@ -4967,14 +3998,11 @@ an=ther=id=i=al
 an=ther=id=i=um
 an=ther=less
 an=ther=o=zo=id
-An=thes=te=ri=a
-An=the=a
 an=the=ma
 an=the=ma=ta
 an=the=mi=a
 an=the=mi=on
 an=the=sis
-An=the=us
 an=thol=o=gise
 an=thol=o=gised
 an=thol=o=gist
@@ -4992,13 +4020,10 @@ an=tho=di=a
 an=tho=di=um
 an=tho=log=i=cal
 an=tho=log=i=cal=ly
-An=tho=ny
-An=tho=ny =of =Pad=u=a
 an=tho=phore
 an=tho=phyl=lite
 an=tho=phyl=lit=ic
 an=tho=tax=y
-An=tho=zo=a
 an=tho=zo=an
 an=tho=zo=ic
 an=thrac=nose
@@ -5072,14 +4097,6 @@ an=thro=po=soph=i=cal
 an=thu=ri=um
 an=ti
 an=ti-=air=craft
-an=ti-=Ar=ab
-an=ti-=Ar=is=to=te=lian
-an=ti-=Ar=is=to=te=lian=ism
-an=ti-=Aus=tral=ian
-an=ti-=Aus=tri=a
-an=ti-=Aus=tri=an
-an=ti-=A=mer=i=can
-An=ti-=A=mer=i=can=ism
 an=ti-=Bib=li=cal
 an=ti-=Bi=ble
 an=ti-=Bol=she=vik
@@ -5093,7 +4110,6 @@ an=ti-=Cal=vin=is=tic
 an=ti-=Cal=vin=is=ti=cal
 an=ti-=Cath=o=lic
 an=ti-=Ca=thol=i=cism
-An=ti-=Corn =Law =League
 an=ti-=Dar=win
 an=ti-=Dar=win=ism
 an=ti-=Dar=win=ist
@@ -5153,11 +4169,8 @@ an=ti-=Ju=da=is=tic
 an=ti-=Lat=in
 an=ti-=Lat=in=ism
 an=ti-=Lea=guer
-An=ti-=Leb=a=non
 an=ti-=Mal=thu=si=an
 an=ti-=Mal=thu=si=an=ism
-An=ti-=Ma=son
-An=ti-=Ma=son=ry
 an=ti-=Mex=i=can
 an=ti-=mo=ny-=yel=low
 an=ti-=Ne=gro
@@ -5208,7 +4221,6 @@ an=ti-=Trin=i=tar=i=an=ism
 an=ti-=Turk=ish
 an=ti-=Zi=on=ism
 an=ti-=Zi=on=ist
-An=tibes
 an=tic
 an=tich=thon
 an=tich=tho=nes
@@ -5227,34 +4239,23 @@ an=tic=i=pa=tor
 an=tic=i=pa=to=ri=ly
 an=tic=i=pa=to=ry
 an=tic=ly
-An=tie=tam
-An=tig=o=ne
-An=tig=o=nus =I
 an=tig=o=rite
-An=til=les
-An=til=le=an
-An=til=o=chus
 an=til=o=gism
 an=til=o=gis=tic
 an=til=o=gis=ti=cal=ly
 an=til=o=gy
-An=tim=a=chus
 an=tim=er=ism
 an=tin=o=my
-An=tin=o=us
-An=tiph=a=tes
 an=tiph=o=nal
 an=tiph=o=nal=ly
 an=tiph=o=nar=ies
 an=tiph=o=nar=y
 an=tiph=o=ny
 an=tiph=ra=sis
-An=tip=a=ter
 an=tip=a=thist
 an=tip=a=thy
 an=tip=o=dal
 an=tip=o=des
-An=tip=o=des
 an=tip=o=de=an
 an=tique
 an=tiqued
@@ -5263,11 +4264,9 @@ an=tique=ness
 an=tiq=ui=ties
 an=tiq=ui=ty
 an=tir=rhi=num
-An=tis=the=nes
 an=tis=tro=phe
 an=tith=e=sis
 an=tit=ra=gus
-An=ti=a
 an=ti=ag=glu=ti=nant
 an=ti=ag=glu=ti=na=tion
 an=ti=ag=glu=ti=na=tive
@@ -5330,7 +4329,6 @@ an=ti=chlor
 an=ti=chlo=ris=tic
 an=ti=cho=lin=er=gic
 an=ti=cho=lin=es=ter=ase
-An=ti=christ
 an=ti=chris=tian
 an=ti=chris=tian=ly
 an=ti=church
@@ -5389,7 +4387,6 @@ an=ti=cor=ro=sive
 an=ti=cor=ro=sive=ly
 an=ti=cor=ro=sive=ness
 an=ti=cos=met=ics
-An=ti=cos=ti
 an=ti=co=ag=u=lant
 an=ti=co=ag=u=lat=ing
 an=ti=co=ag=u=la=tion
@@ -5488,8 +4485,6 @@ an=ti=e=ro=sion
 an=ti=e=ro=sive
 an=ti=fas=cism
 an=ti=fas=cist
-An=ti=fed=er=al=ism
-An=ti=fed=er=al=ist
 an=ti=fem=i=nism
 an=ti=fem=i=nist
 an=ti=fem=i=nis=tic
@@ -5518,7 +4513,6 @@ an=ti=gen=ic
 an=ti=ge=nic=i=ty
 an=ti=gnos=tic
 an=ti=gnos=ti=cal
-An=ti=go
 an=ti=gov=ern=ment
 an=ti=gov=ern=men=tal
 an=ti=graft
@@ -5526,7 +4520,6 @@ an=ti=gram=mat=i=cal
 an=ti=grav=i=ta=tion
 an=ti=grav=i=ta=tion=al
 an=ti=grav=i=ty
-An=ti=gua
 an=ti=ha=la=tion
 an=ti=hel=i=ces
 an=ti=he=lix
@@ -5551,7 +4544,6 @@ an=ti=hy=gi=en=i=cal=ly
 an=ti=ke=to=gen=e=sis
 an=ti=ke=to=gen=ic
 an=ti=knock
-An=ti=ky=ther=a
 an=ti=la=bor
 an=ti=league
 an=ti=lep=ton
@@ -5690,7 +4682,6 @@ an=ti=nov=el
 an=ti=no=mi=an
 an=ti=no=mi=an=ism
 an=ti=nu=cle=on
-An=ti=och
 an=ti=op=ti=mism
 an=ti=op=ti=mist
 an=ti=op=ti=mis=tic
@@ -5703,12 +4694,7 @@ an=ti=ox=i=diz=ing
 an=ti=ox=y=gen=at=ing
 an=ti=ox=y=gen=a=tion
 an=ti=ox=y=gen=a=tor
-An=ti=o=chi=an
-An=ti=o=chus
-An=ti=o=chus =III
-An=ti=o=chus =IV
 an=ti=o=don=tal=gic
-An=ti=o=pe
 an=ti=o=zon=ant
 an=ti=pac=i=fism
 an=ti=pac=i=fist
@@ -5756,7 +4742,6 @@ an=ti=pes=ti=len=tial
 an=ti=pet=al=ous
 an=ti=pe=dal
 an=ti=pe=ri=od=ic
-An=ti=phas
 an=ti=phil=o=soph=ic
 an=ti=phil=o=soph=i=cal
 an=ti=phi=los=o=phism
@@ -5767,11 +4752,9 @@ an=ti=phon=ic
 an=ti=phon=i=cal=ly
 an=ti=phras=tic
 an=ti=phras=ti=cal=ly
-An=ti=phus
 an=ti=phys=i=cal
 an=ti=plas=tic
 an=ti=pode
-An=ti=poe=nus
 an=ti=pole
 an=ti=pol=i=tics
 an=ti=pol=lu=tion
@@ -5865,7 +4848,6 @@ an=ti=re=li=gion=ist
 an=ti=re=li=gious
 an=ti=re=li=gi=os=i=ty
 an=ti=re=mon=strant
-An=ti=re=mon=strant
 an=ti=re=pub=li=can
 an=ti=re=pub=li=can=ism
 an=ti=re=vi=sion=ist
@@ -5882,7 +4864,6 @@ an=ti=ro=man=tic
 an=ti=ro=man=ti=cism
 an=ti=ro=man=ti=cist
 an=ti=rust
-An=ti=sa=na
 an=ti=scep=tic
 an=ti=scep=ti=cal
 an=ti=scep=ti=cism
@@ -6006,46 +4987,28 @@ an=ti=vi=ral
 an=ti=vi=rus
 an=ti=war
 an=ti=world
-An=toine
-An=toi=nette
-An=ton
-An=tone
 an=ton=y=mous
 an=to=don=tal=gic
-An=to=fa=gas=ta
-An=to=net
 an=to=nin=i=a=nus
-An=to=nio
-An=to=ni=a
-An=to=ni=nus
-An=to=ni=nus =Pi=us
-An=to=ni=o
-An=to=ni=us
 an=to=no=mas=tic
 an=to=no=mas=ti=cal=ly
 an=to=no=ma=sia
 an=to=no=ma=si=a
-An=to=ny
 an=to=nym
-An=to=nín
 an=tral
 an=tre
-An=trim
 an=trorse
 an=trorse=ly
 an=trum
-An=tung
 an=u=ran
 an=u=ret=ic
 an=u=re=sis
 an=u=ric
 an=u=ri=a
 an=u=rous
-An=vers
 an=vil
 an=y
 an=y =more
-An=yang
 an=y=bod=ies
 an=y=bod=y
 an=y=how
@@ -6059,11 +5022,6 @@ an=y=ways
 an=y=where
 an=y=wheres
 an=y=wise
-An=zac
-An=zac =Day
-An=zen=gru=ber
-An=zhe=ro-=Sud=zhensk
-An=zi=o
 aob
 ape
 ape-=man
@@ -6073,7 +5031,6 @@ aph=ae=ret=ic
 aph=a=nite
 aph=a=nit=ic
 aph=a=nit=ism
-Aph=a=reus
 aph=e=ret=ic
 aph=e=sis
 aph=i=des
@@ -6092,8 +5049,6 @@ aph=o=riz=er
 aph=o=riz=ing
 aph=ro=dis=i=ac
 aph=ro=di=sia
-Aph=ro=di=te
-Aph=ro=ge=nei=a
 aph=tha
 aplano=spore
 app
@@ -6104,7 +5059,6 @@ apt=ly
 apt=ness
 ap=as=tron
 ap=a=go=ge
-Ap=a=lach=i=co=la
 ap=a=nage
 ap=a=tet=ic
 ap=a=thei=a
@@ -6114,27 +5068,22 @@ ap=a=thet=i=cal=ly
 ap=a=thi=a
 ap=a=thy
 ap=a=tite
-Ap=a=tu=ri=a
-Ap=en=nines
 ap=er=ies
 ap=er=tom=e=ter
 ap=er=ture
 ap=er=tured
 ap=er=tur=al
 ap=er=y
-Ap=e=mos=y=ne
 ap=he=li=on
 ap=he=li=o=trop=ic
 ap=ing
 ap=ish
 ap=ish=ly
 ap=ish=ness
-Ap=i=a=nus
 ap=i=cad
 ap=i=cal
 ap=i=cal=ly
 ap=i=ces
-Ap=i=e=zon
 ap=la=nat=ic
 ap=la=nat=i=cal=ly
 ap=lite
@@ -6146,13 +5095,8 @@ ap=ne=ic
 ap=noe=a
 ap=noe=al
 ap=noe=ic
-Ap=ol=lo=ni=an
-Ap=ol=lo=ni=us
 ap=os=tol=ic
 ap=os=tol=ic =del=e=gate
-Ap=os=tol=ic =Fa=thers
-Ap=os=tol=ic =See
-Ap=os=tol=ic =suc=ces=sion
 ap=os=tol=i=cal
 ap=os=tol=i=cal=ly
 ap=os=tol=i=cism
@@ -6178,7 +5122,6 @@ ap=o=deme
 ap=o=dem=a=ta
 ap=o=dic=tic
 ap=o=dic=ti=cal=ly
-Ap=o=dis
 ap=o=dous
 ap=o=en=zyme
 ap=o=fer=ri=tin
@@ -6207,7 +5150,6 @@ ap=o=mix=is
 ap=o=mmix=es
 ap=o=mor=phin
 ap=o=mor=phine
-Ap=o=my=i=us
 ap=o=neu=rot=ic
 ap=o=neu=ro=sis
 ap=o=pemp=tic
@@ -6255,11 +5197,6 @@ ap=par=ent=ly
 ap=par=ent=ness
 ap=par=i=tor
 ap=pas=sio=na=to
-Ap=pa=la=chi=a
-Ap=pa=la=chi=an
-Ap=pa=la=chi=an =Moun=tains
-Ap=pa=la=chi=ans
-Ap=pa=loo=sa
 ap=pa=nage
 ap=pa=rat=tus
 ap=pa=rat=tus=es
@@ -6288,7 +5225,6 @@ ap=peas=a=bly
 ap=peas=er
 ap=peas=ing
 ap=peas=ing=ly
-Ap=pel
 ap=pel
 ap=pels
 ap=pel=lant
@@ -6321,7 +5257,6 @@ ap=pen=di=ces
 ap=pen=di=ci=tis
 ap=pen=di=cle
 ap=pen=tice
-Ap=pen=zell
 ap=pen=zell
 ap=per=ceive
 ap=per=ceived
@@ -6342,8 +5277,6 @@ ap=pe=tiz=er
 ap=pe=tiz=ing
 ap=pe=tiz=ing=ly
 ap=pe=ti=tive
-Ap=pia
-Ap=pi=an =Way
 ap=plaud
 ap=plaud=a=ble
 ap=plaud=a=bly
@@ -6369,10 +5302,7 @@ ap=ples =and =pears
 ap=ple=cart
 ap=ple=jack
 ap=ple=sauce
-Ap=ple=seed
 ap=ple=snits
-Ap=ple=ton
-Ap=ple=ton =lay=er
 ap=plic=a=tive
 ap=plied
 ap=pli=ance
@@ -6418,7 +5348,6 @@ ap=pos=er
 ap=pos=ing
 ap=pos=i=tive
 ap=pos=i=tive=ly
-Ap=po=mat=tox
 ap=po=site
 ap=po=site=ly
 ap=po=site=ness
@@ -6523,15 +5452,11 @@ ap=pur=te=nance
 ap=pur=te=nant
 ap=ri=cot
 ap=ro=pos
-Ap=sa=ras
-Ap=sa=ras=es
 ap=sid=i=ole
 ap=sis
 ap=si=dal
 ap=si=dal=ly
 ap=si=des
-Ap=su
-Ap=syr=tus
 ap=ter=al
 ap=ter=ous
 ap=ter=yg=i=al
@@ -6545,11 +5470,7 @@ ap=ti=tude
 ap=ti=tude =test
 ap=ti=tu=di=nal
 ap=ti=tu=di=nal=ly
-Ap=u=lei=us
-Ap=u=le=ius
-Ap=u=ri=mac
 ap=y=re=tic
-Aq=a=ba
 aq=ua
 aq=ua =am=mo=ni=ae
 aq=ua =for=tis
@@ -6586,14 +5507,8 @@ aq=ui=cul=ture
 aq=ui=cul=tur=al
 aq=ui=cul=tur=ist
 aq=ui=fer
-Aq=ui=la
 aq=ui=le=gi=a
-Aq=ui=le=ia
 aq=ui=line
-Aq=ui=lo
-Aq=ui=taine
-Aq=ui=ta=ni=a
-Ar =Ri=mal
 arc
 arc =fur=nace
 arc =weld=ing
@@ -6602,10 +5517,8 @@ arch
 arched
 arche=banc
 arch=ae=o=cyte
-Arch=an=gel
 arch=an=gel
 arch=an=gel=ic
-Arch=bald
 arch=banc
 arch=bish=op
 arch=bish=op=ric
@@ -6622,10 +5535,8 @@ arch=duch=y
 arch=duke
 arch=du=cal
 arch=en=e=my
-Arch=er
 arch=er
 arch=er=fish
-Arch=es
 arch=e=o=cyte
 arch=fiend
 arch=ing
@@ -6642,36 +5553,19 @@ arcs
 arcs-=bou=tants
 arc=form
 arc=o=graph
-Arc=tic
 arc=tic
 arc=tic =char
-Arc=tic =Cir=cle
 arc=tic =fox
-Arc=tic =O=cean
 arc=tic =tern
 arc=ti=cal=ly
 arc=ti=col=o=gist
 arc=ti=col=o=gy
-Arc=to=gae=a
-Arc=to=gae=al
-Arc=to=gae=an
-Arc=to=gae=ic
-Arc=to=ge=a
-Arc=to=ge=an
-Arc=to=ge=ic
-Arc=tu=ri=an
-Arc=tu=rus
-Ards=ley
-Ard=more
 are
 aren't
 arf=ved=son=ite
-Ari=minum
 ark
-Ark=wright
 ark=wright
 arles
-Arl=berg
 arm
 armed
 armed =forc=es
@@ -6679,7 +5573,6 @@ armes =par=lantes
 arms
 arm=band
 arm=chair
-Arm=co
 arm=er
 arm=ful
 arm=guard
@@ -6692,13 +5585,8 @@ arm=load
 arm=pad
 arm=pit
 arm=rest
-Arm=strong
-Arm=strong-=Jones
-Arn=hem
-Arn=hem =Land
 arr
 arrhyth=mic
-Arr=ies
 ars =no=va
 ars =po=e=ti=ca
 arse
@@ -6706,9 +5594,7 @@ arse =lick=er
 ars=phen=a=mine
 ars=y-=vers=y
 art
-Art =Dec=o
 art =mu=sic
-Art =Nou=veau
 art =pa=per
 art =un=ion
 arts
@@ -6727,53 +5613,23 @@ art=sy-=craft=sy
 art=work
 art=y
 art=y-=craft=y
-Ar=ab
-Ar=ab =League
-Ar=ab=ist
-Ar=ad
 ar=ak
-Ar=al =Sea
-Ar=an
-Ar=an =Is=lands
 ar=au=car=i=a
 ar=au=car=i=an
-Ar=au=ca=ni=a
-Ar=au=ca=ni=an
 ar=au=ca=ri=a
-Ar=awn
 ar=a=ban
-Ar=a=bel
 ar=a=besque
 ar=a=besque=ly
-Ar=a=bic
-Ar=a=bic =nu=mer=al
 ar=a=bil=i=ty
 ar=a=ble
-Ar=a=by
 ar=a=chid=ic
-Ar=a=fat
-Ar=a=fu=ra =Sea
-Ar=a=gats
-Ar=a=go
-Ar=a=gon
-Ar=a=go=nese
-Ar=a=mae=an
-Ar=a=ma=ic
-Ar=a=me=an
 ar=a=ne=i=form
 ar=a=pai=ma
-Ar=a=pesh
-Ar=a=pesh=es
-Ar=a=rat
 ar=a=ro=ba
-Ar=a=wak
-Ar=a=wak=an
 ar=ba=lest
 ar=ba=lest=er
 ar=ba=list
 ar=ba=list=er
-Ar=be=la
-Ar=bil
 ar=bit=ra=ment
 ar=bit=re=ment
 ar=bi=ter
@@ -6796,7 +5652,6 @@ ar=bi=tra=tive
 ar=bi=tra=tor
 ar=bi=trer
 ar=bi=tress
-Ar=blay
 ar=bor
 ar=bor =vi=tae
 ar=bored
@@ -6821,44 +5676,25 @@ ar=bo=re=al
 ar=bo=re=al=ly
 ar=bo=re=ous
 ar=bo=re=tum
-Ar=broath
-Ar=buth=not
 ar=bu=tus
 ar=bu=tus=es
 ar=ca
 ar=cade
 ar=cad=ed
-Ar=cad=ic
 ar=cad=ing
 ar=cane
-Ar=can=ge=lo
 ar=can=ist
-Ar=cas
-Ar=ca=di=a
-Ar=ca=di=an
-Ar=ca=di=an=ism
-Ar=ca=di=an=ly
-Ar=ca=dy
 ar=ca=na
 ar=ca=num
-Ar=ca=ro
-Ar=ca=ta
 ar=ca=ture
-Ar=ce
-Ar=cel=la
-Ar=ces=i=la=us
-Ar=ces=i=us
-Ar=chae=an
 ar=chae=ol=o=gist
 ar=chae=ol=o=gy
 ar=chae=op=ter=yx
 ar=chae=or=nis
-Ar=chae=o=cy=a=thid
 ar=chae=o=log=ic
 ar=chae=o=log=i=cal
 ar=chae=o=log=i=cal=ly
 ar=chae=o=mag=net=ism
-Ar=chae=o=zo=ic
 ar=cha=ic
 ar=cha=ise
 ar=cha=ised
@@ -6872,29 +5708,21 @@ ar=cha=iz=er
 ar=cha=iz=ing
 ar=cha=i=cal=ly
 ar=cha=i=cism
-Ar=chel=o=chus
-Ar=chem=o=rus
 ar=chen=ter=ic
 ar=chen=ter=on
-Ar=chep=tol=e=mus
-Ar=cher
 ar=cher=fish
 ar=cher=fish=es
 ar=cher=y
 ar=chet=to
-Ar=che=an
-Ar=che=ge=tes
 ar=che=go=ni=a
 ar=che=go=ni=al
 ar=che=go=ni=ate
 ar=che=go=ni=um
-Ar=che=la=us
 ar=che=ol=o=gist
 ar=che=ol=o=gy
 ar=che=o=log=i=cal
 ar=che=o=log=i=cal=ly
 ar=che=o=mag=net=ism
-Ar=che=o=zo=ic
 ar=che=spore
 ar=che=spo=ri=a
 ar=che=spo=ri=al
@@ -6903,14 +5731,10 @@ ar=che=type
 ar=che=typ=al
 ar=che=typ=al=ly
 ar=che=typ=i=cal=ly
-Ar=chie
 ar=chil
-Ar=chil=o=chus
 ar=chine
 ar=chive
 ar=chives
-Ar=chi=as
-Ar=chi=bald
 ar=chi=blast
 ar=chi=blas=tic
 ar=chi=carp
@@ -6921,16 +5745,9 @@ ar=chi=e=pis=co=pal=i=ty
 ar=chi=e=pis=co=pal=ly
 ar=chi=e=pis=co=pate
 ar=chi=e=pis=co=pa=cy
-Ar=chi=lo=chi=an
 ar=chi=mage
 ar=chi=man=drite
-Ar=chi=me=des
-Ar=chi=me=des' =prin=ci=ple
-Ar=chi=me=des' =screw
-Ar=chi=me=de=an
-Ar=chi=me=de=an =screw
 ar=chi=pel=a=go
-Ar=chi=pen=ko
 ar=chi=pe=lag=ic
 ar=chi=pho=neme
 ar=chi=plasm
@@ -6952,12 +5769,8 @@ ar=chon
 ar=chon=ship
 ar=cho=plasm
 ar=cho=plas=mic
-Ar=chy
-Ar=chy=tas
-Ar=cim=bol=di
 ar=ci=fin=i=ous
 ar=ci=form
-Ar=ci=nie=gas
 ar=co
 ar=co=so=li=a
 ar=co=so=li=um
@@ -6967,30 +5780,19 @@ ar=cu=ate
 ar=cu=ate=ly
 ar=cu=at=ed
 ar=cu=a=tion
-Ar=d
 ar=deb
-Ar=deen
-Ar=del=la
-Ar=den
-Ar=dene
-Ar=dennes
 ar=dent
 ar=dent =spir=its
 ar=dent=ly
 ar=dent=ness
 ar=den=cy
 ar=de=id
-Ar=din
-Ar=dis
 ar=dish
 ar=dor
 ar=dour
 ar=du=ous
 ar=du=ous=ly
 ar=du=ous=ness
-Ar=dèche
-Ar=endt
-Ar=es
 ar=e=a
 ar=e=a =code
 ar=e=al
@@ -7006,75 +5808,44 @@ ar=e=og=ra=phy
 ar=e=ole
 ar=e=ol=o=gist
 ar=e=ol=o=gy
-Ar=e=op=a=gite
-Ar=e=op=a=git=ic
-Ar=e=op=a=git=i=ca
-Ar=e=op=a=gus
 ar=e=o=cen=tric
 ar=e=o=la=tion
 ar=e=o=log=ic
 ar=e=o=log=i=cal=ly
-Ar=e=thu=sa
 ar=e=thu=sa
-Ar=e=ti=no
-Ar=e=ïth=o=üs
 ar=gal
-Ar=gall
-Ar=ga=des
 ar=ga=li
 ar=ga=sid
-Ar=gei=phon=tes
 ar=gent
 ar=gen=tal
 ar=gen=tate
-Ar=gen=teuil
 ar=gen=te=ous
 ar=gen=tic
 ar=gen=tif=er=ous
-Ar=gen=tine
 ar=gen=tine
-Ar=gen=tin=e=an
 ar=gen=tite
-Ar=gen=ti=na
 ar=gen=tous
 ar=gen=tum
-Ar=ges
-Ar=ge=lan=der
 ar=ghool
 ar=gil
 ar=gil=la=ceous
 ar=gil=lif=er=ous
 ar=gil=lite
 ar=gil=lit=ic
-Ar=give
-Ar=gi=a
 ar=gi=nine
-Ar=gi=o=pe
-Ar=gi=phon=tes
 ar=gle-=bar=gle
 ar=gle=bar=gle
 ar=gle=bar=gled
 ar=gle=bar=gling
-Ar=go
 ar=gol
-Ar=gol=ic
 ar=gon
-Ar=gonne
-Ar=gos
 ar=got
 ar=got=ic
-Ar=go=an
-Ar=go=lis
-Ar=go=naut
-Ar=go=nau=tic
 ar=go=non
 ar=go=sy
-Ar=go=vie
 ar=gue
 ar=gued
-Ar=gus
 ar=gus =pheas=ant
-Ar=gus-=eyed
 ar=gu=a=ble
 ar=gu=er
 ar=gu=fied
@@ -7092,142 +5863,50 @@ ar=gu=men=tum
 ar=gy-=bar=gied
 ar=gy-=bar=gy
 ar=gy-=bar=gy=ing
-Ar=gyle
 ar=gyle
-Ar=gyll
-Ar=gyll=shire
 ar=gyr=o=dite
-Ar=gy=ra
-Ar=gy=rol
-Ar=gy=ro=tox=us
-Ar=güe=das
-Ar=hat
-Ar=hat=ship
-Ar=ian=rhod
 ar=id
 ar=id=ly
-Ar=ies
 ar=il
 ar=il=late
 ar=il=lode
 ar=il=loid
-Ar=is=tae=us
 ar=is=tarch
 ar=is=tarch=y
-Ar=is=tar=chus
-Ar=is=tar=chus =of =Sam=o=thrace
-Ar=is=tar=chus =of =Sa=mos
-Ar=is=tip=pus
-Ar=is=ti=des
 ar=is=toc=ra=cy
-Ar=is=tom=a=chus
-Ar=is=toph=a=nes
-Ar=is=tot=e=les
-Ar=is=tot=le
-Ar=is=to=te=lian
-Ar=is=to=te=lian=ism
-Ar=is=to=te=li=an
-Ar=is=to=te=li=an =log=ic
-Ar=is=to=tle
 ar=ith=man=cy
 ar=ith=met=i=cal
 ar=ith=met=i=cal=ly
-Ar=i=ad=ae=us
-Ar=i=ad=na
-Ar=i=ad=ne
-Ar=i=an
-Ar=i=ane
-Ar=i=an=ism
-Ar=i=an=is=tic
-Ar=i=an=is=ti=cal
-Ar=i=el
 ar=i=el
-Ar=i=elle
 ar=i=ette
 ar=i=et=ta
 ar=i=et=tas
 ar=i=et=te
-Ar=i=mas=pi=ans
-Ar=i=ma=thae=a
-Ar=i=ma=thae=an
-Ar=i=ma=the=a
-Ar=i=ma=the=an
 ar=i=ose
-Ar=i=o=vis=tus
-Ar=i=star=chi=an
-Ar=i=stil=lus
-Ar=i=us
-Ar=i=zo=na
-Ar=i=zo=nan
-Ar=i=zo=ni=an
-Ar=jun
-Ar=ju=na
-Ar=kan=san
-Ar=kan=sas
-Ar=ka=del=phia
-Ar=khan=gelsk
-Ar=kie
 ar=kose
 ar=ko=sic
-Ar=leen
-Ar=len
-Ar=lene
-Ar=ley
-Ar=leyne
-Ar=liene
-Ar=lin
-Ar=line
-Ar=ling=ton
-Ar=lis
-Ar=liss
-Ar=lon
-Ar=lyn
-Ar=lyne
-Ar=magh
-Ar=mag=nac
-Ar=mand
 ar=mar=i=a
 ar=mar=i=an
 ar=mar=i=um
-Ar=ma=da
 ar=ma=da
 ar=ma=dil=lo
-Ar=ma=ged=don
-Ar=ma=gnac
 ar=ma=ment
 ar=ma=men=tar=i=um
 ar=ma=ry
 ar=ma=ture
-Ar=ma=vir
-Ar=men=ti
-Ar=men=tières
 ar=met
-Ar=me=ni=a
-Ar=me=ni=an
-Ar=me=ni=an =Church
-Ar=me=noid
 ar=mig=er=al
 ar=mig=er=ous
 ar=mil
-Ar=mil
 ar=mill
-Ar=mil=da
 ar=mil=la
-Ar=mil=la
 ar=mil=lae
 ar=mil=lar=y
 ar=mil=lar=y =sphere
-Ar=min
-Ar=min=i=an
-Ar=min=i=an=ism
-Ar=min=i=us
 ar=mip=o=tence
 ar=mip=o=tent
 ar=mi=ger
-Ar=mi=na
 ar=mi=stice
-Ar=mi=stice =Day
-Ar=mi=tage
 ar=moire
 ar=mor
 ar=mor-=clad
@@ -7235,11 +5914,8 @@ ar=mor-=pierc=ing
 ar=mored
 ar=mor=bear=er
 ar=mor=er
-Ar=mor=ic
 ar=mor=ies
 ar=mor=ist
-Ar=mor=i=ca
-Ar=mor=i=can
 ar=mor=plat=ed
 ar=mor=y
 ar=mour
@@ -7258,27 +5934,16 @@ ar=mo=ri=al
 ar=mure
 ar=my
 ar=my =ant
-Ar=my =List
 ar=my =worm
 ar=my=worm
-Ar=nae=us
 ar=nat=to
-Ar=ne
-Ar=nel
-Ar=nim
 ar=ni=ca
-Ar=no
-Ar=nold
-Ar=nold=son
-Ar=nulf
 ar=oid
 ar=omat
-Ar=on
 ar=o=mat=ic
 ar=o=mat=ic=ness
 ar=o=mat=i=cal=ly
 ar=o=ma=tic=i=ty
-Ar=p
 ar=peg=gi=at=ed
 ar=peg=gi=a=tion
 ar=peg=gi=o
@@ -7292,7 +5957,6 @@ ar=rack
 ar=raign
 ar=raign=er
 ar=raign=ment
-Ar=ran
 ar=range
 ar=ranged
 ar=range=a=ble
@@ -7301,12 +5965,10 @@ ar=rang=er
 ar=rang=ing
 ar=rant
 ar=rant=ly
-Ar=ras
 ar=ras
 ar=rased
 ar=ray
 ar=ray=al
-Ar=ra=u
 ar=rear
 ar=rears
 ar=rear=age
@@ -7320,15 +5982,8 @@ ar=rest=ment
 ar=res=tive
 ar=re=not=o=kous
 ar=re=not=o=ky
-Ar=re=pho=ri=a
-Ar=re=pho=roi
-Ar=re=pho=ros
-Ar=re=tine =ware
-Ar=re=ti=um
-Ar=rhe=ni=us
 ar=rhe=not=o=kous
 ar=rhe=not=o=ky
-Ar=rhe=pho=ri=a
 ar=rhyth=mi=a
 ar=rhyth=mi=cal=ly
 ar=ri
@@ -7346,7 +6001,6 @@ ar=riv=er
 ar=riv=ing
 ar=rière-=vous=sure
 ar=rière-=vous=sures
-Ar=ri=go
 ar=ri=s
 ar=ri=val
 ar=ri=ve=der=ci
@@ -7360,7 +6014,6 @@ ar=row=head
 ar=row=less
 ar=row=like
 ar=row=root
-Ar=row=smith
 ar=row=wood
 ar=row=worm
 ar=row=y
@@ -7376,7 +6029,6 @@ ar=ro=gat=ing
 ar=ro=gat=ing=ly
 ar=ro=ga=tion
 ar=ro=ga=tor
-Ar=ru =Is=lands
 ar=ryth=mi=a
 ar=ryth=mi=cal=ly
 ar=sen=i=cal
@@ -7395,14 +6047,9 @@ ar=se=ni=ous
 ar=se=no
 ar=se=nous
 ar=se=no=py=rite
-Ar=se=ny
-Ar=shile
 ar=shin
 ar=shine
 ar=sine
-Ar=sin=o=us
-Ar=sin=o=ë
-Ar=sip=pe
 ar=sis
 ar=si=no
 ar=son
@@ -7410,21 +6057,12 @@ ar=son=ist
 ar=sy-=var=sy
 ar=sy=ver=sy
 ar=tal
-Ar=taud
-Ar=ta=ci=a
-Ar=ta=xerx=es =I
-Ar=ta=xerx=es =II
 ar=tel
 ar=ter=ies
 ar=ter=y
 ar=te=fact
-Ar=te=mas
-Ar=te=mis
 ar=te=mis=i=a
-Ar=te=mis=i=on
 ar=te=mi=si=a
-Ar=te=movsk
-Ar=te=mus
 ar=te=ri=al
 ar=te=ri=al=ise
 ar=te=ri=al=ised
@@ -7441,12 +6079,9 @@ ar=te=ri=o=scle=rot=ic
 ar=te=ri=o=scle=ro=sis
 ar=te=ri=o=ve=nous
 ar=te=ri=tis
-Ar=te=sia
 ar=te=sian
 ar=te=sian =well
 ar=te=so=na=do
-Ar=te=veld
-Ar=tha
 ar=thral=gia
 ar=thral=gic
 ar=threc=to=my
@@ -7454,9 +6089,7 @@ ar=thrit=ic
 ar=thri=tis
 ar=throd=ic
 ar=throl=o=gy
-Ar=throp=o=da
 ar=throp=o=dal
-Ar=thro=bac=ter
 ar=thro=dire
 ar=thro=di=a
 ar=thro=di=ae
@@ -7468,8 +6101,6 @@ ar=thro=pod
 ar=thro=spore
 ar=thro=spor=ic
 ar=thro=spor=ous
-Ar=thur
-Ar=thu=ri=an
 ar=tic
 ar=tic=u=lar
 ar=tic=u=lar=ly
@@ -7488,7 +6119,6 @@ ar=tic=u=la=tor
 ar=tic=u=la=to=ri=ly
 ar=tic=u=la=to=ry
 ar=tic=u=la=to=ry =pho=net=ics
-Ar=tie
 ar=tif=i=cer
 ar=til=ler=ist
 ar=til=ler=y
@@ -7502,8 +6132,6 @@ ar=ti=choke
 ar=ti=cle
 ar=ti=cle =of =faith
 ar=ti=cles =of =as=so=ci=a=tion
-Ar=ti=cles =of =Con=fed=er=a=tion
-Ar=ti=cles =of =War
 ar=ti=fact
 ar=ti=fac=ti=tious
 ar=ti=fice
@@ -7519,46 +6147,23 @@ ar=ti=fi=cial=ize
 ar=ti=fi=cial=ly
 ar=ti=fi=cial=ness
 ar=ti=fi=ci=al=i=ty
-Ar=ti=gas
 ar=ti=o=dac=tyl
-Ar=ti=o=dac=ty=la
 ar=ti=o=dac=ty=lous
 ar=ti=san
 ar=ti=san=al
 ar=ti=san=ship
-Ar=tois
 ar=to=pho=ri=a
 ar=to=pho=ri=on
 ar=to=type
-Ar=tur
-Ar=tu=ro
-Ar=ty
-Ar=tzy=ba=sheff
-Ar=tzy=ba=shev
 ar=um
 ar=um=like
-Ar=uns
-Ar=un=del
-Ar=vad=a
-Ar=val
-Ar=va=les
-Ar=vid
-Ar=vin
 ar=vo
-Ar=vol
 ar=yl
 ar=yl=ate
 ar=yl=at=ed
 ar=yl=at=ing
 ar=yl=a=mine
 ar=yl=a=tion
-Ar=y=an
-Ar=y=an=ise
-Ar=y=an=ised
-Ar=y=an=is=ing
-Ar=y=an=ize
-Ar=y=an=ized
-Ar=y=an=iz=ing
 ar=y=bal=li
 ar=y=bal=loi
 ar=y=bal=loid
@@ -7570,59 +6175,29 @@ ar=y=tae=noid
 ar=y=te=noid
 ar=y=te=noi=dal
 ar=y=te=no=ep=i=glot=tic
-Ar=za=chel
 ascetic
 asdic
 ash
-Ash =Wednes=day
-Ashe=bor=o
-Ashe=ville
-Ash=burn
-Ash=bur=ton
-Ash=by
 ash=can
-Ash=che=naz
-Ash=croft
-Ash=dod
-Ash=down
 ash=en
-Ash=er
-Ash=er=ite
 ash=es
-Ash=es
 ash=et
-Ash=ford
 ash=i=er
 ash=i=est
 ash=key
-Ash=ke=naz
-Ash=ke=naz=i
-Ash=ke=naz=ic
-Ash=ke=naz=im
-Ash=ke=na=zi
-Ash=kha=bad
-Ash=land
 ash=lar
 ash=lar=ing
 ash=ler
 ash=less
-Ash=ley
 ash=man
 ash=plant
 ash=ram
-Ash=ta=bu=la
-Ash=ton
-Ash=ton-=un=der-=Lyne
-Ash=to=reth
 ash=tray
-Ash=ur
-Ash=ur=ba=ni=pal
 ash=y
 ask
 ask =af=ter
 ask=er
 ask=ing =price
-Ask=ja
 asp
 asp=ish
 ass
@@ -7640,18 +6215,15 @@ asth=mat=ic
 asth=mat=i=cal
 asth=mat=i=cal=ly
 asth=ma=toid
-Asti=spumante
 astr
 astrol
 astron
 aswamp=ish
-As=a=el
 as=a=fet=i=da
 as=a=foet=i=da
 as=a=ra=bac=ca
 as=a=ro=tum
 as=a=rum
-As=ben
 as=bes=tine
 as=bes=toid
 as=bes=toi=dal
@@ -7659,12 +6231,7 @@ as=bes=tos
 as=bes=to=sis
 as=bes=tus
 as=bo=lane
-As=bur=y
-As=cal=a=bus
-As=cal=a=phus
 as=car=i=dole
-As=ca=ni=an
-As=ca=ni=us
 as=ca=rid
 as=ca=ri=a=sis
 as=cend
@@ -7680,11 +6247,8 @@ as=cend=ing
 as=cend=ing=ly
 as=cend=i=ble
 as=cent
-As=cen=sion
 as=cen=sion
-As=cen=sion =Day
 as=cen=sion=al
-As=cen=sion=tide
 as=cen=sive
 as=cer=tain
 as=cer=tain=a=ble
@@ -7696,30 +6260,22 @@ as=cet=ic
 as=cet=i=cal
 as=cet=i=cal=ly
 as=cet=i=cism
-As=ce=nez
 as=ce=sis
-As=cham
 as=ci
 as=cid=i=a
 as=cid=i=an
 as=cid=i=um
 as=cit=ic
 as=ci=tes
-As=clep=i
 as=cle=pi=a=da=ceous
-As=cle=pi=a=de
-As=cle=pi=a=de=an
-As=cle=pi=us
 as=cog=e=nous
 as=con
 as=cot
-As=cot
 as=co=carp
 as=co=carp=ous
 as=co=go=ni=a
 as=co=go=ni=al
 as=co=go=ni=um
-As=co=li =Pi=ce=no
 as=co=my=cete
 as=co=my=ce=tous
 as=co=noid
@@ -7730,44 +6286,27 @@ as=cribed
 as=crib=ing
 as=crip=tion
 as=cus
-As=cus
 as=dic
-As=e=nath
-As=e=neth
-As=gard
-As=garth
-As=geir
-As=geirs=son
-As=hab
 as=i=nine
 as=i=nine=ly
 as=i=nin=i=ty
 as=ka=rel
 as=ka=ri
 as=kos
-As=ma=ra
-As=mo=de=us
-As=mo=nae=an
-As=mo=ne=an
-As=ni
-As=nières
 as=par=a=gine
 as=par=a=gus
 as=par=tic =ac=id
 as=pa=rag=i=nous
-As=pa=sia
 as=pect
 as=pect =ra=ti=o
 as=pec=tant
 as=pec=tu=al
-As=pen
 as=pen
 as=per
 as=perse
 as=persed
 as=pers=er
 as=pers=ing
-As=per=ges
 as=per=gill
 as=per=gil=la
 as=per=gil=li
@@ -7782,7 +6321,6 @@ as=per=so=ri=a
 as=per=so=ri=um
 as=phalt
 as=phalt=like
-As=phal=i=us
 as=phal=tene
 as=phal=tic
 as=phal=tite
@@ -7798,7 +6336,6 @@ as=phyx=i=at=ing
 as=phyx=i=a=tion
 as=phyx=i=a=tor
 as=pic
-As=pin=wall
 as=pire
 as=pired
 as=pir=ant
@@ -7814,8 +6351,6 @@ as=pi=ra=ta
 as=pi=ra=tion
 as=pi=ra=tor
 as=pi=rin
-As=quith
-As=sad
 as=sai
 as=sail
 as=sail=ant
@@ -7823,11 +6358,8 @@ as=sail=a=ble
 as=sail=a=ble=ness
 as=sail=er
 as=sail=ment
-As=sam
 as=sam
-As=sar=a=cus
 as=sas=sin
-As=sas=sin
 as=sas=sin =bug
 as=sas=si=nate
 as=sas=si=nat=ed
@@ -7848,17 +6380,14 @@ as=sa=gai
 as=sa=gaied
 as=sa=gai=ing
 as=sa=i
-As=sa=mese
 as=sem=bl
 as=sem=blage
 as=sem=ble
 as=sem=bled
 as=sem=bler
-As=sem=bly
 as=sem=bly
 as=sem=bly =line
 as=sem=bly=man
-As=sen
 as=sent
 as=sent=er
 as=sent=ing=ly
@@ -7867,7 +6396,6 @@ as=sen=tive
 as=sen=tive=ness
 as=sen=ti=ent
 as=sen=tor
-As=ser
 as=sert
 as=sert=ed
 as=sert=ed=ly
@@ -7900,7 +6428,6 @@ as=sev=er=a=tive=ly
 as=se=gai
 as=se=gaied
 as=se=ga=ing
-As=shur
 as=sib=i=late
 as=sib=i=lat=ed
 as=sib=i=lat=ing
@@ -7930,8 +6457,6 @@ as=sim=i=la=tive
 as=sim=i=la=tive=ness
 as=sim=i=la=tor
 as=sim=i=la=to=ry
-As=sin=i=boin
-As=sin=i=boine
 as=sist
 as=sist=ant=ship
 as=sist=er
@@ -7940,13 +6465,9 @@ as=sis=tance
 as=sis=tant
 as=sis=tant =pro=fes=sor
 as=sis=tor
-As=siut
 as=size
 as=siz=es
-As=si=dae=an
-As=si=de=an
 as=si=du=i=ty
-As=si=si
 as=soil
 as=sort
 as=sort=a=tive
@@ -7955,7 +6476,6 @@ as=sort=ed
 as=sort=er
 as=sort=ive
 as=sort=ment
-As=souan
 as=so=ci=ate
 as=so=ci=ate =pro=fes=sor
 as=so=ci=at=ed
@@ -7981,14 +6501,11 @@ as=suaged
 as=suage=ment
 as=suag=er
 as=suag=ing
-As=suan
 as=sua=sive
 as=sume
 as=sumed
 as=sump=sit
 as=sump=tion
-As=sump=tion
-As=sump=tion=ist
 as=sump=tive
 as=sump=tive=ly
 as=sum=a=ble
@@ -7997,11 +6514,9 @@ as=sum=ed=ly
 as=sum=er
 as=sum=ing
 as=sum=ing=ly
-As=sur
 as=sure
 as=sured
 as=sur=ance
-As=sur=ba=ni=pal
 as=sur=ed=ly
 as=sur=ed=ness
 as=sur=er
@@ -8009,14 +6524,6 @@ as=sur=gent
 as=sur=gen=cy
 as=sur=ing
 as=sur=or
-As=su=er=us
-As=syr=i=a
-As=syr=i=an
-As=syr=i=ol=o=gist
-As=syr=i=ol=o=gy
-As=syr=i=o=log=i=cal
-As=syr=o-=Bab=y=lo=ni=an
-As=tar=te
 as=ta=tine
 as=ter
 as=ter=a=ceous
@@ -8026,16 +6533,10 @@ as=ter=is=mal
 as=ter=ix=is
 as=ter=oid
 as=ter=oi=dal
-As=ter=oi=de=a
 as=ter=oi=de=an
-As=ter=o=pe
 as=te=ris=cus
 as=te=ris=cus=es
 as=te=ri=at=ed
-As=te=ri=on
-As=te=ri=us
-As=te=ro=di=a
-As=te=ro=pae=us
 as=then=ic
 as=then=o=sphere
 as=the=ni=a
@@ -8043,13 +6544,11 @@ as=the=nope
 as=the=nop=ic
 as=the=no=pi=a
 as=the=ny
-As=ti
 as=tig=mat=ic
 as=tig=mat=i=cal=ly
 as=tig=mat=o=scope
 as=tig=mom=e=ter
 as=tig=mom=e=try
-As=ton
 as=ton=ied
 as=ton=ish
 as=ton=ished=ly
@@ -8058,35 +6557,22 @@ as=ton=ish=ing
 as=ton=ish=ing=ly
 as=ton=ish=ing=ness
 as=ton=ish=ment
-As=tor
 as=tound
 as=tound=ing
 as=tound=ing=ly
-As=to=lat
-As=to=ri=a
-As=tra
-As=trae=a
-As=trae=an
-As=trae=us
 as=trag=a=lar
 as=trag=a=lo=man=cy
 as=tral
 as=tral=ly
-As=tran=gi=a
-As=tra=ba=cus
 as=tra=chan
 as=tra=gal
-As=tra=khan
 as=tra=khan
 as=tra=pho=bi=a
-As=tra=tei=a
-As=tre=a
 as=trict
 as=tric=tion
 as=tric=tive
 as=tric=tive=ly
 as=tric=tive=ness
-As=trid
 as=tringe
 as=tringed
 as=tring=ing
@@ -8127,8 +6613,6 @@ as=tro=man=cy
 as=tro=man=tic
 as=tro=met=ric
 as=tro=naut
-As=tro=nauts
-As=tro=nau=ta=rum
 as=tro=nau=tic
 as=tro=nau=tics
 as=tro=nau=ti=cal
@@ -8154,13 +6638,6 @@ as=tute=ness
 as=tu=cious
 as=tu=cious=ly
 as=tu=ci=ty
-As=tu=ri=an
-As=tu=ri=as
-As=ty=a=nax
-As=ty=da=mi=a
-As=wan
-As=wan =High =Dam
-As=wân
 as=ymp=tote
 as=ymp=tot=ic
 as=ymp=tot=i=cal
@@ -8168,48 +6645,23 @@ as=ymp=tot=i=cal=ly
 as=yn=det=ic
 as=yn=det=i=cal=ly
 at-=home
-Atch=e=son
-Atch=i=son
 ate
 ath=ar
-Ath=a=bas=ca
-Ath=a=bas=can
-Ath=a=bas=ka
-Ath=a=bas=kan
-Ath=a=lie
-Ath=a=li=a
-Ath=a=li=ah
-Ath=a=mas
 ath=a=na=sia
-Ath=a=na=sian
-Ath=a=na=sian =Creed
-Ath=a=na=sius
 ath=a=nor
-Ath=a=pas=can
-Ath=a=pas=kan
-Ath=el
-Ath=el=bert
 ath=el=ing
-Ath=el=red
-Ath=el=stan
-Ath=ens
 ath=er=ine
 ath=er=o=ma
 ath=er=o=mas
 ath=er=o=ma=ta
 ath=er=o=scle=rot=ic
 ath=er=o=scle=ro=sis
-Ath=er=ton
 ath=e=nae=um
-Ath=e=nae=um
-Ath=e=nae=us
 ath=e=ne=um
-Ath=e=ne=um
 ath=e=toid
 ath=e=tot=ic
 ath=e=to=sic
 ath=e=to=sis
-Ath=ie
 ath=lete
 ath=lete's =foot
 ath=let=ic
@@ -8217,8 +6669,6 @@ ath=let=ic =sup=port
 ath=let=ics
 ath=let=i=cal=ly
 ath=let=i=cism
-Ath=ol
-Ath=os
 ath=o=dyd
 ath=o=nite
 ath=ro=cyte
@@ -8228,64 +6678,37 @@ att
 attn
 attrib
 atty
-Att=lee
 at=ar
 at=a=bal
-At=a=ba=li=pa
-At=a=brine
-At=a=by=ri=an
 at=a=cam=ite
 at=a=ghan
-At=a=hual=pa
-At=a=lan=ta
-At=a=lan=te
 at=a=man
 at=a=mas=co
 at=a=rac=tic
-At=a=rax
 at=a=rax=ic
 at=a=rax=i=a
 at=a=rax=y
-At=a=t
 at=a=vism
 at=a=vist
 at=a=vis=tic
 at=a=vis=ti=cal=ly
-At=ba=ra
 at=el=ier
 at=el=iers
 at=e=brin
 at=e=lec=tat=ic
 at=e=lec=ta=sis
 at=ing
-At=i=la
-At=kins
-At=kin=son
-At=lan=ta
 at=lan=tad
 at=lan=tal
 at=lan=tes
-At=lan=te=an
-At=lan=tic
-At=lan=tic =Char=ter
-At=lan=tic =Cit=y
-At=lan=tic =In=tra=coast=al =Wa=ter=way
-At=lan=tic =O=cean
-At=lan=tic =Prov=in=ces
-At=lan=tic =Stand=ard =Time
-At=lan=tis
-At=las
 at=las
-At=las =Moun=tains
 at=las=es
-At=li
 at=ma
 at=man
 at=mi=dom=e=ter
 at=mol=y=sis
 at=mom=e=ter
 at=mom=e=try
-At=more
 at=mos=phere
 at=mos=phere=less
 at=mos=pher=ic
@@ -8326,7 +6749,6 @@ at=ri=cho=sis
 at=ro=ce=ru=le=ous
 at=ro=ce=ru=le=us
 at=ro=coe=ru=le=us
-At=ro=pa=te=ne
 at=ro=phied
 at=ro=phy
 at=ro=phy=ing
@@ -8334,7 +6756,6 @@ at=ro=pin
 at=ro=pine
 at=ro=pin=ism
 at=ro=pism
-At=ro=pos
 at=tach
 at=tached
 at=tach=a=ble
@@ -8353,7 +6774,6 @@ at=tain=der
 at=tain=er
 at=tain=ment
 at=tain=ture
-At=tal=la
 at=tar
 at=ta=bal
 at=ta=boy
@@ -8376,7 +6796,6 @@ at=tend=ing
 at=tend=ing=ly
 at=tent
 at=tent=ly
-At=ten=bor=ough
 at=ten=tion
 at=ten=tion-=get=ting
 at=ten=tion=al
@@ -8399,11 +6818,7 @@ at=tes=ta=tive
 at=tes=ta=tor
 at=tes=tive
 at=tes=tor
-At=tic
 at=tic
-At=tic =or=der
-At=tic =salt
-At=til=a
 at=tin=gence
 at=tin=gent
 at=tin=gen=cy
@@ -8411,21 +6826,10 @@ at=tire
 at=tired
 at=tire=ment
 at=tir=ing
-At=tis
-At=ti=ca
-At=ti=cise
 at=ti=cise
-At=ti=cised
 at=ti=cism
-At=ti=cism
-At=ti=cist
 at=ti=cist
-At=ti=cis=ing
-At=ti=cize
 at=ti=cize
-At=ti=cized
-At=ti=ciz=ing
-At=ti=la
 at=ti=tude
 at=ti=tu=di=nal
 at=ti=tu=di=nar=i=an
@@ -8437,13 +6841,10 @@ at=ti=tu=di=nize
 at=ti=tu=di=nized
 at=ti=tu=di=niz=er
 at=ti=tu=di=niz=ing
-At=ti=us
-At=tle=bor=o
 at=torn
 at=torn=ment
 at=tor=ney
 at=tor=ney =gen=er=al
-At=tor=ney =Gen=er=al
 at=tor=ney-=at-=law
 at=tor=ney-=in-=fact
 at=tor=neys-=at-=law
@@ -8480,16 +6881,12 @@ at=tri=bu=tion
 at=tri=tion
 at=tri=tion=al
 at=tri=tive
-At=tu
 at=tune
 at=tuned
 at=tun=ing
-At=wa=ter
 au =gra=tin
 au =na=tu=rel
 au =re=voir
-Auck=land
-Auck=land =Is=lands
 auc=tion
 auc=tion =bridge
 auc=tion=ar=y
@@ -8497,7 +6894,6 @@ auc=tion=eer
 auc=to=ri=al
 aught
 aught=lins
-Augs=burg
 aug=ment
 aug=ment=a=ble
 aug=ment=a=tive
@@ -8511,14 +6907,12 @@ auld
 aumm=bu=la=to=ry
 aum=bry
 aunt
-Aunt =Sal=ly
 aunt=ie
 aunt=ie =man
 aunt=ies
 aunt=like
 aunt=y
 aur=ous
-Ausch=witz
 aus=cul=tate
 aus=cul=tat=ed
 aus=cul=tat=ing
@@ -8526,9 +6920,6 @@ aus=cul=ta=tion
 aus=cul=ta=tive
 aus=cul=ta=tor
 aus=form=ing
-Aus=gleich
-Aus=gleich=e
-Aus=le=se
 aus=pex
 aus=pice
 aus=pic=es
@@ -8540,59 +6931,21 @@ aus=pi=cial
 aus=pi=cious
 aus=pi=cious=ly
 aus=pi=cious=ness
-Aus=sie
 aus=tem=per
-Aus=ten
 aus=ten=ite
 aus=ten=it=ic
 aus=ten=it=ic =stain=less =steel
 aus=ten=it=ize
 aus=ten=it=ized
 aus=ten=it=iz=ing
-Aus=ter
 aus=tere
 aus=tere=ly
 aus=tere=ness
 aus=ter=i=ty
-Aus=ter=litz
-Aus=tin
 aus=tral
-Aus=tral =Is=lands
-Aus=tral=a=sia
-Aus=tral=a=sian
-Aus=tral=a=si=a
-Aus=tral=ia
-Aus=tral=ian
-Aus=tral=i=a
-Aus=tral=i=a =Day
-Aus=tral=i=an
-Aus=tral=i=an =Alps
-Aus=tral=i=an =Ant=arc=tic =Ter=ri=to=ry
-Aus=tral=i=an =Cap=i=tal =Ter=ri=to=ry
-Aus=tral=i=an =Rules
-Aus=tral=i=an =ter=ri=er
-Aus=tral=i=an=ise
-Aus=tral=i=an=ism
-Aus=tral=i=an=ize
-Aus=tral=i=a=na
-Aus=tral=orp
-Aus=tra=le
 aus=tra=lite
-Aus=tra=li=oid
-Aus=tra=loid
-Aus=tra=lo=pith=e=cine
 aus=tra=lo=pith=e=cine
-Aus=tra=lo=pith=e=cus
-Aus=tra=sia
 aus=trin=ger
-Aus=tri=a
-Aus=tri=a-=Hun=ga=ry
-Aus=tri=an
-Aus=tro-=As=i=at=ic
-Aus=tro-=Hun=gar=i=an
-Aus=tro=a=si=at=ic
-Aus=tro=ne=sia
-Aus=tro=ne=sian
 auth
 auth=or=ess
 auto
@@ -8611,34 +6964,21 @@ aux=il=ia=ry =verb
 aux=in
 aux=i=lyt=ic
 aux=i=mone
-Aux=o
 aux=o=car=di=a
 aux=o=chrome
 aux=o=chrom=ic
 au=bade
 au=bades
-Au=ba=nel
-Au=ber
 au=berge
 au=ber=gine
 au=ber=giste
-Au=ber=on
-Au=ber=vil=liers
-Au=bin
-Au=brey
 au=bre=tia
 au=brie=tia
 au=burn
-Au=burn
-Au=bus=son
-Au=byn
 au=dac=i=ty
 au=da=cious
 au=da=cious=ly
 au=da=cious=ness
-Au=den
-Au=di
-Au=die
 au=dile
 au=dit
 au=di=bil=i=ty
@@ -8674,70 +7014,39 @@ au=di=to=ri=um
 au=di=to=ri=ums
 au=di=to=ry
 au=di=tress
-Au=drey
-Au=du=bon
-Au=er
-Au=er=bach
-Au=ge
 au=gend
 au=ger
-Au=ger =ef=fect
-Au=ge=an
-Au=ge=an =sta=bles
-Au=ge=as
-Au=gier
 au=gite
 au=git=ic
 au=gur
 au=gust
-Au=gust
-Au=guste
 au=gust=ly
 au=gust=ness
-Au=gus=ta
-Au=gus=tan
-Au=gus=ta=les
-Au=gus=tine
-Au=gus=tin=ism
-Au=gus=tin=i=an
-Au=gus=tin=i=an=ism
-Au=gus=tus
 au=gu=ral
 au=gu=ry
-Au=lard
 au=lic
-Au=lic =Coun=cil
-Au=lis
 au=los
 au=lo=phyte
 au=mil=dar
 au=ra
-Au=ra
 au=rae
 au=ral
-Au=ral
 au=ral=ly
-Au=rang=zeb
 au=rar
 au=ras
 au=ra=mine
-Au=rel=ia
 au=re=ate
 au=re=ate=ly
 au=re=ate=ness
 au=re=i
 au=re=li=a
 au=re=li=an
-Au=re=li=an
-Au=re=li=us
 au=re=ole
 au=re=o=la
 au=re=o=lin
 au=re=o=line
-Au=re=o=my=cin
 au=re=us
 au=ric
-Au=ric
 au=ric=u=la
 au=ric=u=lar
 au=ric=u=lar=i=a
@@ -8749,8 +7058,6 @@ au=ric=u=lat=ed
 au=ric=u=lo=ven=tric=u=lar
 au=rif=er=ous
 au=rif=ic
-Au=rig=na=cian
-Au=riol
 au=rist
 au=ri=cle
 au=ri=cled
@@ -8759,26 +7066,18 @@ au=ri=fi=ca=tion
 au=ri=form
 au=ri=fy
 au=ri=fy=ing
-Au=ri=ga
 au=ri=ga
-Au=ri=gnac
-Au=ri=gna=cian
 au=ri=scope
 au=ri=scop=ic
 au=ri=scop=i=cal=ly
 au=rochs
-Au=ro=ra
 au=ro=ra
 au=ro=ra =aus=tra=lis
 au=ro=ra =bo=re=al=is
 au=ro=ral
 au=ro=ral=ly
 au=ro=re=an
-Au=rum
 au=rum
-Au=rung=zeb
-Au=sa=ble
-Au=so=ni=us
 au=tarch
 au=tar=chic
 au=tar=chist
@@ -8792,7 +7091,6 @@ au=tar=ki=cal=ly
 au=tar=ky
 au=ta=coid
 au=ta=coi=dal
-Au=teuil
 au=teur
 au=te=cious
 au=te=cious=ly
@@ -8816,7 +7114,6 @@ au=thor=is=er
 au=thor=is=ing
 au=thor=ize
 au=thor=ized
-Au=thor=ized =Ver=sion
 au=thor=iz=a=ble
 au=thor=iz=er
 au=thor=i=sa=tion
@@ -8863,7 +7160,6 @@ au=tog=e=nous=ly
 au=tog=e=ny
 au=tog=ra=phy
 au=toi=cous
-Au=tol=y=cus
 au=tol=y=sis
 au=tom=a=ta
 au=tom=a=tise
@@ -8872,12 +7168,10 @@ au=tom=a=tist
 au=tom=a=tize
 au=tom=a=ton
 au=tom=a=tous
-Au=tom=e=don
 au=ton=o=mist
 au=ton=o=mous
 au=ton=o=mous=ly
 au=ton=o=my
-Au=ton=o=ë
 au=top=sic
 au=top=sist
 au=top=si=cal
@@ -8947,7 +7241,6 @@ au=to=graph
 au=to=graph=ic
 au=to=graph=i=cal=ly
 au=to=gy=ro
-Au=to=harp
 au=to=harp
 au=to=hyp=not=ic
 au=to=hyp=not=i=cal=ly
@@ -9008,7 +7301,6 @@ au=to=plas=tic
 au=to=plas=ty
 au=to=pol=y=ploid
 au=to=pol=y=ploi=dy
-Au=to=pos=i=tive
 au=to=po=tam=ic
 au=to=put
 au=to=ra=di=og=ra=phy
@@ -9049,24 +7341,16 @@ au=tumn =cro=cus
 au=tum=nal
 au=tum=nal =e=qui=nox
 au=tum=nal=ly
-Au=tum=ni
 au=tun=ite
-Au=vergne
-Au=wers
-Au=zout
 avdp
 ave
-Ave=bur=y
 avg
 avn
 avoir
-Av=al=lon
 av=a=da=vat
 av=a=lanche
 av=a=lanched
 av=a=lanch=ing
-Av=a=lon
-Av=a=lon =Pen=in=su=la
 av=a=rice
 av=a=ri=cious
 av=a=ri=cious=ly
@@ -9074,41 +7358,26 @@ av=a=ri=cious=ness
 av=a=tar
 av=ens
 av=en=tail
-Av=en=tine
 av=er=age
 av=er=age =de=vi=a=tion
 av=er=aged
 av=er=age=ly
 av=er=ag=ing
-Av=er=rho=ism
-Av=er=rho=ist
-Av=er=rho=is=tic
-Av=er=ro=ism
-Av=er=ro=ist
-Av=er=ro=is=tic
-Av=er=yl
-Av=e=line
-Av=e=li=na
 av=e=na=ceous
 av=e=nue
 av=id
 av=id=ly
-Av=i=cen=na
 av=i=din
 av=i=ga=tion
 av=i=ga=tor
 av=i=zan=dum
-Av=lo=na
 av=oir=du=pois
 av=oir=du=pois =weight
-Av=on=dale
 av=o=ca=do
 av=o=ca=tion
 av=o=cet
 av=o=di=re
 av=o=set
-Av=ram
-Av=ril
 awe
 awe-=in=spir=ing
 awe-=strick=en
@@ -9141,10 +7410,8 @@ aw=mous
 aw=ninged
 axe
 axe-=break=er
-Ax=a
 ax=an=thop=si=a
 ax=el
-Ax=el
 ax=es
 ax=il
 ax=ile
@@ -9156,7 +7423,6 @@ ax=il=lar=y
 ax=ing
 ax=in=o=man=cy
 ax=is
-Ax=is
 ax=ised
 ax=is=es
 ax=i=al
@@ -9175,13 +7441,11 @@ ax=i=o=log=i=cal=ly
 ax=i=o=mat=ic
 ax=i=o=mat=i=cal
 ax=i=o=mat=i=cal=ly
-Ax=i=o=poe=nus
 ax=le
 ax=led
 ax=le=tree
 ax=like
 ax=man
-Ax=min=ster =car=pet
 ax=on
 ax=one
 ax=on=al
@@ -9204,7 +7468,6 @@ az=oth
 az=ot=ed
 az=o=ben=zene
 az=o=im=ide
-Az=tec
 az=ure
 az=ur=ite
 az=yme
@@ -9236,20 +7499,14 @@ a=bat=ing
 a=bat=jour
 a=bat=tage
 a=ba=ca
-A=ba=dan
-A=ba=kan
 a=ba=sia
 a=ba=sic
 a=ba=tage
 a=ba=tor
 a=beam
 a=bed
-A=bed=ne=go
-A=bel
-A=bel-=me=ho=lah
 a=bele
 a=bel=mosk
-A=ber=glau=be
 a=bet
 a=bet=ment
 a=bet=tal
@@ -9263,11 +7520,6 @@ a=be=ce=dar=i=a
 a=be=ce=dar=i=an
 a=be=ce=dar=i=um
 a=be=ce=da=ry
-A=be=li=an
-A=be=li=an =group
-A=be=nez=ra
-A=be=o=ku=ta
-A=bib
 a=bide
 a=bid=ance
 a=bid=ed
@@ -9275,15 +7527,7 @@ a=bid=er
 a=bid=ing
 a=bid=ing=ly
 a=bid=ing=ness
-A=bid=jan
-A=bie
 a=bil=i=ty
-A=bim=e=lech
-A=bin=o=am
-A=bin=o=em
-A=bi=a=thar
-A=bi=hu
-A=bi=ne=ri
 a=bi=og=e=nist
 a=bi=ot=ic
 a=bi=ot=i=cal
@@ -9293,7 +7537,6 @@ a=bi=o=ge=net=ic
 a=bi=o=ge=net=i=cal
 a=bi=o=ge=net=i=cal=ly
 a=bi=o=sis
-A=bi=u
 a=blaze
 a=ble
 a=ble =rat=ing
@@ -9354,8 +7597,6 @@ a=bout
 a=bout-=face
 a=bout-=ship
 a=bou=dik=ro
-A=bou=kir
-A=bou=kir =Bay
 a=bou=lic
 a=bou=li=a
 a=bove
@@ -9367,12 +7608,10 @@ a=brade
 a=brad=ed
 a=brad=er
 a=brad=ing
-A=bram
 a=bran=chi=al
 a=bran=chi=ate
 a=brax=as
 a=bra=dant
-A=bra=ham
 a=bra=ser
 a=bra=sion
 a=bra=sive
@@ -9390,14 +7629,9 @@ a=bridg=ment
 a=bris
 a=broach
 a=broad
-A=bruz=zi
-A=bu-=Bakr
-A=bu-=Bekr
-A=bul=fe=da
 a=bun=dance
 a=bun=dant
 a=bun=dant=ly
-A=bur=y
 a=buse
 a=bused
 a=bus=age
@@ -9412,11 +7646,8 @@ a=but=ted
 a=but=ter
 a=but=ting
 a=buzz
-A=bu=kir
-A=bu=kir =Bay
 a=bu=lic
 a=bu=li=a
-A=bu=na
 a=bu=ra
 a=bu=sive
 a=bu=sive=ly
@@ -9430,7 +7661,6 @@ a=byss=al
 a=bys=mal
 a=bys=mal=ly
 a=bys=sal
-A=by=dos
 a=cad=e=mise
 a=cad=e=mised
 a=cad=e=mism
@@ -9438,7 +7668,6 @@ a=cad=e=mis=ing
 a=cad=e=mize
 a=cad=e=mi=cian
 a=cad=e=my
-A=cad=e=my
 a=cal=cu=li=a
 a=can=thi
 a=can=thine
@@ -9457,28 +7686,19 @@ a=car=di=ac
 a=car=i=cide
 a=car=i=cid=al
 a=car=i=dan
-A=car=nan
 a=car=pel=lous
 a=car=pel=ous
 a=car=pous
-A=cas=tus
 a=cat=a=lec=tic
 a=cau=dal
 a=cau=date
 a=cau=les=cent
 a=cau=line
-A=ca=cal=lis
 a=ca=cia
-A=ca=die
-A=ca=di=a
-A=ca=di=an
-A=ca=pul=co
-A=cel=da=ma
 a=cel=lu=lar
 a=cen=tric
 a=ceph=a=lous
 a=cerb
-A=cer=bas
 a=cer=bic
 a=cer=bi=ty
 a=cer=vate
@@ -9487,9 +7707,7 @@ a=cer=vu=lus
 a=ces=cence
 a=ces=cent
 a=ces=cen=cy
-A=ces=i=us
 a=ces=o=dyne
-A=ces=sa=me=nus
 a=ces=to=ma
 a=cet=i=fied
 a=cet=i=fi=ca=tion
@@ -9514,7 +7732,6 @@ a=ce=di=a
 a=ce=nes=the=sia
 a=ce=quia
 a=ce=rous
-A=ce=tes
 a=ce=tic
 a=ce=tic =ac=id
 a=ce=tic =an=hy=dride
@@ -9527,29 +7744,10 @@ a=ce=tyl=an=i=line
 a=ce=tyl=ben=zene
 a=ce=tyl=cho=line
 a=ce=tyl=meth=yl=car=bi=nol
-A=chab
-A=chad
-A=chae=a
-A=chae=an
-A=chae=an =League
-A=chae=me=nes
-A=chae=me=nid
-A=chae=me=nids
-A=chae=us
-A=chai=an
-A=chan
 a=char
-A=char=ni=ans
-A=chaz
-A=cha=ia
-A=cha=ian
-A=cha=tes
 a=chech
 a=chei=la=ry
 a=chene
-A=cher=nar
-A=cheu=le=an
-A=cheu=li=an
 a=che=ni=al
 a=chieve
 a=chieved
@@ -9560,14 +7758,7 @@ a=chieve=ment =test
 a=chiev=a=ble
 a=chiev=er
 a=chiev=ing
-A=chil=les
-A=chil=les =heel
-A=chil=les =ten=don
-A=chim=a=as
-A=chim=e=lech
 a=chim=e=nes
-A=chish
-A=chit=o=phel
 a=chi=la=ry
 a=chlam=y=date
 a=chlor=hy=dric
@@ -9623,7 +7814,6 @@ a=cin=a=ci=fo=li=ate
 a=cin=a=ci=fo=li=ous
 a=cin=ic
 a=cin=i=form
-A=cis
 a=cleis=to=car=di=a
 a=clin=ic =line
 a=cock
@@ -9631,11 +7821,8 @@ a=cock=bill
 a=coe=lom=a=tous
 a=coe=lous
 a=coe=lo=mate
-A=coe=me=tae
-A=coe=me=ti
 a=coe=naes=the=sia
 a=cold
-A=con=ca=gua
 a=corn
 a=corn =bar=na=cle
 a=corn =valve
@@ -9661,16 +7848,13 @@ a=cou=asm
 a=cou=chi
 a=cou=chy
 a=co=ni=tum
-A=crae=a
 a=cral=de=hyde
-A=cre
 a=cre
 a=cre-=foot
 a=cre-=inch
 a=cred
 a=cre=age
 a=crid=i=ty
-A=cris=i=us
 a=crit=i=cal
 a=crod=ro=mous
 a=crog=e=nous=ly
@@ -9691,7 +7875,6 @@ a=croph=o=ny
 a=crop=a=thy
 a=crop=e=tal
 a=crop=e=tal=ly
-A=crop=o=lis
 a=crop=o=lis
 a=cross
 a=cross-=the-=board
@@ -9704,7 +7887,6 @@ a=cro=mi=a
 a=cro=mi=al
 a=cro=mi=on
 a=cro=ter
-A=crux
 a=cryl=ic
 a=cryl=ic =ac=id
 a=cryl=ic =fi=bre
@@ -9731,15 +7913,7 @@ a=cu=ti=lin=gual
 a=cyl
 a=cyl=o=in
 a=cy=clic
-A=c=res
-A=da
 a=dac=ty=lous
-A=dah
-A=dair
-A=dal
-A=dam=ic
-A=dam=i=cal
-A=dam=i=cal=ly
 a=dapt
 a=dapt=a=bil=i=ty
 a=dapt=a=ble
@@ -9752,25 +7926,13 @@ a=dap=tive =ra=di=a=tion
 a=dap=tive=ly
 a=dap=tive=ness
 a=dap=tor
-A=dar
-A=dar =She=ni
 a=dat
-A=da=bel
-A=da=belle
 a=da=giet=to
 a=da=gio
 a=da=gis=si=mo
 a=da=gi=al
 a=da=gi=o
-A=da=na
-A=da=pa
-A=del
-A=dele
-A=del=a
-A=del=phe
 a=demp=tion
-A=den
-A=den=au=er
 a=den=o=phore
 a=den=o=sine
 a=den=o=sine =tri=phos=phate
@@ -9780,29 +7942,13 @@ a=dept=ness
 a=der=min
 a=der=mine
 a=de=lan=ta=do
-A=de=li=na
-A=de=na
-A=de=nau=er
-A=die
 a=dieu
 a=dieus
 a=dieux
-A=din
 a=diph=e=nine
-A=dit=ya
 a=di=ac=tin=ic
-A=di=ge
-A=di=ghe
-A=di=granth
-A=di=na
 a=di=os
-A=di=va=si
 a=do
-A=dolf
-A=dolphe
-A=dol=phus
-A=don=ic
-A=don=i=ca
 a=dopt
 a=dopt=a=bil=i=ty
 a=dopt=a=ble
@@ -9827,24 +7973,10 @@ a=dor=er
 a=dor=ing
 a=dor=ing=ly
 a=dor=no
-A=dou=la
 a=down
 a=do=be
 a=do=be =flat
-A=do=nai
-A=do=nis
-A=do=ni=a
-A=do=noy
-A=do=ra
-A=do=wa
-A=dram=e=lech
-A=dram=me=lech
-A=dras=tos
-A=dras=tus
-A=dren=al=in
-A=dren=a=lin
 a=dren=a=line
-A=dres=tus
 a=dret
 a=dre=nin
 a=dre=nine
@@ -9852,23 +7984,12 @@ a=dre=no=cor=ti=co=troph=ic
 a=dre=no=cor=ti=co=trop=ic
 a=dre=no=cor=ti=co=trop=ic =hor=mone
 a=drift
-A=dri=aen
-A=dri=an
-A=dri=an =IV
-A=dri=an=op=o=lis
-A=dri=an=o=ple
-A=dri=at=ic
-A=dri=at=ic =Sea
-A=dri=a=nop=o=lis
-A=dri=enne
 a=droit
 a=droit=ly
 a=droit=ness
-A=dron
 a=dult
 a=dult=hood
 a=dult=ness
-A=dul=la=mite
 a=dul=ter=ant
 a=dul=ter=ate
 a=dul=ter=at=ed
@@ -9885,19 +8006,8 @@ a=dul=ter=y
 a=dunc
 a=dun=ci=ty
 a=dust
-A=du=wa
-A=dy=ge
-A=dy=gei
-A=dy=gei =Au=ton=o=mous =Re=gion
-A=dy=ghe
-A=dzhar
-A=dzhar=i=stan
-A=d=lie =Coast
-A=el=la
-A=el=lo
 a=e=des
 a=e=ne=ous
-A=e=ne=o=lith=ic
 a=faced
 a=fac=ing
 a=far
@@ -9922,11 +8032,7 @@ a=foul
 a=fo=cal
 a=fraid
 a=fresh
-A=fyon
 a=ga
-A=ga =Khan
-A=ga =Khan =IV
-A=gag
 a=gain
 a=gainst
 a=gal
@@ -9937,30 +8043,17 @@ a=gam=ic
 a=gam=i=cal=ly
 a=gam=ma=glob=u=li=ne=mi=a
 a=gape
-A=gar
 a=gar
 a=gar-=a=gar
 a=gar=i=ca=ceous
 a=gar=i=cin
-A=gar=ta=la
-A=gas=tro=phus
-A=gas=tya
-A=gath=o=cles
 a=gaze
-A=ga=dir
-A=ga=ma
-A=ga=na
 a=ga=pe
-A=ga=pe
-A=ga=ve
 a=ga=ve
-A=ga=ña
 a=ged
 a=ged=ly
 a=ged=ness
-A=gee
 a=gee
-A=gen
 a=gent
 a=gent =of =pro=duc=tion
 a=gent =pro=vo=ca=teur
@@ -9975,12 +8068,8 @@ a=gen=ti=val
 a=geu=sic
 a=geu=si=a
 a=geu=sti=a
-A=ge=na
-A=ge=nais
 a=ge=net=ic
 a=ge=ne=sia
-A=ge=nois
-A=ge=nor
 a=gha
 a=ghast
 a=gil=i=ty
@@ -9989,10 +8078,6 @@ a=gist=er
 a=gist=ment
 a=gis=tor
 a=gi=ta=to
-A=glai=a
-A=glau=ros
-A=gla=ia
-A=gla=us
 a=gleam
 a=gley
 a=glim=mer
@@ -10012,19 +8097,14 @@ a=gog=ics
 a=gone
 a=gon=ic
 a=gon=ic =line
-A=gos=ti=ni
 a=gou=ta
 a=gou=ti
 a=gou=ty
 a=go=nes
 a=go=ra
 a=go=roth
-A=go=sti=no
-A=gra
-A=grae=us
 a=grafe
 a=graffe
-A=gram
 a=gram=ma=pha=sia
 a=gram=ma=tism
 a=gran=u=lo=cy=to=sis
@@ -10033,7 +8113,6 @@ a=graph=i=a
 a=grar=i=an
 a=grar=i=an=ism
 a=grar=i=an=ly
-A=grau=los
 a=grav=ic
 a=gree
 a=greed
@@ -10043,124 +8122,63 @@ a=gree=a=ble=ness
 a=gree=a=bly
 a=gree=ing
 a=gree=ing=ly
-A=gree=ment
 a=gree=ment
 a=gres=tal
 a=gres=tic
-A=gric=o=la
-A=grip=pa
-A=gri=gen=to
-A=gri=nion
-A=gri=o=pe
-A=gri=us
 a=grol=o=gy
 a=gron=o=mist
 a=gron=o=my
 a=gros=to=graph=ic
 a=gros=to=log=ic
 a=ground
-A=gro=te=ra
 a=guar=dien=te
-A=guas=ca=lien=tes
-A=gua=dil=la
 a=gue
 a=gue=like
 a=gue=weed
-A=gui=nal=do
-A=gul=has
-A=gung
 a=gu=ish
 a=gu=ish=ly
 a=gu=jon
 a=gu=ra
 a=gu=roth
-A=gy=ieus
 a=ha
-A=hab
 a=han=ka=ra
-A=has=u=e=rus
-A=haz
-A=ha=zi=ah
 a=head
 a=hem
-A=hid=jo
-A=him=a=az
-A=him=e=lech
 a=him=sa
-A=hir
 a=his=tor=ic
 a=his=tor=i=cal
-A=hith=o=phel
-A=hi=e=zer
-A=hi=ra
-A=hi=sar
-A=hi=shar
 a=hold
 a=holt
-A=hom
 a=horse
-A=hos=kie
 a=hoy
 a=hu
 a=hue=hue=te
 a=hull
 a=hun=gered
-A=huz=zath
-A=hu=ra =Maz=da
 a=i
-A=ias
 a=in
-A=ir
 a=is
-A=i=do=ne=us
-A=i=e=a
-A=i=sha
-A=jac=cio
-A=jan=ta
 a=jar
-A=jax
 a=jee
 a=ji=va
-A=ji=vi=ka
-A=jo
-A=jodh=ya
-A=ju=ga
-A=kad=e=mi
-A=kan
-A=ka=ba
 a=ka=la
 a=ka=sha
 a=kee
-A=kel=da=ma
 a=kene
 a=ke=a=ke
 a=ke=la
-A=ke=la
-A=kha=i=a
 a=kha=ra
-A=kim
 a=kim=bo
 a=kin
-A=kins
-A=ki=ba
-A=ki=hi=to
 a=ki=net=ic
 a=ki=ne=sia
 a=ki=ne=sis
-A=ki=ta
-A=ku=re
-A=ku=ta=ga=wa
 a=la
-A=la
 a=lack
 a=lack=a=day
 a=lac=ri=tous
 a=lac=ri=ty
-A=lad=din
 a=lae
-A=lai
-A=lain
-A=lain-=Four=nier
 a=lan=nah
 a=lap
 a=lap=a
@@ -10175,85 +8193,35 @@ a=larm=ist
 a=lar=um
 a=lar=y
 a=las
-A=las=ka
-A=las=ka =High=way
-A=las=ka =Pen=in=su=la
-A=las=ka =Range
-A=las=kan
-A=las=tor
 a=late
 a=lat=ed
-A=layne
-A=la=g
-A=la=gez
-A=la=go=as
 a=la=li=a
-A=la=mein
 a=la=mode
 a=la=ry
 a=lec=i=thal
-A=lec=to
 a=lec=to=ro=man=cy
 a=lec=try=o=man=cy
 a=lee
-A=lei=chem
-A=lei=xan=dre
-A=lem=bert
 a=lem=bic
 a=lem=bi=cat=ed
-A=lene
-A=len=con
-A=len=con =lace
-A=len=çon
 a=leph-=null
 a=leph-=ze=ro
-A=lep=po
-A=lep=po =gall
 a=lert
 a=lert=ly
 a=lert=ness
 a=ler=ce
-A=les=san=dri
-A=les=san=dri=a
-A=les=san=dro
 a=lette
-A=lette
-A=let=ta
 a=leu=ro=man=cy
-A=leu=tian
-A=leu=tian =Is=lands
-A=leu=tians
-A=lex=a
-A=lex=ian
 a=lex=in
-A=lex=ine
-A=lex=is
 a=lex=i=a
-A=le=a
-A=le=ar=di
 a=le=a=to=ric
 a=le=a=to=ry
-A=le=bi=on
 a=le=cith=ic
-A=le=do
-A=le=gre=te
-A=le=ksan=drovsk
-A=le=ksan=dro=pol
-A=le=m
 a=le=ri=on
-A=le=si=a
-A=le=tes
 a=le=thic
 a=le=thi=ol=o=gist
 a=le=thi=ol=o=gy
 a=le=thi=o=log=ic
-A=le=us
-A=le=xan=dre
-A=le=xan=drou=po=lis
-A=le=xan=dro=po=lis
-A=li
-A=li =Ba=ba
-A=li =Pa=sha
 a=lif
 a=light
 a=light=ed
@@ -10264,14 +8232,12 @@ a=lign=er
 a=lign=ment
 a=like
 a=like=ness
-A=line
 a=line
 a=lined
 a=line=ment
 a=lin=er
 a=lin=ing
 a=list
-A=lis=sa
 a=lit
 a=live
 a=live=ness
@@ -10279,32 +8245,23 @@ a=liz=a=rin
 a=liz=a=rine
 a=li=as
 a=li=as=es
-A=li=a=cen=sis
-A=li=cia
-A=li=garh
 a=li=no=tum
-A=li=sa
 a=li=tur=gic
 a=li=tur=gi=cal
 a=li=un=de
 a=li=yah
 a=li=yahs
 a=li=yos
-A=li=za
 a=loft
-A=lois
 a=lone
 a=lone=ness
 a=long
 a=long=ships
 a=long=shore
 a=long=side
-A=lon=so
-A=lon=zo
 a=loof
 a=loof=ly
 a=loof=ness
-A=lost
 a=loud
 a=lou=et=te
 a=lou=et=tes
@@ -10314,16 +8271,10 @@ a=lo=di=a
 a=lo=di=al=i=ty
 a=lo=di=al=ly
 a=lo=di=um
-A=lo=e=us
-A=lo=gi
 a=lo=gia
-A=lo=ha
 a=lo=ha
-A=lo=pe=cus
-A=lo=ys
 a=lum=na
 a=lum=nus
-A=lun=dum
 a=lu=min=i=um =hy=drox=ide
 a=lu=min=i=um =ox=ide
 a=lu=min=i=um =sul=phate
@@ -10347,7 +8298,6 @@ a=lu=mi=no=ther=my
 a=lu=mi=num
 a=lu=no=gen
 a=lys=sum
-A=m
 a=mah
 a=main
 a=mal=gam
@@ -10358,16 +8308,8 @@ a=mal=gam=a=ble
 a=mal=gam=a=tion
 a=mal=gam=a=tive
 a=mal=gam=a=tor
-A=mal=ia
-A=mal=the=a
-A=man
-A=man=da
 a=man=dine
-A=man=ist
 a=man=u=en=sis
-A=mar=a
-A=mar=na
-A=mar=yn=ceus
 a=mass
 a=mass=a=ble
 a=mass=er
@@ -10383,15 +8325,10 @@ a=maz=ed=ly
 a=maz=ed=ness
 a=maz=ing
 a=maz=ing=ly
-A=ma=sa
-A=ma=ta
-A=ma=ti
-A=ma=to
 a=meer
 a=meer=ate
 a=mei=ot=ic
 a=mei=o=sis
-A=mel=ia
 a=mel=io=rant
 a=mel=io=rate
 a=mel=io=rating
@@ -10402,9 +8339,7 @@ a=mel=io=ra=tion
 a=mel=io=ra=tive
 a=mel=io=ra=tor
 a=men
-A=men
 a=men =cor=ner
-A=men-=Ra
 a=mend
 a=mends
 a=mend=a=ble
@@ -10413,8 +8348,6 @@ a=mend=a=to=ry
 a=mend=er
 a=mend=ment
 a=ment
-A=men=hot=pe =III
-A=men=ho=tep =III
 a=men=i=ty
 a=men=or=rhe=a
 a=men=or=rhe=al
@@ -10431,41 +8364,6 @@ a=merce=a=ble
 a=merce=ment
 a=merc=er
 a=merc=ing
-A=mers=foort
-A=mer=i=ca
-A=mer=i=ca's =Cup
-A=mer=i=can
-A=mer=i=can =al=oe
-A=mer=i=can =Beau=ty
-A=mer=i=can =cha=me=le=on
-A=mer=i=can =cheese
-A=mer=i=can =cloth
-A=mer=i=can =ea=gle
-A=mer=i=can =Ex=pe=di=tion=ar=y =Forc=es
-A=mer=i=can =foot=ball
-A=mer=i=can =In=di=an
-A=mer=i=can =In=di=an =Move=ment
-A=mer=i=can =plan
-A=mer=i=can =Rev=o=lu=tion
-A=mer=i=can =Sa=mo=a
-A=mer=i=can =Stand=ard =Ver=sion
-A=mer=i=can =tryp=a=no=so=mi=a=sis
-A=mer=i=can=ise
-A=mer=i=can=ised
-A=mer=i=can=ism
-A=mer=i=can=ist
-A=mer=i=can=is=er
-A=mer=i=can=is=ing
-A=mer=i=can=is=tic
-A=mer=i=can=ize
-A=mer=i=can=ized
-A=mer=i=can=iz=er
-A=mer=i=can=iz=ing
-A=mer=i=can=i=za=tion
-A=mer=i=can=ly
-A=mer=i=ca=na
-A=mer=i=ca=no
-A=mer=i=go =Ve=spuc=ci
 a=met=a=bol=ic
 a=me=ba
 a=me=bic
@@ -10474,12 +8372,10 @@ a=me=boid=ism
 a=me=bo=cyte
 a=me=lio=rate
 a=me=lio=ra=tion
-A=me=li=ta
 a=me=na=bil=i=ty
 a=me=na=ble
 a=me=na=ble=ness
 a=me=na=bly
-A=me=ri=go
 a=me=tab=o=lous
 a=mi
 a=mid
@@ -10489,31 +8385,22 @@ a=mid=ship
 a=mid=ships
 a=mie
 a=mies
-A=mil=ca=re
 a=mim=i=a
-A=min
 a=mine
 a=min=ic
 a=min=i=ty
-A=min=to=re
 a=mir
 a=mir=ate
 a=mis
-A=mis
-A=mish
 a=miss
-A=mit=tai
 a=mi=a=bil=i=ty
 a=mi=a=ble
 a=mi=a=ble=ness
 a=mi=a=bly
 a=mi=cus =cu=ri=ae
-A=mi=da
-A=mi=dah
 a=mi=do=cy=an=o=gen
 a=mi=do=gen
 a=mi=do=py=rine
-A=mi=el
 a=mi=ga
 a=mi=go
 a=mi=no
@@ -10533,12 +8420,9 @@ a=moe=boid
 a=moe=boid=ism
 a=moe=bo=cyte
 a=mok
-A=mon
-A=mon-=Ra
 a=mong
 a=mongst
 a=mon=til=la=do
-A=mor
 a=mor =pa=tri=ae
 a=mort
 a=mor=al
@@ -10552,26 +8436,18 @@ a=mor=tisse=ment
 a=mor=tize
 a=mor=ti=sa=tion
 a=mor=ti=za=tion
-A=mos
 a=mount
 a=mour
 a=mour-=pro=pre
 a=mowt
-A=moy
 a=mo=le
-A=mo=pa=on
 a=mo=ra
 a=mo=ral=i=ty
 a=mo=ra=im
 a=mo=ret=to
 a=mo=ri=no
 a=mo=ro=so
-A=mo=ry
-A=mu =Dar=ya
 a=muck
-A=mund=sen
-A=mund=sen =Sea
-A=mur
 a=mur=ca
 a=muse
 a=mused
@@ -10585,7 +8461,6 @@ a=mus=ing
 a=mus=ing=ly
 a=mus=ing=ness
 a=mu=gis
-A=mu=li=us
 a=mu=sive
 a=mu=sive=ly
 a=mu=sive=ness
@@ -10605,7 +8480,6 @@ a=myl=o=gen
 a=myx=or=rhe=a
 a=myx=or=rhoe=a
 a=my=a=ton=ic
-A=my=clas
 a=my=o=to=ni=a
 a=na
 a=nab=a=sine
@@ -10619,9 +8493,6 @@ a=nach=ro=nis=ti=cal
 a=nach=ro=nis=ti=cal=ly
 a=nach=ro=nous
 a=nach=ro=nous=ly
-A=nac=re=on
-A=nac=re=on=tic
-A=nac=re=on=ti=cal=ly
 a=nad=ro=mous
 a=naes=the=tise
 a=naes=the=tist
@@ -10654,13 +8525,7 @@ a=nal=y=sand
 a=nal=y=sis
 a=nal=y=sis =of =var=i=ance
 a=nal=y=sis =si=tus
-A=nam
-A=nam=bra
-A=nam=el=ech
-A=nam=mel=ech
-A=nand
 a=nan=da
-A=nan=da
 a=naph=o=ra
 a=naph=o=ral
 a=nas=ta=sis
@@ -10700,18 +8565,9 @@ a=nat=o=mi=za=tion
 a=nat=o=my
 a=nat=ro=pous
 a=nat=to
-A=nax=i=man=der
-A=nax=i=man=dri=an
-A=nax=o
-A=na=base
 a=na=branch
-A=na=dyr
 a=na=lo=gi=a
 a=na=lo=gi=on
-A=na=pur=na
-A=na=sa=zi
-A=na=tole
-A=neale
 a=near
 a=nele
 a=neled
@@ -10724,22 +8580,18 @@ a=nem=o=graph=i=cal=ly
 a=nem=o=ne
 a=nem=o=ne =fish
 a=nem=o=scope
-A=nem=o=tis
 a=nenst
 a=nent
 a=ner=gic
-A=nes=i=dor=a
 a=nes=the=tize
 a=nes=the=ti=za=tion
 a=neuch
 a=neu=ric
-A=neu=rin
 a=neu=ri=a
 a=new
 a=ne=mic
 a=ne=mi=a
 a=ne=mo=cho=ric
-A=ne=to
 a=ni
 a=nic=ca
 a=nil=i=ty
@@ -10749,7 +8601,6 @@ a=nis=ic
 a=ni=lin=gus
 a=ni=ma=to
 a=ni=mi
-A=ni=ta
 a=noint
 a=noint=er
 a=noint=ment
@@ -10770,7 +8621,6 @@ a=non=y=mous
 a=non=y=mous=ly
 a=noph=e=les
 a=nop=si=a
-A=nouilh
 a=no=a
 a=no=ci=as=so=ci=a=tion
 a=no=ci=a=tion
@@ -10778,20 +8628,12 @@ a=no=le
 a=no=mi=a
 a=no=rak
 a=no=scope
-A=nu
-A=nun=na=ki
 a=nus
 a=nus=es
-A=nu=bis
 a=nu=cle=ate
 a=nu=cle=at=ed
 a=nu=ran
-A=nu=ra=dha=pu=ra
 a=nu=rous
-A=oe=de
-A=oi=de
-A=or=nis
-A=or=num
 a=or=ta
 a=or=tal
 a=or=tic
@@ -10799,34 +8641,25 @@ a=or=ti=tis
 a=or=tog=ra=phy
 a=or=to=cla=sia
 a=ou=dad
-A=o=ki
 a=o=li
-A=o=mo=ri
-A=o=ran=gi
 a=o=rist
 a=o=ris=tic
 a=o=ris=ti=cal=ly
-A=o=sta
 a=pa
 a=pace
 a=pache
 a=pache =dance
 a=paches
-A=pach=e
-A=pach=es
 a=part
 a=part=heid
 a=part=ment
 a=part=men=tal
 a=part=ness
-A=par=ri
 a=pa=ra=vid=ya
 a=pa=re=jo
 a=peak
 a=peek
 a=pei=ron
-A=pel=doorn
-A=pel=les
 a=per=cu
 a=per=i=ent
 a=per=i=tive
@@ -10836,8 +8669,6 @@ a=pet=a=lous=ness
 a=pet=a=ly
 a=pex
 a=pex=es
-A=pe=mi=us
-A=pe=pi
 a=pe=ri=od=ic
 a=pe=ri=od=i=cal=ly
 a=pe=ri=o=dic=i=ty
@@ -10862,7 +8693,6 @@ a=phe=li=ot=ro=pism
 a=phe=li=o=trop=ic
 a=phe=li=o=trop=i=cal=ly
 a=phe=mi=a
-A=phe=si=us
 a=phid
 a=phid-=li=on
 a=phid=i=an
@@ -10870,7 +8700,6 @@ a=phid=i=ous
 a=phid=li=on
 a=phis
 a=phis=li=on
-A=phi=das
 a=phlas=ton
 a=phon=ic
 a=pho=ni=a
@@ -10881,9 +8710,7 @@ a=phyl=ly
 a=pic=u=late
 a=pic=u=lus
 a=piece
-A=pis
 a=piv=or=ous
-A=pi=a
 a=pi=an
 a=pi=ar=ies
 a=pi=ar=i=an
@@ -10905,8 +8732,6 @@ a=pla=si=a
 a=plen=ty
 a=plomb
 a=plus=tre
-A=po
-A=poc=a=lypse
 a=poc=a=lypse
 a=poc=a=lyp=tic
 a=poc=a=lyp=ti=cal
@@ -10918,7 +8743,6 @@ a=poc=o=pat=ing
 a=poc=o=pa=tion
 a=poc=o=pe
 a=poc=ry=pha
-A=poc=ry=pha
 a=poc=ry=phal
 a=poc=ry=phal=ly
 a=poc=ry=phal=ness
@@ -10929,11 +8753,7 @@ a=pod=e=mas
 a=pod=o=sis
 a=pog=a=mous=ly
 a=pog=a=my
-A=pol=li=naire
-A=pol=li=naris
-A=pol=lo
 a=pol=lo
-A=pol=lyon
 a=pol=o=gete
 a=pol=o=get=ic
 a=pol=o=get=ics
@@ -10970,12 +8790,10 @@ a=pos=til
 a=pos=tille
 a=pos=tle
 a=pos=tle =spoon
-A=pos=tles' =Creed
 a=pos=tle=hood
 a=pos=tle=ship
 a=pos=to=late
 a=pos=to=lic=ity
-A=pos=to=los
 a=pos=tro=phe
 a=pos=tro=phise
 a=pos=tro=phised
@@ -10983,7 +8801,6 @@ a=pos=tro=phis=ing
 a=pos=tro=phize
 a=pos=tro=phized
 a=pos=tro=phiz=ing
-A=pos=tro=phi=a
 a=poth=e=car=ies
 a=poth=e=car=ies' =meas=ure
 a=poth=e=car=ies' =weight
@@ -11000,7 +8817,6 @@ a=po=deip=na
 a=po=deip=non
 a=po=lit=i=cal
 a=po=lit=i=cal=ly
-A=po=phis
 a=po=ri=a
 a=po=ri=ae
 a=po=ri=as
@@ -11008,8 +8824,6 @@ a=po=spor=y
 a=pr
 a=prax=ic
 a=prax=i=a
-A=pres=o=line
-A=pril
 a=pri=cot
 a=pri=or=ism
 a=pri=or=ist
@@ -11022,111 +8836,48 @@ a=pron =stage
 a=pron=like
 a=pros=ex=i=a
 a=prowl
-A=pus
-A=pu=lia
-A=pu=lian
-A=pu=re
 a=p=ri=tif
-A=qa=ba
 a=quar=ist
 a=quar=i=a
 a=quar=i=al
 a=quar=i=an
-A=quar=i=i
 a=quar=i=um
 a=quar=i=ums
-A=quar=i=us
 a=quat=ic
 a=quat=ics
 a=quat=i=cal=ly
 a=quiv=er
 a=qui=cul=ture
-A=qui=le=ia
-A=qui=nas
 a=rach=ic
 a=rach=nid
-A=rach=ni=da
 a=rach=ni=dan
 a=rach=noid
-A=rad
-A=rae
 a=rae=o=style
 a=rae=o=sys=tyle
 a=rag=o=nite
-A=rak
-A=raks
-A=ral=lu
-A=ram
-A=ram=bu=ru
-A=rany
-A=ran=da
-A=ran=ya=ka
-A=rap=a=ho
-A=rap=a=hoe
-A=ras
-A=rau=can
-A=rax=es
-A=ra=bi=a
-A=ra=bi=an
-A=ra=bi=an =cam=el
-A=ra=bi=an =Des=ert
-A=ra=bi=an =Nights' =En=ter=tain=ment
-A=ra=bi=an =Sea
-A=ra=ca=j
-A=ra=ca=ju
 a=ra=ceous
-A=ra=gats
-A=ra=gon
-A=ra=guai=a
-A=ra=guay=a
-A=ra=gua=rí
-A=ra=gua=ya
-A=ra=gón
-A=ra=kan =Yo=ma
 a=ra=li=a=ceous
-A=ra=lu
 a=ra=ne=id
 a=ra=ne=ose
 a=ra=ne=ous
-A=ra=nha
 a=ra=ro=ba
-A=ra=tus
-A=ra=ça=tu=ba
 a=reg
-A=rei=us
-A=rel=ia
-A=ren=sky
-A=rez=zo
-A=re=ci=bo
 a=re=na
 a=re=na =the=a=tre
-A=re=ne
 a=re=o=la
 a=re=o=lar
 a=re=o=late
 a=re=o=style
 a=re=o=sys=tyle
-A=re=qui=pa
-A=re=te
-A=re=ti=no
-A=re=tus
-A=re=us
 a=rhyth=mi=a
 a=rhyth=mi=cal=ly
-A=ri
 a=rid=i=ty
-A=riege
 a=right
-A=rim=i=num
 a=rio=so
 a=rise
-A=ris=be
 a=ris=en
 a=ris=ta
-A=ris=ta
 a=ris=tate
-A=ris=tide
-A=ris=ti=des
 a=ris=to=crat
 a=ris=to=crat=ic
 a=ris=to=crat=ic=ness
@@ -11134,9 +8885,7 @@ a=ris=to=crat=i=cal
 a=ris=to=crat=i=cal=ly
 a=ris=to=crat=i=cal=ness
 a=ris=to=de=moc=ra=cy
-A=ris=to=de=mus
 a=ris=to=lo=chi=a=ceous
-A=ris=to=phan=ic
 a=ris=to=type
 a=rith=me=tic
 a=rith=me=tic =mean
@@ -11144,20 +8893,11 @@ a=rith=me=tic =pro=gres=sion
 a=rith=me=ti=cian
 a=rith=mo=man=cy
 a=ri=a
-A=ri=a
-A=ri=ca
-A=ri=e=tis
 a=ri=ki
-A=ri=on
 a=ri=ose
-A=ri=os=to
 a=ri=o=so
-A=ri=o=sto
-A=ri=stide
-A=ri=us
 a=roint =thee
 a=roi=de=ous
-A=roos=took
 a=rose
 a=round
 a=round-=the-=clock
@@ -11177,30 +8917,15 @@ a=ro=ma=tiz=er
 a=ro=ma=tiz=ing
 a=ro=ma=ti=sa=tion
 a=ro=ma=ti=za=tion
-A=ru =Is=lands
 a=run=di=na=ceous
-A=run=ta
 a=rus=pex
 a=rus=pi=ces
 a=rus=pi=cy
-A=ru=ba
-A=ru=na=chal =Pra=desh
-A=ru=ru
-A=ru=sha
-A=ru=wi=mi
 a=ryth=mi=a
 a=ryth=mi=cal=ly
 a=rête
-A=sa
-A=sag
-A=san=te=he=ne
-A=sar
-A=sat
 a=sa=foet=i=da
-A=sa=hi=ga=wa
-A=sa=hi=ka=wa
 a=sa=na
-A=schaf=fen=burg
 a=scor=bic =ac=id
 a=scrib=a=ble
 a=sem=ic
@@ -11209,7 +8934,6 @@ a=sep=sis
 a=sep=tic
 a=sep=ti=cal=ly
 a=sep=ti=cism
-A=ser
 a=sex=u=al
 a=sex=u=al=ise
 a=sex=u=al=ised
@@ -11222,54 +8946,29 @@ a=sex=u=al=i=za=tion
 a=sex=u=al=ly
 a=se=i=ty
 a=se=mi=a
-A=se=yev
 a=shake
 a=shamed
 a=sham=ed=ly
 a=sham=ed=ness
-A=shan=ti
-A=she=rah
-A=she=rim
 a=shipped
 a=ship=ping
-A=shi=ka=ga
 a=shore
-A=shur
-A=shur=ba=ni=pal
-A=sia
-A=sia =Mi=nor
-A=sian
-A=sian =flu
 a=side
 a=sid=er=ite
-A=sir
-A=si=an=ic
-A=si=at=ic
-A=si=at=ic =bee=tle
-A=si=at=ic =chol=er=a
-A=si=at=i=cal=ly
-A=si=ne
-A=si=us
 a=skance
 a=skant
 a=skew
 a=slant
 a=sleep
 a=slope
-A=so
 a=so=cial
-A=so=ka
 a=so=ma=tous
 a=so=ni=a
-A=so=pus
-A=so=san
-A=spa=si=a
 a=spher=ic
 a=spher=i=cal
 a=sprawl
 a=squint
 a=sra=ma
-A=staire
 a=star=board
 a=stat=ic
 a=stat=i=cal=ly
@@ -11280,7 +8979,6 @@ a=sta=sia
 a=stern
 a=ster=e=og=no=sis
 a=ster=nal
-A=ste=ri=a
 a=stig=ma=tism
 a=stig=ma=tiz=er
 a=stig=ma=tom=e=ter
@@ -11300,11 +8998,7 @@ a=strag=a=lus
 a=stray
 a=stride
 a=sty=lar
-A=sun=ci
-A=sun=ción
 a=sun=der
-A=sur
-A=su=ra
 a=swarm
 a=syl=lab=ic
 a=symp=to=mat=ic
@@ -11319,31 +9013,18 @@ a=syn=chro=nous
 a=syn=chro=nous=ly
 a=syn=de=ton
 a=syn=er=gy
-A=syn=jur
 a=syn=tac=tic
-A=syut
-A=syût
 a=sy=lum
 a=sy=ner=gia
-A=ta
 a=tac=tic
-A=tak=a=pa
-A=tas=ca=de=ro
 a=tav=ic
 a=tax=ic
 a=tax=ite
 a=tax=i=a
 a=tax=y
-A=ta=ba=li=pa
-A=ta=ca=ma =Des=ert
-A=ta=hual=pa
-A=ta=türk
-A=te
 a=tef-=crown
 a=tel=ic
 a=tel=i=ot=ic
-A=ten
-A=tes=te
 a=te=lei=o=sis
 a=te=li=o=sis
 a=than=a=sy
@@ -11356,10 +9037,6 @@ a=the=is=tic=ness
 a=the=is=ti=cal
 a=the=is=ti=cal=ly
 a=the=mat=ic
-A=the=na
-A=the=nai
-A=the=ne
-A=the=ni=an
 a=thirst
 a=thrill
 a=thwart
@@ -11374,8 +9051,6 @@ a=tom=ic =bomb
 a=tom=ic =clock
 a=tom=ic =cock=tail
 a=tom=ic =en=er=gy
-A=tom=ic =En=er=gy =Au=thor=i=ty
-A=tom=ic =En=er=gy =Com=mis=sion
 a=tom=ic =heat
 a=tom=ic =mass
 a=tom=ic =mass =u=nit
@@ -11389,7 +9064,6 @@ a=tom=ic =weight
 a=tom=ics
 a=tom=i=cal
 a=tom=i=cal=ly
-A=ton
 a=tone
 a=toned
 a=tone=a=ble
@@ -11404,21 +9078,15 @@ a=ton=ic
 a=ton=ing
 a=ton=ing=ly
 a=top
-A=to=ka
 a=to=nal=i=ty
 a=to=ni=a
-A=trax
-A=tra=ha=sis
 a=trem=ble
 a=tre=sia
 a=tre=sic
-A=tre=us
 a=trich=i=a
 a=trip
 a=tri=a
 a=tri=al
-A=tri=dae
-A=tri=de=an
 a=tri=o=ven=tric=u=lar
 a=tri=um
 a=troc=i=ty
@@ -11428,17 +9096,13 @@ a=tro=cious=ly
 a=tro=cious=ness
 a=tro=phi=a
 a=try
-A=tum
 a=twain
 a=tween
 a=twit=ter
-A=tym=ni=us
 a=typ=ic
 a=typ=i=cal
 a=typ=i=cal=ly
-A=tys
 a=va
-A=va
 a=va'
 a=vail
 a=vail=a=bil=i=ty
@@ -11449,15 +9113,9 @@ a=vail=ing=ly
 a=vant-=garde
 a=vant-=gard=ism
 a=van=tu=rine
-A=var
-A=vare
 a=vast
 a=vaunt
-A=va=lo=ki=te=sva=ra
-A=ve
 a=ve
-A=ve =Ma=ri=a
-A=vei=ro
 a=vel=lan
 a=venge
 a=venged
@@ -11477,41 +9135,21 @@ a=vert=a=ble
 a=vert=ed=ly
 a=vert=er
 a=vert=i=ble
-A=ver=ell
-A=ver=il
 a=ver=ment
-A=ver=nal
-A=ver=no
-A=ver=nus
-A=ver=rho=ës
 a=ver=ring
-A=ver=ro=es
-A=ver=ro=ës
 a=ver=sion
 a=ver=sion =ther=a=py
 a=ver=sive
-A=ver=tin
-A=ver=y
-A=ves
-A=ves=ta
-A=ves=tan
-A=ves=tic
-A=vey=ron
-A=ve=lla=ne=da
 a=viar=y
-A=vice
 a=vic=u=lar=i=a
 a=vic=u=lar=i=an
 a=vic=u=lar=i=um
 a=vid=i=ty
 a=vid=ya
-A=vie=more
-A=vil=ion
 a=vion
 a=vions
 a=vir=u=lence
 a=vir=u=lent
-A=vis
 a=vit=a=min=o=sis
 a=vi=an
 a=vi=ar=ies
@@ -11525,20 +9163,15 @@ a=vi=a=tion =med=i=cine
 a=vi=a=tor
 a=vi=a=trix
 a=vi=a=tri=ces
-A=vi=ce=brón
 a=vi=cul=ture
 a=vi=cul=tur=ist
 a=vi=fau=na
 a=vi=fau=nal
 a=vi=fau=nal=ly
-A=vi=gnon
-A=vi=la
 a=vi=on=ics
 a=vi=so
 a=vi=ta=min=ot=ic
 a=vi=ta=min=o=sis
-A=vi=va
-A=vo
 a=vo
 a=voc=a=to=ry
 a=void
@@ -11546,8 +9179,6 @@ a=void=ance
 a=void=a=ble
 a=void=a=bly
 a=void=er
-A=von
-A=vonne
 a=vos
 a=vouch
 a=vouch=er
@@ -11560,10 +9191,6 @@ a=vow=ed=ly
 a=vow=ed=ness
 a=vow=er
 a=vow=ry
-A=vo=ca
-A=vo=ga=dro
-A=vo=ga=dro =con=stant
-A=vo=ga=dro's =law
 a=vo=set
 a=vul=sed
 a=vul=sion
@@ -11595,66 +9222,29 @@ a=wheel
 a=while
 a=whirl
 a=woke
-A=wo=lo=wo
 a=wry
 a=xen=ic
 a=yah
-A=ya=cu=cho
 a=ya=huas=ca
-A=ye=sha
 a=yin
-A=yi=na
 a=yous
-A=yub =Khan
-A=yudh=ya
 a=yun=ta=mien=to
-A=yur=ve=da
-A=yur=ve=dic
-A=yut=tha=ya
-A=yu=the=a
 a=zal=ea
-A=zan
 a=zan
-A=za=na
-A=za=zel
-A=za=ña
 a=zed=a=rach
-A=zer=bai=jan
-A=zer=bai=ja=ni
-A=zer=bai=ja=nis
-A=zer=bai=ja=ni=an
-A=ze=glio
 a=ze=ot=ro=py
 a=ze=o=trope
 a=ze=o=trop=ic
-A=zil=ian
-A=zil=i=an
-A=zi=ki=we
-A=zle
-A=zof
 a=zon=al
 a=zon=al =soil
 a=zon=ic
-A=zores
 a=zot=ic
-A=zov
 a=zo=ic
-A=zo=phi
-A=zo=r
-A=zo=ri=an
-A=zo=rín
-A=zo=tos
 a=zo=to=bac=ter
-A=zue=la
 a=zu=le=jo
-A=zu=sa
 a=zy=go=spore
-A=ër=o=pe
 a=ë=des
-A=ë=don
 a=ë=ne=ous
-A=ïr
-A=ï=da
 B =bat=ter=y
 B =com=plex
 B =ho=ri=zon
@@ -11664,7 +9254,6 @@ b/f
 b/l
 b/s
 baa
-BAA
 Baal
 baal
 Baal=bek
@@ -11714,7 +9303,6 @@ Bach=a=rach
 Bach=el=ler
 bach=e=lor
 bach=e=lor =girl
-Bach=e=lor =of =Arts
 Bach=e=lor =of =Sci=ence
 bach=e=lor's
 bach=e=lor's-=but=ton
@@ -12100,7 +9688,6 @@ Bai=ly's =beads
 Bai=ram
 Baj=er
 bake
-baked =A=las=ka
 bake=ap=ple
 bake=house
 bake=hous=es
@@ -12598,7 +10185,6 @@ Ban=ville
 ban=yan
 ban=zai
 ban=zai =at=tack
-BAOR
 bap
 Bapt
 bapt
@@ -13498,7 +11084,6 @@ Ba=da=ri=an
 Ba=den
 Ba=den-=Ba=den
 Ba=den-=Pow=ell
-Ba=den-=Würt=tem=berg
 Ba=den-=W=tem=berg
 ba=di=geon
 ba=di=ne=rie
@@ -13757,7 +11342,6 @@ bb=bish
 BCE
 BCh
 BCL
-BDA
 Bde
 bdel=li=um
 bdft
@@ -13765,7 +11349,6 @@ bdl
 BDS
 bds
 Bea
-BEA
 Beach
 beach
 beach =bug=gy
@@ -14601,7 +12184,6 @@ Ber=na=dotte
 Ber=na=lil=lo
 Ber=na=nos
 Ber=nese
-Ber=nese =Alps
 Ber=nette
 Ber=nice
 Ber=nie
@@ -14951,7 +12533,6 @@ be=lay=ing
 be=lay=ing =pin
 be=la=bor
 be=la=bour
-Be=la=ún=de
 be=lea=guer
 be=lea=guer=er
 be=lec=tion
@@ -15627,7 +13208,6 @@ bise
 bish
 bish=op
 Bish=op
-Bish=op =Auck=land
 bish=op =sleeve
 bish=op's =mi=tre
 bish=op's =weed
@@ -15652,7 +13232,6 @@ bis=cuit=like
 bis=hy=drox=y=cou=ma=rin
 Bis=kra
 Bis=marck
-Bis=marck =Ar=chi=pel=a=go
 Bis=marck =her=ring
 Bis=marck=i=an
 Bis=marck=i=an=ism
@@ -15674,7 +13253,6 @@ bis=sex=tile
 bis=sex=tus
 bis=so
 bis=so=na=ta
-Bis=são
 bis=ter
 bis=tered
 bis=tort
@@ -15831,7 +13409,6 @@ bi=den=tic=u=late
 bi=det
 bi=di
 bi=di=rec=tion=al
-Bi=dú
 bi=en=ni=a
 bi=en=ni=al
 bi=en=ni=al=ly
@@ -19114,7 +16691,6 @@ Brit=ain
 Brit=ish
 Brit=ish =Cam=e=roons
 Brit=ish =Co=lum=bi=a
-Brit=ish =East =Af=ri=ca
 Brit=ish =Em=pire
 Brit=ish =Gui=an=a
 Brit=ish =Hon=du=ras
@@ -19123,13 +16699,11 @@ Brit=ish =Isles
 Brit=ish =Is=ra=el=ite
 Brit=ish =Le=gion
 Brit=ish =Mu=se=um
-Brit=ish =North =A=mer=i=ca
 Brit=ish =So=ma=li=land
 Brit=ish =Stand=ard =Time
 Brit=ish =Sum=mer =Time
 Brit=ish =ther=mal =u=nit
 Brit=ish =Vir=gin =Is=lands
-Brit=ish =West =Af=ri=ca
 Brit=ish =West =In=dies
 Brit=ish=er
 Brit=ish=ism
@@ -19749,7 +17323,6 @@ Bue=na =Vis=ta
 Bue=na=ven=tu=ra
 bue=no
 Bue=no
-Bue=nos =Ai=res
 BUF
 buff
 buffe
@@ -19822,8 +17395,6 @@ buird=ly
 Buis=son
 Bui=ten=zorg
 bukh
-Bul
-bul
 bulb
 bulb=ar
 bulb=if=er=ous
@@ -20882,7 +18453,6 @@ cae=su=ral
 cae=su=ras
 cae=su=ric
 Cae=ta=no
-CAF
 caff
 caf=e=te=ri=a
 caf=fa
@@ -21940,7 +19510,6 @@ card=sharp
 card=sharp=er
 card=sharp=ing
 care
-CARE
 care=free
 care=free=ness
 care=ful
@@ -22884,7 +20453,6 @@ Cath=e=rine
 Cath=e=rine =de' =Med=i=ci
 Cath=e=rine =I
 Cath=e=rine =II
-Cath=e=rine =of =Ar=a=gon
 Cath=e=rine =of =Si=en=a
 cath=e=rine =wheel
 cath=e=ter
@@ -23527,7 +21095,6 @@ ca=man=cha=ca
 ca=mau=ro
 Ca=ma=cho
 Ca=ma=g
-Ca=ma=güey
 ca=ma=ra=de=rie
 Ca=mel=lia
 ca=mel=lia
@@ -23805,7 +21372,6 @@ ca=run=cu=late
 ca=run=cu=lat=ed
 Ca=ruth=ers=ville
 Ca=ru=so
-Ca=rú=pa=no
 ca=sa
 Ca=sals
 ca=saque
@@ -23943,7 +21509,6 @@ Ca=xi=as
 Ca=ye=y
 Ca=yu=ga
 ca=zique
-ca=ïque
 ca=ña=da
 ca=ñon
 Ca=ÿs=ter
@@ -24168,16 +21733,11 @@ cen=to=nism
 cen=tra
 cen=trad
 cen=tral
-Cen=tral =Af=ri=can =Em=pire
-Cen=tral =Af=ri=can =Fed=er=a=tion
 cen=tral =an=gle
-Cen=tral =A=mer=i=ca
 cen=tral =bank
 Cen=tral =Com=mit=tee
 Cen=tral =Eur=o=pe=an =Time
 cen=tral =heat=ing
-Cen=tral =In=di=a =A=gen=cy
-Cen=tral =In=tel=li=gence =A=gen=cy
 Cen=tral =Ka=roo
 cen=tral =lim=it =the=o=rem
 cen=tral =nerv=ous =sys=tem
@@ -24441,7 +22001,6 @@ Cey=lon =moss
 Cey=lo=nese
 ce=a=no=thus
 Ce=b
-Ce=bú
 ce=cal
 Ce=cile
 Ce=cil=ia
@@ -24497,7 +22056,6 @@ ce=lo-=nav=i=ga=tion
 ce=lom
 ce=lot=o=my
 ce=lo=scope
-Ce=lâl
 Ce=mal
 ce=ment
 ce=ment=er
@@ -24588,7 +22146,6 @@ ce=tane =num=ber
 ce=ta=cean
 Ce=ta=ce=a
 ce=ta=ce=um
-Ce=ta=tea =Al=b
 ce=te=ris =pa=ri=bus
 Ce=ti
 ce=tin
@@ -24789,7 +22346,6 @@ cham=o=site
 cham=pac
 cham=pagne
 Cham=pagne
-Cham=pagne-=Ar=denne
 cham=paign
 Cham=paign
 cham=pak
@@ -25101,7 +22657,6 @@ char=lock
 Char=lot
 Char=lotte
 char=lotte
-Char=lotte =A=ma=li=e
 char=lotte =russe
 Char=lottes=ville
 Char=lotte=town
@@ -26582,7 +24137,6 @@ Chris=ten=dom
 chris=ten=er
 chris=ten=ing
 Chris=tian
-Chris=tian =Ac=tion
 Chris=tian =Broth=ers
 Chris=tian =E=ra
 Chris=tian =name
@@ -26863,7 +24417,6 @@ chup=pahs
 chup=poth
 Chur
 church
-Church =Ar=my
 Church =Com=mis=sion=ers
 Church =of =Eng=land
 Church =of =Scot=land
@@ -26933,7 +24486,6 @@ ch=teau
 Ch=teau-=Thier=ry
 Ch=teau=roux
 ci-=de=vant
-CIA
 ciao
 Ciar=di
 Cia=no
@@ -27607,7 +25159,6 @@ Clap=ton
 clap=trap
 claque
 Clare
-Clare =of =As=si=si
 Clare=mont
 Clare=more
 Clark
@@ -27890,7 +25441,6 @@ Clem=ens
 clem=ent
 Clem=ent
 Clem=ent =I
-Clem=ent =of =Al=ex=an=dri=a
 Clem=ent =V
 Clem=ent =VII
 clem=ent=ly
@@ -28405,7 +25955,6 @@ Cmdr
 CMF
 CMG
 cml
-CNAA
 cnem=i=des
 cne=mic
 cne=mis
@@ -28879,7 +26428,6 @@ colt=ish
 colt=ish=ly
 colt=ish=ness
 col=an=der
-Col=ax=a=ïs
 col=a=co=bi=ot=ic
 col=a=co=bi=o=sis
 Col=baith
@@ -32637,7 +30185,6 @@ cot=tar
 cot=ter
 cot=ter =pin
 cot=tier
-Cot=ti=an =Alps
 cot=ti=er
 Cot=ton
 cot=ton
@@ -32925,7 +30472,6 @@ Court
 court
 court =cir=cu=lar
 court =mar=tial
-Court =of =Ap=peal
 Court =of =Ex=cheq=uer
 court =of =hon=or
 court =of =in=quir=y
@@ -33736,7 +31282,6 @@ co=rol=late
 co=rol=lat=ed
 Co=rot
 co=ro=na
-Co=ro=na =Aus=tra=lis
 Co=ro=na =Bo=re=al=is
 co=ro=na =dis=charge
 co=ro=nach
@@ -34384,7 +31929,6 @@ cre=ta=ceous
 Cre=ta=ceous
 cre=ta=ceous=ly
 Cre=the=us
-Cre=the=ïs
 cre=tic
 cre=tin
 cre=tin=ism
@@ -34395,7 +31939,6 @@ cre=val=le
 cre=vasse
 cre=vassed
 cre=vas=sing
-Cre=ü=sa
 crib
 crib-=bit=ing
 crib=bage
@@ -34819,7 +32362,6 @@ crowd=ed=ness
 Crown
 crown
 crown =and =an=chor
-Crown =A=gent
 crown =col=o=ny
 Crown =Der=by
 crown =im=pe=ri=al
@@ -36204,13 +33746,6 @@ C=zanne
 C=zur
 D =re=gion
 d'ac=cord
-d'Al=bert
-D'Am=boise
-D'An=nun=zio
-d'Ar=blay
-D'Ar=rest
-D'Av=e=nant
-d'A=lem=bert
 D'En=tre=cas=teaux =Is=lands
 d'In=dy
 D'In=ze=o
@@ -36221,7 +33756,6 @@ D-=day
 d-=glu=cose
 D-=no=tice
 D-=state
-D/A
 D/F
 D/L
 D/O
@@ -36611,7 +34145,6 @@ dare=n't
 dare=say
 darg
 dark
-Dark =Ag=es
 Dark =Con=ti=nent
 dark =glass=es
 dark =lan=tern
@@ -36808,7 +34341,6 @@ day
 day =blind=ness
 Day =Lew=is
 day =lil=y
-Day =of =A=tone=ment
 Day =of =Judg=ment
 day =re=lease
 day =re=turn
@@ -39243,8 +36775,6 @@ de=my=thol=o=gize
 de=my=thol=o=gized
 de=my=thol=o=giz=ing
 de=my=thol=o=gi=za=tion
-de=nar=i=i
-de=nar=i=us
 de=nat=u=ral=ise
 de=nat=u=ral=ised
 de=nat=u=ral=is=ing
@@ -40066,13 +37596,6 @@ de=zinc=i=fi=ca=tion
 de=ëm=pha=sis
 de=ës=ca=late
 de=ës=ca=la=tion
-De=ïph=i=lus
-De=ïph=o=be
-De=ïph=o=bus
-De=ïp=y=le
-De=ïp=y=lus
-De=ï=on
-De=ï=o=pe
 DFC
 DFM
 Dhah=ran
@@ -40190,7 +37713,6 @@ die
 die-=cast=ing
 die-=hard=ism
 Diels
-Diels-=Al=der =re=ac=tion
 diel=drin
 Dies
 dies
@@ -41201,7 +38723,6 @@ dis=june
 Dis=ko
 dis=kog=ra=phy
 dis=ko=phile
-dis=kôrs
 dis=like
 dis=liked
 dis=lik=a=ble
@@ -42475,7 +39996,6 @@ di=nan=de=rie
 di=nar
 Di=nard
 Di=nar=ic
-Di=nar=ic =Alps
 di=ner=gate
 di=ner=ic
 di=nette
@@ -42867,12 +40387,10 @@ Dji=las
 Djok=ja=kar=ta
 dlr
 dlvy
-DMA
 Dmi=tri
 DMSO
 DMus
 DMZ
-DNA
 Dnes=tr
 Dne=pr
 Dne=pro=dzer=zhinsk
@@ -42890,7 +40408,6 @@ do-=it-=your=self
 do-=it-=your=self=er
 do-=noth=ing
 do-=noth=ing=ism
-DOA
 Doane
 doat
 doat=er
@@ -43616,7 +41133,6 @@ dou=tongu=ing
 dou=zaine
 dou=zi=ème
 dou=zi=èmes
-DOVAP
 Dove
 dove
 dove=cot
@@ -44424,7 +41940,6 @@ drow=sy
 dro=gher
 dro=som=e=ter
 dro=soph=i=la
-Dro=ste-=Hüls=hoff
 dro=ver
 Dru
 drub
@@ -44843,7 +42358,6 @@ dux
 duy=ker
 du=ad
 du=al
-Du=al =Al=li=ance
 du=al =car=riage=way
 Du=al =Mon=ar=chy
 du=al-=pur=pose
@@ -45379,8 +42893,6 @@ ease=ful=ness
 ease=ment
 east
 East
-East =Af=ri=ca
-East =An=gli=a
 East =Ben=gal
 East =Ber=lin
 East =Chi=na =Sea
@@ -45404,7 +42916,6 @@ East-=sid=er
 east-=south=east
 east-=south=east=ward
 east-=south=east=ward=ly
-East=Auro=ra
 east=bound
 East=bourne
 East=er
@@ -45562,7 +43073,6 @@ Eck=hardt
 Eck=hart
 ecol
 econ
-ECOWAS
 ECSC
 ECT
 Ecua
@@ -45733,7 +43243,6 @@ edh
 edit
 EDP
 edp
-EDTA
 educ
 Educa=tion
 Ed=a
@@ -45755,7 +43264,6 @@ Ed=dy=stone
 Ed=dy=stone =Rocks
 Ed=e=line
 Ed=gar
-Ed=gar =Ath=e=ling
 Ed=gard
 Ed=in=burg
 Ed=in=burgh
@@ -45862,7 +43370,6 @@ ee=ri=ness
 ee=ry
 eff
 eft
-EFTA
 eft=soon
 eft=soons
 ef=face
@@ -46099,8 +43606,6 @@ ei=ther-=or
 eke
 ek=ing
 ek=te=ne
-El =Aai=un
-El =Al=a=mein
 El =Be=da
 El =Cap=i=tan
 El =Cid =Cam=pe=a=dor
@@ -46206,7 +43711,6 @@ el=drich
 El=dridge
 el=dritch
 El=ea=nor
-El=ea=nor =of =Aq=ui=taine
 el=ee=mos=y=nar=y
 El=eu=sin=i=a
 El=eu=sin=i=an
@@ -46985,7 +44489,6 @@ en=der=mic
 en=der=mi=cal=ly
 En=de=cott
 en=de=mism
-En=de=ïs
 en=dive
 En=di=cott
 en=doc=ri=nous
@@ -48255,7 +45758,6 @@ er=y=sip=e=lo=thrix
 er=y=si=pel=a=tous
 er=y=the=ma
 er=y=the=mat=ic
-Er=y=the=ïs
 Er=y=thrae=um
 er=y=thris=mal
 er=y=throp=sin
@@ -48366,7 +45868,6 @@ es=kar
 es=ker
 Es=ki=mo
 Es=ki=mo =dog
-Es=ki=mo-=Al=e=ut
 Es=ki=moid
 Es=ki=mol=o=gist
 Es=ki=mol=o=gy
@@ -48583,7 +46084,6 @@ es=tu=ar=i=al
 es=tu=ar=y
 es=tu=a=rine
 et =cet=er=a
-ETA
 etc
 etch
 etch=ant
@@ -48954,7 +46454,6 @@ Eu=rip=pa
 eu=ri=pus
 eu=ri=ther=mo=phile
 eu=ri=ther=mo=phil=ic
-Eu=ro-=A=mer=i=can
 Eu=roc=ly=don
 Eu=rope
 Eu=ro=com=mun=ism
@@ -49048,7 +46547,6 @@ eu=tro=phy
 Eu=tych=i=an
 Eu=tych=i=a=nus
 eu=vrou
-EVA
 evan
 evang
 Eve
@@ -50738,7 +48236,6 @@ e=la=tion
 e=la=tive
 E=la=tus
 E=la=zig
-E=la=ïs
 e=lect
 e=lec=tion
 e=lec=tion=eer
@@ -52186,11 +49683,9 @@ fac=tu=al=ness
 fac=ul=ta=tive
 fac=ul=ta=tive=ly
 fac=ul=ty
-Fac=ul=ty =of =Ad=vo=cates
 fac=u=la
 fac=u=lar
 fad
-FAD
 fade
 fade-=in
 fade=less
@@ -52426,7 +49921,6 @@ Fal=ster
 fal=ter
 fal=ter=er
 fal=ter=ing=ly
-FAM
 fam
 fame
 famed
@@ -52545,7 +50039,6 @@ fan=tom
 fan=weed
 fan=wise
 fan=wort
-FAO
 faq
 far
 far-=off
@@ -52666,7 +50159,6 @@ far=ther=most
 far=thest
 far=thing
 far=thin=gale
-FAS
 fas
 fash
 fash=ion
@@ -53064,8 +50556,6 @@ fa=zen=da
 fa=çade
 fa=ër=ie
 fa=ër=y
-fa=ïence
-FBA
 FCO
 feal
 fear
@@ -53882,7 +51372,6 @@ fier=i=ness
 fier=y
 fier=y =cross
 Fie=so=le
-FIFA
 Fife
 fife
 Fife=shire
@@ -54603,7 +52092,6 @@ fi=de=i=com=mis=sar=y
 fi=de=i=com=mis=sum
 Fi=de=lio
 Fi=do
-fi=dus =A=cha=tes
 fi=du=cial
 fi=du=cial=ly
 fi=du=ci=al
@@ -56178,7 +53666,6 @@ forth=right
 forth=right=ly
 forth=right=ness
 forth=with
-FORTRAN
 fort=night
 fort=night=ly
 for=age
@@ -56788,9 +54275,6 @@ fo=zi=er
 fo=zi=est
 fo=zi=ness
 fo=zy
-Fo=ïsm
-Fo=ïst
-FPA
 fps
 fps =u=nits
 Fra
@@ -56923,7 +54407,6 @@ Fran=cine
 Fran=cis
 Fran=cis =I
 Fran=cis =II
-Fran=cis =of =As=si=si
 Fran=cis =of =Sales
 Fran=cis =Xa=vi=er
 Fran=cis=ca
@@ -57156,13 +54639,11 @@ freight=less
 freight=lin=er
 Frei=a
 Frei=burg
-Frei=schütz
 fremd
 fremd=ly
 fremd=ness
 frem=i=tus
 French
-French =A=cad=e=my
 French =bull=dog
 French =Cam=e=roons
 French =Can=a=da
@@ -57170,7 +54651,6 @@ French =Ca=na=di=an
 French =Com=mun=i=ty
 French =crick=et
 French =dress=ing
-French =E=qua=to=ri=al =Af=ri=ca
 French =For=eign =Le=gion
 French =fried =po=ta=toes
 French =Guin=ea
@@ -57183,7 +54663,6 @@ French =li=lac
 French =Mo=roc=co
 French =mus=tard
 French =na=vy
-French =North =Af=ri=ca
 French =O=ce=an=i=a
 French =pas=try
 French =pol=ish
@@ -57195,7 +54674,6 @@ French =Su=dan
 French =To=go=land
 French =Un=ion
 French =ver=mouth
-French =West =Af=ri=ca
 French =West =In=dies
 French =win=dows
 French-=pol=ish
@@ -58715,7 +56193,6 @@ gap=less
 gap=o=sis
 gap=ping
 gap=y
-GAR
 gar
 Gar
 garb
@@ -59030,7 +56507,6 @@ gath=er
 gath=er=a=ble
 gath=er=er
 gath=er=ing
-GATT
 gat=ed
 gat=ing
 Gat=ling =gun
@@ -59250,7 +56726,6 @@ ga=rot=ted
 ga=rot=ter
 ga=rot=ting
 Ga=ro=fa=lo
-ga=rú=a
 Ga=t
 ga=ta
 ga=teau
@@ -59402,7 +56877,6 @@ gen=der
 gen=er=a
 gen=er=al
 gen=er=al =an=aes=thet=ic
-Gen=er=al =As=sem=bly
 gen=er=al =de=liv=er=y
 gen=er=al =e=lec=tion
 gen=er=al =hos=pi=tal
@@ -59474,7 +56948,6 @@ gen=ic
 gen=ip
 gen=ius
 gen=ius=es
-gen=i=i
 gen=i=pap
 gen=i=tal
 gen=i=tals
@@ -59631,7 +57104,6 @@ Ger=man
 Ger=man =Bap=tist =Breth=ren
 Ger=man =cock=roach
 Ger=man =Dem=o=crat=ic =Re=pub=lic
-Ger=man =East =Af=ri=ca
 Ger=man =mea=sles
 Ger=man =O=cean
 Ger=man =shep=herd
@@ -59765,7 +57237,6 @@ get=ter=ing
 get=ting
 Get=ty
 Get=tys=burg
-Get=tys=burg =Ad=dress
 get=up
 Geu=lincx
 GeV
@@ -59830,8 +57301,6 @@ ge=mot
 ge=mote
 ge=muet=lich
 Ge=muet=lich=keit
-ge=müt=lich
-Ge=müt=lich=keit
 ge=m=lich
 Ge=n
 ge=na
@@ -60067,7 +57536,6 @@ Ge=vaert
 Ge=zer
 Ge=zi=ra
 ghain
-Ghar=da=ïa
 ghar=ri
 ghar=ry
 ghast
@@ -60719,7 +58187,6 @@ Gleip=nir
 Glei=witz
 glen
 Glen
-Glen =Al=byn
 Glenn
 Glenn=ville
 Glen=coe
@@ -61318,7 +58785,6 @@ God=speed
 God=ward
 God=wards
 God=win
-God=win =Aus=ten
 god=wit
 God=wi=ne
 Goeb=bels
@@ -61708,8 +59174,6 @@ gor=mand=ized
 gor=mand=iz=er
 gor=mand=iz=ing
 gor=man=dize
-Gor=no-=Al=tai =Au=ton=o=mous =Re=gion
-Gor=no-=Ba=dakh=shan =Au=ton=o=mous =Re=gion
 Gor=sedd
 Gor=ton
 Gor=tys
@@ -61916,7 +59380,6 @@ go=nan=gi=um
 Go=nave
 go=na=di=al
 Go=na=ives
-Go=na=ïves
 go=nid=ic
 go=nid=i=a
 go=nid=i=al
@@ -62375,7 +59838,6 @@ grat=u=lat=ing
 grat=u=la=tion
 grat=u=la=to=ri=ly
 grat=u=la=to=ry
-Grau=bün=den
 Grau=b=den
 grau=pel
 Grau=stark
@@ -62496,7 +59958,6 @@ gra=ham =flour
 Gra=ham =Land
 Gra=hame
 gra=ham=ite
-Gra=ian =Alps
 gra=ma
 gra=ma =grass
 gra=mer=cy
@@ -62559,7 +60020,6 @@ greas=i=ness
 greas=y
 greas=y =spoon
 great
-Great =Aus=tral=i=an =Bight
 Great =Bar=ri=er =Reef
 Great =Ba=sin
 Great =Brit=ain
@@ -62608,7 +60068,6 @@ great=coat
 great=coat=ed
 great=en
 Great=er
-Great=er =An=til=les
 great=er =cel=an=dine
 Great=er =Lon=don
 Great=er =Man=ches=ter
@@ -63528,7 +60987,6 @@ Gui=an=a
 Gui=an=an
 Gui=a=nese
 Gui=do
-Gui=do =d'A=rez=zo
 gui=don
 Gui=do=ni=an
 Gui=enne
@@ -63735,9 +61193,7 @@ gus=ta=tive
 gus=ta=tive=ness
 gus=ta=to=ry
 Gus=ta=vo
-Gus=ta=vo =A =Ma=de=ro
 Gus=ta=vus
-Gus=ta=vus =A=dol=phus
 Gus=ta=vus =I
 Gus=ta=vus =II
 Gus=ta=vus =VI
@@ -64179,7 +61635,6 @@ hair=y =frog
 hair=y =wil=low=herb
 hair=y-=faced
 Hai=da
-Hai=dar =A=li
 Hai=dee
 Hai=ding=er
 Hai=duk
@@ -64227,12 +61682,10 @@ half-=ad=mir=ing
 half-=ad=mit=ted
 half-=af=fi=anced
 half-=al=tered
-half-=An=gli=cized
 half-=an=gri=ly
 half-=an=gry
 half-=an=noyed
 half-=an=noy=ing
-half-=Ar=is=to=te=lian
 half-=a=ban=doned
 half-=a=cre
 half-=a=dream
@@ -64241,12 +61694,8 @@ half-=a=fraid
 half-=a=greed
 half-=a=like
 half-=a=live
-half-=A=mer=i=can
-half-=A=mer=i=can=ized
 half-=a=shamed
 half-=a=sham=ed=ly
-half-=A=sian
-half-=A=si=at=ic
 half-=a=sleep
 half-=a=wake
 half-=bar=bar=i=an
@@ -65714,7 +63163,6 @@ ha=rim
 Ha=rin=gey
 Ha=ri=jan
 ha=ri=ka=ri
-Ha=roun-=al-=Ra=schid
 ha=ro=set
 ha=ro=seth
 Ha=run =al-=Ra=shid
@@ -65724,18 +63172,6 @@ ha=rus=pi=ca=tion
 ha=rus=pi=ces
 ha=rus=pi=cy
 Ha=ru=no=bu
-Ha=sa
-Ha=san
-Ha=san=lu
-Ha=sek
-ha=sen=pfef=fer
-Ha=sid
-Ha=sid=ic
-Ha=sid=im
-Ha=ska=lah
-Ha=ta=su
-Ha=thor=ic
-Ha=tik=vah
 ha=tred
 Ha=van=a
 Ha=van=a =ci=gar
@@ -66269,7 +63705,6 @@ Hel
 held
 hell
 Hell
-Hell's =An=gel
 hell-=rais=er
 hell=bend=er
 hell=bent
@@ -66880,8 +64315,6 @@ her=ni=or=rha=phy
 her=ni=ot=o=my
 her=ni=o=plas=ty
 Her=od
-Her=od =Ant=i=pas
-Her=od =A=grip=pa =I
 her=on
 her=on's-=bill
 her=on=ry
@@ -68149,7 +65582,6 @@ Hi=vite
 Hjor=dis
 HKJ
 Hliod
-HMAS
 HMS
 Hoad
 Hoang=ho
@@ -68494,7 +65926,6 @@ home=spun
 home=stall
 home=stead
 Home=stead
-Home=stead =Act
 home=stead =law
 home=stead=er
 home=stretch
@@ -68790,7 +66221,6 @@ hord=ing
 hore=hound
 horn
 Horn
-Horn =of =Af=ri=ca
 horn =of =plen=ty
 horn =sil=ver
 horn-=mad=ness
@@ -69115,7 +66545,6 @@ house =ar=rest
 house =a=gent
 house =fac=tor
 house =mar=tin
-House =of =As=sem=bly
 House =of =Com=mons
 house =of =cor=rec=tion
 House =of =Rep=re=sen=ta=tives
@@ -69332,7 +66761,6 @@ ho=lo=blas=ti=cal=ly
 ho=lo=gram
 ho=lus-=bo=lus
 ho=ly
-Ho=ly =Al=li=ance
 Ho=ly =Bi=ble
 Ho=ly =Cit=y
 Ho=ly =Com=mun=ion
@@ -69610,7 +67038,6 @@ Hsing=an
 Hsin=king
 Hsi=ning
 HSM
-HUAC
 Huam=bo
 Huas=c
 Huas=ca=r
@@ -70087,7 +67514,6 @@ Hu=rok
 Hu=ron
 Hu=s
 Hu=sain
-Hu=sein =ibn-=A=li
 Hu=tu
 hwan
 HWM
@@ -70277,7 +67703,6 @@ hy=dan=to=in
 hy=da=thode
 hy=da=tid
 hy=da=tid=i=nous
-Hy=der =A=li
 Hy=der=a=bad
 hy=dra
 Hy=dra
@@ -71512,7 +68937,6 @@ ic=tic
 Ic=ti=nus
 ic=tus
 ic=tus=es
-IDA
 IDB
 ide
 ides
@@ -71654,7 +69078,6 @@ Ike
 ike
 Ikh=na=ton
 Ile =du =Dia=ble
-ILEA
 Iles =Co=mores
 Iles =du =Sa=lut
 ilk
@@ -73845,7 +71268,6 @@ in=di=vis=i=bil=i=ty
 in=di=vis=i=ble
 in=di=vis=i=ble=ness
 in=di=vis=i=bly
-In=do-=Ar=y=an
 In=do-=Brit=ish
 In=do-=Chi=na
 In=do-=Eu=ro=pe=an
@@ -75407,9 +72829,6 @@ in=ter
 in=ter =a=li=a
 in=ter =a=li=os
 in=ter =se
-in=ter-=Al=lied
-in=ter-=An=de=an
-in=ter-=A=mer=i=can
 in=ter-=Eu=ro=pe=an
 in=terax=es
 in=tern
@@ -76116,7 +73535,6 @@ in=ter=na=tion=al
 In=ter=na=tion=al
 in=ter=na=tion=al =can=dle
 in=ter=na=tion=al =date =line
-In=ter=na=tion=al =De=vel=op=ment =As=so=ci=a=tion
 In=ter=na=tion=al =Fi=nance =Cor=po=ra=tion
 In=ter=na=tion=al =Ge=o=phys=i=cal =Year
 In=ter=na=tion=al =Goth=ic
@@ -76124,7 +73542,6 @@ In=ter=na=tion=al =Grand=mas=ter
 In=ter=na=tion=al =Mas=ter
 In=ter=na=tion=al =Mon=e=tar=y =Fund
 in=ter=na=tion=al =Morse =code
-In=ter=na=tion=al =Pho=net=ic =Al=pha=bet
 in=ter=na=tion=al =pitch
 In=ter=na=tion=al =Stand=ards =Or=gan=i=za=tion
 in=ter=na=tion=al=ise
@@ -77115,7 +74532,6 @@ in=vul=ner=a=ble
 in=vul=ner=a=ble=ness
 in=vul=ner=a=bly
 in=vul=tu=a=tion
-in=vûrs
 in=wale
 in=wall
 in=ward
@@ -77145,7 +74561,6 @@ IOU
 IOW
 Io=an=ni=na
 Io=nes=co
-IPA
 Iph=i=a=nas=sa
 Iph=i=cles
 Iph=i=ge=ni=a
@@ -77165,7 +74580,6 @@ ip=so =fac=to
 ip=so =ju=re
 Ip=sus
 Iq=bal
-IRA
 Iran
 IRBM
 ire
@@ -77571,7 +74985,6 @@ Is=tri=an
 it'll
 it's
 ita
-ITA
 ital
 Ital
 itch
@@ -77880,7 +75293,6 @@ I=gnace
 I=gor
 I=graine
 i=guan=o=don
-I=guas=sú
 I=gua=c
 I=gua=cor =I=guas=s
 i=gua=na
@@ -78068,7 +75480,6 @@ I=rish =Free =State
 I=rish =Gael=ic
 I=rish =moss
 I=rish =po=ta=to
-I=rish =Re=pub=li=can =Ar=my
 I=rish =Sea
 I=rish =set=ter
 I=rish =stew
@@ -78099,7 +75510,6 @@ I=ri=ciz=ing
 I=ri=na
 i=ri=tis
 i=ron
-I=ron =Age
 i=ron =age
 I=ron =Chan=cel=lor
 I=ron =Cross
@@ -78431,7 +75841,6 @@ i=sta=na
 I=sus
 I=sère
 I=tal=ian
-I=tal=ian =East =Af=ri=ca
 I=tal=ian =sixth
 I=tal=ian =son=net
 I=tal=ian =So=ma=li=land
@@ -78692,7 +76101,6 @@ jae=ger
 Jaff=na
 Jaf=fa
 jag
-JAG
 jagg
 Jag=an=nath
 Jag=an=na=tha
@@ -79301,7 +76709,6 @@ Jew=ett
 jew=fish
 jew=fish=es
 Jew=ish
-Jew=ish =Au=ton=o=mous =Re=gion
 Jew=ish =cal=en=dar
 Jew=ish=ly
 Jew=ish=ness
@@ -79515,7 +76922,6 @@ John =Birch =So=ci=e=ty
 John =Chrys=os=tom
 John =Do=ry
 John =Han=cock
-John =of =Aus=tri=a
 John =of =Da=mas=cus
 John =of =Ley=den
 John =of =Salis=bur=y
@@ -79858,7 +77264,6 @@ Jul
 Jules
 Jul=ia
 Jul=ian
-Jul=ian =Alps
 Jul=ian =cal=en=dar
 Jul=ius
 Jul=ius =Cae=sar
@@ -80228,7 +77633,6 @@ Kaf=re
 kaf=tan
 Kahn
 Kah=lil
-Kah=lú=a
 kaif
 kail
 kail=yard
@@ -80313,7 +77717,6 @@ Kant
 Kant=ist
 Kant=i=an
 Kant=i=an=ism
-KANU
 kan=a=my=cin
 Kan=a=za=wa
 Kan=chan=jan=ga
@@ -80619,7 +78022,6 @@ Ka=ra =Sea
 Ka=ra-=Kal=pak
 ka=ran=da
 ka=ra=bu=ran
-Ka=ra=chai-=Cher=kess =Au=ton=o=mous =Re=gion
 Ka=ra=chi
 Ka=ra=fu=to
 Ka=ra=gan=da
@@ -81050,7 +78452,6 @@ Ke=lan=tan
 ke=loid
 ke=loi=dal
 ke=lot=o=my
-Ke=mal =A=ta=t
 Ke=mal=ism
 Ke=mal=ist
 Ke=me=ro=vo
@@ -81142,7 +78543,6 @@ Kha=cha=tu=ri=an
 kha=di
 Kha=fa=je
 kha=fa=jeh
-Kha=kass =Au=ton=o=mous =Re=gion
 kha=ki
 kha=lif
 kha=li=fa
@@ -81506,61 +78906,19 @@ kin=folk
 kin=folks
 Kin=gu
 Kin=kaid
-Kin=kaid=er
-kin=ka=jou
 kin=kle
 kin=kled
 kin=less
-Kin=loch
-Kin=ne=lon
-kin=ni=kin=nic
 kin=ni=kin=nick
-kin=ni=kin=nik
-kin=ni=ki=nic
-kin=ni=ki=nick
-Kin=ross
-Kin=ross=shire
-Kin=sey
-Kin=sha=sa
 kin=ship
-Kin=ston
-Kio=ga
-Kio=to
-kip
-Kipp's =ap=pa=rat=us
-Kip=ling
-Kip=nis
 kip=pen
 kip=per
 kip=skin
-Kirch
-Kirch=er
-Kirch=hoff
-Kirch=hoff's =laws
-Kirk
-kirk
-kirk =ses=sion
-Kirk=by
-Kirk=cal=dy
-Kirk=cud=bright
-Kirk=cud=bright=shire
-Kirk=land
 kirk=like
 kirk=man
-Kirk=pat=rick
 Kirk=wall
-Kirk=wood
 kirn
-Kirsch
-kirsch=was=ser
-Kirsch=was=ser
 kir=by
-Kir=by-=Smith
-Kir=ghiz
-Kir=ghiz =Steppe
-Kir=ghiz=es
-Kir=ghi=zia
-Kir=giz
 kir=i=gami
 Kir=ke=nes
 Kir=kuk
@@ -81568,7 +78926,6 @@ Kir=man
 Kir=man=shah
 kir=mess
 kir=pan
-Kir=sten
 kir=tle
 kir=tled
 Kish
@@ -81620,7 +78977,6 @@ kithe
 kith=a=ra
 kith=ing
 kitsch
-Kitts-=Ne=vis-=An=guil=la
 kit=am=bil=la
 kit=bag
 kit=ed
@@ -81919,8 +79275,6 @@ know=ledge=less
 know=noth=ing=ism
 Knox
 Knox=ville
-KNP
-Knt
 knuck=le
 knuck=le =down
 knuck=le =joint
@@ -82634,7 +79988,6 @@ lan=tha=num
 Lan=tsang
 lan=yard
 Lao
-LAO
 Laoigh=is
 Laon
 Laos
@@ -82890,12 +80243,10 @@ lat=est
 lat=e=ral=i=ty
 Lat=in
 Lat=in =al=pha=bet
-Lat=in =A=mer=i=ca
 Lat=in =Church
 Lat=in =cross
 Lat=in =Quar=ter
 Lat=in =square
-Lat=in-=A=mer=i=can
 Lat=in=ate
 Lat=in=ise
 Lat=in=ised
@@ -84140,7 +81491,6 @@ lese-=maj=es=ty
 less
 less=en
 less=er
-Less=er =An=til=les
 less=er =cel=an=dine
 less=er =pan=da
 Less=er =Sun=da =Is=lands
@@ -84547,7 +81897,6 @@ le=no
 Le=noir
 Le=nore
 Le=no=ra
-Le=nô=tre
 Le=o
 Le=o =I
 Le=o =III
@@ -84593,7 +81942,6 @@ Le=pan=to
 Le=paute
 Le=pa=ya
 le=pid=o=lite
-Le=pon=tine =Alps
 le=por=i=dae
 le=quear
 Le=ros
@@ -84653,31 +82001,12 @@ le=vo=gy=rate
 le=vo=ro=ta=ry
 le=vo=ro=ta=tion
 le=vo=ro=ta=to=ry
-Le=vy
-Le=ï=tus
-Le=ón
-lge
-lgth
-Lha=sa
-lhd
-Lhe=vinne
-liang
-Liao
-Liao=ning
-Liao=peh
-Liao=tung
-Liao=yang
-Lia=kou=ra
-lib
-Lib
-Lib=by
 Lib=er=a
 Lib=er=al
 lib=er=al
 lib=er=al =arts
 Lib=er=al =Par=ty
 lib=er=al =stud=ies
-Lib=er=al =Un=ion=ist
 lib=er=al=ise
 lib=er=al=ised
 lib=er=al=ism
@@ -85513,7 +82842,6 @@ lit=ter=bug
 lit=ter=y
 lit=te=ra=tim
 lit=tle
-Lit=tle =A=mer=i=ca
 Lit=tle =Bear
 Lit=tle =Belt
 Lit=tle =Big=horn
@@ -85936,7 +83264,6 @@ Li=vo=ni=a
 Li=vo=ni=an
 li=vrai=son
 li=vre
-li=wân
 li=za
 Li=za
 Li=ège
@@ -86412,14 +83739,12 @@ loq
 lor
 Lord
 lord
-Lord =Ad=vo=cate
 Lord =Cham=ber=lain
 Lord =Chan=cel=lor
 Lord =Chief =Jus=tice
 Lord =High =Chan=cel=lor
 Lord =Lieu=ten=ant
 Lord =May=or
-Lord =of =Ap=peal
 Lord =of =Mis=rule
 Lord =Priv=y =Seal
 Lord =Pro=tec=tor
@@ -86471,7 +83796,6 @@ Lor=raine =cross
 Lor=rie
 Lor=ris
 lor=ry
-Los =An=ge=les
 lose
 loss
 loss =lead=er
@@ -86655,7 +83979,6 @@ lov=ing=ness
 Lov=ing=ton
 low
 Low
-Low =Ar=chi=pel=a=go
 low =com=e=dy
 Low =Coun=tries
 low =ex=plo=sive
@@ -86701,7 +84024,6 @@ low=down
 Low=ell
 Low=er
 low=er
-Low=er =Aus=tri=a
 Low=er =Bur=ma
 Low=er =Cal=i=for=nia
 Low=er =Can=a=da
@@ -87608,7 +84930,6 @@ lys=ing
 Lys=i=as
 lys=sa
 lys=so=pho=bi=a
-Lyth=am =Saint =Anne's
 lyth=ra=ceous
 lyt=ic
 lyt=ta
@@ -87736,7 +85057,6 @@ macro=climate
 mac=ad=am
 mac=ad=am=ise
 mac=ad=am=ize
-Mac=Ar=thur
 mac=a=da=mi=a
 Mac=a=reus
 mac=a=ron=ic
@@ -87885,7 +85205,6 @@ mad=e=moi=selle
 mad=e=moi=selles
 mad=house
 Mad=i=son
-Mad=i=son =Av=e=nue
 mad=ly
 Mad=lyn
 mad=man
@@ -88846,7 +86165,6 @@ Marg=re=the =II
 mari=igold
 mark
 Mark
-Mark =An=to=ny
 mark-=up
 marked
 marks=man
@@ -88983,7 +86301,6 @@ Mar=co=ni =rig
 mar=co=ni=gram
 mar=co=ni=graph
 Mar=cus
-Mar=cus =Au=re=li=us =An=to=ni=nus
 Mar=cu=se
 Mar=cy
 Mar=di =Gras
@@ -89000,7 +86317,6 @@ Mar=gate
 Mar=gaux
 mar=gay
 Mar=ga=ret
-Mar=ga=ret =of =An=jou
 Mar=ga=ret =of =Na=varre
 Mar=ga=ret =of =Va=lois
 Mar=ga=re=ta
@@ -89071,7 +86387,6 @@ Mar=i=sol
 mar=i=tal
 mar=i=tal=ly
 mar=i=time
-Mar=i=time =Alps
 Mar=i=time =Prov=inc=es
 Mar=i=times
 Mar=i=tim=er
@@ -89448,7 +86763,6 @@ Mas=ter
 mas=ter =build=er
 mas=ter =cyl=in=der
 mas=ter =key
-Mas=ter =of =Arts
 mas=ter =of =cer=e=mo=nies
 mas=ter =of =fox=hounds
 Mas=ter =of =Sci=ence
@@ -89541,7 +86855,6 @@ math=e=mat=i=cal=ly
 math=e=ma=ti=cian
 Math=is
 Math=ol=w=ych
-MATS
 matt
 Matt
 matte
@@ -89950,7 +87263,6 @@ ma=lar=i=ous
 ma=lar=key
 ma=lar=ky
 Ma=lay
-Ma=lay =Ar=chi=pel=a=go
 Ma=lay =Pen=in=su=la
 Ma=lay =States
 Ma=lay=a
@@ -90128,7 +87440,6 @@ Ma=ra=j
 Ma=ra=line
 Ma=ra=li=na
 Ma=ra=nh
-Ma=ra=nhão
 Ma=ra=non
 Ma=ra=tha
 Ma=ra=thi
@@ -90150,7 +87461,6 @@ Ma=riage =de =con=ve=nance
 Ma=ria=na=o
 Ma=ria=no
 Ma=rie
-Ma=rie =An=toi=nette
 Ma=rie =Byrd =Land
 Ma=rie =Ga=lante
 Ma=rie =Lou=ise
@@ -90352,7 +87662,6 @@ ma=zur=ka
 ma=zu=ma
 ma=zy
 ma=ña=na
-MBA
 Mban=da=ka
 Mba=ba=ne
 MBE
@@ -90360,7 +87669,6 @@ Mboy=a
 Mbo=mu
 Mbu=ji=ma=yi
 MCh
-Mc=Al=len
 Mc=Bride
 Mc=Cart=ney
 Mc=Car=thy
@@ -91143,7 +88451,6 @@ mer=e=tri=cious=ness
 mer=gan=ser
 mer=ger
 Mer=gui
-Mer=gui =Ar=chi=pel=a=go
 Mer=is
 mer=it
 mer=it =sys=tem
@@ -91337,7 +88644,6 @@ Mes=sa=pic
 Mes=sa=pi=an
 Mes=sei=gneurs
 mes=sen=ger
-mes=sen=ger =RNA
 Mes=ser=schmitt
 Mes=se=ne
 Mes=se=ni=a
@@ -91777,7 +89083,6 @@ me=gil=lahs
 me=gil=loth
 me=grim
 me=grims
-Me=hem=et =A=li
 Me=het=a=bel
 Me=hit=a=bel
 me=hit=zoth
@@ -92088,7 +89393,6 @@ mho
 MHz
 MI5
 MI6
-MIA
 mib
 Mic
 mice
@@ -92125,7 +89429,6 @@ mid-=on
 mid-=Vic=to=ri=an
 mid-=Vic=to=ri=an=ism
 mid-=wick=et
-MIDAS
 midge
 midg=et
 midst
@@ -92139,9 +89442,6 @@ Mid=del=burg
 mid=den
 mid=dle
 mid=dle =age
-Mid=dle =Ag=es
-Mid=dle =At=lan=tic =States
-Mid=dle =A=mer=i=ca
 mid=dle =C
 mid=dle =class
 mid=dle =com=mon =room
@@ -95214,8 +92514,6 @@ Mo=gul
 mo=hair
 mo=hal=im
 Mo=ham=med
-Mo=ham=med =Ah=med
-Mo=ham=med =A=li
 Mo=ham=med =II
 Mo=ham=med =Ri=za =Pah=la=vi
 Mo=ham=med=an
@@ -95581,7 +92879,6 @@ mph
 MPh
 MPhil
 MPS
-MRA
 MRC
 mri=dang
 Mrs
@@ -96289,7 +93586,6 @@ mu=ez=zin
 Mu=fu=li=ra
 Mu=ga=be
 Mu=ham=mad
-Mu=ham=mad =A=li
 Mu=ham=mad=an
 Mu=ham=med=an
 Mu=har=ram
@@ -96736,7 +94032,6 @@ nai=ad
 Nai=da
 Nai=ro=bi
 Nai=smith
-NALGO
 Nal=chik
 Nal=line
 nal=or=phine
@@ -96769,7 +94064,6 @@ Nam=pu=la
 Nam=tar
 nan
 nance
-NAND =cir=cuit
 nane
 Nantes
 Nan=chang
@@ -96917,7 +94211,6 @@ nar=wal
 nar=whal
 nar=whale
 nar=y
-NASA
 nase=ber=ry
 Nase=by
 Nash
@@ -96949,7 +94242,6 @@ Natch=ez
 nathe=less
 nath=less
 natl
-NATO
 Nat=a=lie
 nat=ro=lite
 Nat=ta
@@ -97047,7 +94339,6 @@ nav=i=ga=ble
 nav=i=ga=ble=ness
 nav=i=ga=bly
 nav=i=ga=tion
-Nav=i=ga=tion =Acts
 nav=i=ga=tion=al
 nav=i=ga=tor
 Nav=rat=i=lo=va
@@ -97213,7 +94504,6 @@ Na=tion=al
 na=tion=al
 na=tion=al =ac=count=ing
 na=tion=al =an=them
-Na=tion=al =As=sem=bly
 na=tion=al =as=sis=tance
 na=tion=al =bank
 na=tion=al =code
@@ -97649,7 +94939,6 @@ Neth
 neth=er
 neth=er =world
 Neth=er=lands
-Neth=er=lands =An=til=les
 Neth=er=lands =East =In=dies
 Neth=er=lands =Gui=an=a
 Neth=er=lands =West =In=dies
@@ -97677,7 +94966,6 @@ net=tle=some
 net=tly
 net=ty
 net=work
-Neuf=châ=tel
 Neuf=ch=tel
 Neuil=ly
 Neuil=ly-=sur-=Seine
@@ -97693,7 +94981,6 @@ Neus=tri=a
 Neus=tri=an
 neut
 Neu=bran=den=burg
-Neu=châ=tel
 Neu=ch=tel
 Neu=mann
 neu=mat=ic
@@ -97817,7 +95104,6 @@ Nev=in
 Nev=ins
 Nev=ski
 new
-New =Am=ster=dam
 New =Bed=ford
 New =Brit=ain
 New =Bruns=wick
@@ -97848,7 +95134,6 @@ New =King=dom
 New =Lat=in
 New =Learn=ing
 New =Mex=i=co
-New =Mod=el =Ar=my
 New =Neth=er=land
 New =Or=le=ans
 New =Or=le=ans =jazz
@@ -98266,7 +95551,6 @@ Ne=vers
 Ne=vis
 ne=void
 ne=vus
-NGA
 ngai=o
 Ngan=hwei
 Nga=lie=ma =Moun=tain
@@ -98773,7 +96057,6 @@ ni=val
 ni=va=tion
 Ni=ver=nais
 Ni=vre
-Ni=vôse
 ni=ya=ma
 Ni=zam
 ni=zam=ate
@@ -98913,16 +96196,6 @@ non =li=quet
 non =pro=se=qui=tur
 non =se=qui=tur
 non =trop=po
-non-=Af=ri=can
-non-=Al=ex=an=dri=an
-non-=An=gli=can
-non-=Ar=ab
-non-=Ar=a=bic
-non-=Ar=y=an
-non-=At=tic
-non-=A=mer=i=can
-non-=A=sian
-non-=A=si=at=ic
 non-=Ban=tu
 non-=Bap=tist
 non-=Bib=li=cal
@@ -104201,9 +101474,6 @@ Norse
 Norse=man
 North
 north
-North =Af=ri=ca
-North =At=lan=tic =Drift
-North =A=mer=i=ca
 North =Bor=ne=o
 North =Bra=bant
 North =Car=o=li=na
@@ -104678,7 +101948,6 @@ no=whith=er
 no=wise
 no=yade
 No=ë=mon
-NPA
 NPL
 NSB
 NSF
@@ -104688,7 +101957,6 @@ nth
 Nth
 NTP
 nu-=val=ue
-NUAAW
 nub
 nub=bin
 nub=ble
@@ -105051,7 +102319,6 @@ Oak=lyn
 Oak=mont
 oak=moss
 Oak=ville
-OAP
 oar
 oared
 oars
@@ -105061,7 +102328,6 @@ oar=fish=es
 oar=less
 oar=like
 oar=lock
-OAS
 oast
 oat
 Oates
@@ -105070,7 +102336,6 @@ oat=cake
 oat=en
 oat=er
 oat=meal
-OAU
 oa=kum
 Oa=xa=ca
 Obad
@@ -105327,7 +102592,6 @@ ob=vo=lute
 ob=vo=lu=tion
 ob=vo=lu=tive
 Ob=wal=den
-OCAM
 occas
 oceanog
 och
@@ -106682,7 +103946,6 @@ Or=ville
 Or=vi=e=to
 Or=well
 or=yx
-OSA
 OSB
 OSD
 OSF
@@ -106757,7 +104020,6 @@ os=mo=sis
 os=mund
 os=mun=da
 Os=na=br
-Os=na=brück
 Os=na=burg
 os=na=burg
 os=o=phone
@@ -110841,7 +108103,6 @@ o=zo=ni=sa=tion
 o=zo=nol=y=sis
 o=zo=nous
 o=zo=no=sphere
-PA =sys=tem
 pace
 paced
 pace=mak=er
@@ -111005,12 +108266,10 @@ pai=sa
 pai=sa=no
 Pai=siel=lo
 Pai=ute
-PAK
 pak-=choi =cab=bage
 Pak=i
 Pak=i-=bash=ing
 Pak=se
-PAL
 pal
 Pal
 pale
@@ -111028,7 +108287,6 @@ Palm =Sun=day
 palm =vault=ing
 palm=er
 Palm=er
-Palm=er =Ar=chi=pel=a=go
 Palm=er =Land
 Palm=er =Pen=in=su=la
 Palm=er=ston
@@ -111126,7 +108384,6 @@ pal=kee
 pal=ki
 pal=lad=ic
 Pal=las
-Pal=las =A=the=na
 Pal=la=dio
 pal=la=dize
 pal=la=dized
@@ -111184,7 +108441,6 @@ pal=mi=tate
 pal=mi=tin
 pal=my=ra
 Pal=my=ra
-Pal=o =Al=to
 Pal=o=mar
 pal=o=met=a
 pal=o=mi=no
@@ -111258,16 +108514,6 @@ pam=pre
 pam=pro=dac=tyl=ism
 Pan
 pan
-Pan =A=mer=i=can =Un=ion
-Pan-=Af=ri=can
-Pan-=Af=ri=can=ism
-Pan-=Af=ri=can=ist
-Pan-=Ar=ab
-Pan-=Ar=ab=ic
-Pan-=Ar=ab=ism
-Pan-=Ar=a=bism
-Pan-=A=mer=i=can
-Pan-=A=mer=i=can=ism
 Pan-=Eu=ro=pe=an
 Pan-=Ger=man
 Pan-=Ger=man=ic
@@ -112549,7 +109795,6 @@ pat=u=lous=ly
 pat=u=lous=ness
 pat=y
 Pau
-PAU
 paugh=ty
 Paul
 Paul-=Bon=cour
@@ -112592,7 +109837,6 @@ Pau=ling
 Pau=li=nus
 pau=low=ni=a
 Pau=lus
-Pau=mo=tu =Ar=chi=pel=a=go
 pau=per
 pau=per=age
 pau=per=dom
@@ -112645,7 +109889,6 @@ paw=paw
 Paw=tuck=et
 pax
 Pax
-PAX
 Pax =Ro=ma=na
 Pax=ton
 pax=wax
@@ -112673,7 +109916,6 @@ pay=off
 pay=o=la
 pay=roll
 Pay=san=d
-Pay=san=dú
 Pay=son
 Pay=ton
 paz=a=ree
@@ -112834,7 +110076,6 @@ pa=le=en=ceph=a=lon
 pa=le=eth=nol=o=gist
 pa=le=eth=nol=o=gy
 pa=le=eth=no=log=ic
-Pa=le=o-=A=si=at=ic
 pa=le=og=ra=pher
 pa=le=og=ra=phy
 pa=le=ol=o=gist
@@ -113064,13 +110305,11 @@ pa=re=ve
 pa=ri =pas=su
 pa=rish=ion=er
 pa=rish=ion=er=ship
-Pa=ris=i=i
 pa=ri=ah
 pa=ri=ah =dog
 pa=ri=ah=dom
 pa=ri=ah=ism
 Pa=ri=cu=t
-Pa=ri=cu=tín
 pa=ri=e=tal
 pa=ri=e=tal =bone
 pa=ri=e=tal =cell
@@ -113758,7 +110997,6 @@ pen=nied
 pen=nies
 pen=nil=li=on
 pen=nine
-Pen=nine =Alps
 Pen=nine =Way
 Pen=nines
 pen=ning
@@ -115060,7 +112298,6 @@ pe=rib=o=los
 pe=rib=o=lus
 pe=ric=o=pe
 pe=rid=i=al
-pe=rid=i=i=form
 pe=rid=i=ole
 pe=rid=i=o=lum
 pe=rid=i=um
@@ -115134,7 +112371,6 @@ Pe=ru=gin=esque
 Pe=ru=gi=no
 Pe=ru=vi=an =bark
 Pe=rón
-Pe=rú
 Pe=sach
 pe=sade
 Pe=sah
@@ -116749,7 +113985,6 @@ pis=ca=tor
 pis=ca=to=ri=al
 pis=ca=to=ry
 pis=cine
-Pis=cis =Aus=tri=nus
 pis=civ=o=rous
 pis=ci=cul=ture
 pis=ci=cul=tur=al
@@ -116928,7 +114163,6 @@ Pi=card
 Pi=cas=so
 pi=ca=dor
 pi=ca=do=res
-Pi=co =de =A=ne=to
 Pi=co =de =Tei=de
 Pi=co =del=la =Mi=ran=do=la
 pi=cot
@@ -117090,7 +114324,6 @@ pi=ra=rat=ed
 pi=ra=rat=ing
 Pi=re=ne
 Pi=rith=o=us
-Pi=rith=o=üs
 pi=rog
 pi=rogue
 pi=rosh=ki
@@ -117177,7 +114410,6 @@ plain =sail=ing
 plain-=spo=ken
 plains
 Plains =In=di=an
-Plains =of =A=bra=ham
 plains=man
 plaint
 plain=chant
@@ -118706,8 +115938,6 @@ pork=pie =hat
 pork=y
 port
 Port
-Port =Ad=e=laide
-Port =Ar=thur
 Port =du =Sa=lut
 Port =E=liz=a=beth
 Port =Har=court
@@ -118842,12 +116072,10 @@ por=tray=er
 Por=tum=nus
 Por=tu=gal
 Por=tu=guese
-Por=tu=guese =East =Af=ri=ca
 Por=tu=guese =Guin=ea
 Por=tu=guese =In=di=a
 Por=tu=guese =man-=of-=war
 Por=tu=guese =Ti=mor
-Por=tu=guese =West =Af=ri=ca
 por=tu=lac=a
 por=tu=la=ca=ceous
 Por=tu=nus
@@ -118861,14 +116089,7 @@ post =me=rid=i=em
 post =of=fice
 Post =Of=fice
 post =of=fice =box
-post-=Ad=vent
-post-=Al=ex=an=drine
-post-=Ar=is=to=te=lian
 post-=au=dit
-post-=Au=gus=tan
-post-=Au=gus=tin=i=an
-post-=Az=tec
-post-=A=dam=ic
 post-=Bab=y=lo=ni=an
 post-=bel=lum
 post-=Bib=li=cal
@@ -120017,12 +117238,6 @@ pra=tin=co=lous
 pra=tique
 Pra=to
 PRB
-pre-=Am=mon=ite
-pre-=Ar=thu=ri=an
-pre-=Ar=y=an
-pre-=As=syr=i=an
-pre-=Au=gus=tan
-pre-=Au=gus=tine
 pre-=Bab=y=lo=ni=an
 pre-=Ba=co=ni=an
 pre-=Brit=ish
@@ -123603,7 +120818,6 @@ prim=u=la=ceous
 prin
 prince
 Prince
-Prince =Al=bert
 prince =con=sort
 Prince =Ed=ward =Is=land
 Prince =of =Dark=ness
@@ -123822,27 +121036,7 @@ pro =for=ma
 pro =pa=tri=a
 pro =ra=ta
 pro =tem=po=re
-pro-=Ab=ys=sin=i=an
-pro-=Al=a=bam=an
-pro-=Al=ge=ri=an
-pro-=Al=sa=tian
 pro-=am
-pro-=An=gli=can
-pro-=Ar=ab
-pro-=Ar=a=bic
-pro-=Ar=gen=ti=na
-pro-=Ar=is=to=te=l=i=an
-pro-=Ar=i=an
-pro-=Ar=me=ni=an
-pro-=Aus=tra=li=an
-pro-=Aus=tri=an
-pro-=A=las=kan
-pro-=A=mer=i=can
-pro-=A=mer=i=can=ism
-pro-=A=ra=bi=an
-pro-=A=sian
-pro-=A=si=at=ic
-pro-=A=the=ni=an
 pro-=Bap=tist
 pro-=Ba=co=ni=an
 pro-=Bel=gian
@@ -124359,7 +121553,6 @@ pro=ad=min=is=tra=tion
 pro=ad=mis=sion
 pro=ad=ver=tis=ing
 pro=ad=ver=tiz=ing
-pro=Af=ri=can
 pro=ag=i=ta=tion
 pro=ag=on
 pro=air=plane
@@ -125445,15 +122638,6 @@ Pseud=e=pig=ra=pha
 pseud=o=va=ry
 pseu=di=so=dom=ic
 pseu=do
-pseu=do-=Af=ri=can
-pseu=do-=Ar=gen=tin=e=an
-pseu=do-=Ar=gen=tin=i=an
-pseu=do-=Ar=is=to=te=li=an
-pseu=do-=Ar=y=an
-pseu=do-=As=syr=i=an
-pseu=do-=Aus=tral=ian
-pseu=do-=Aus=tri=an
-pseu=do-=A=mer=i=can
 pseu=do-=Bab=y=lo=ni=an
 pseu=do-=Bap=tist
 pseu=do-=Bel=gian
@@ -126019,7 +123203,6 @@ psy=chro=met=ric
 psy=chro=phile
 psy=chro=phil=ic
 pta
-PTA
 Ptah
 ptar=mi=gan
 PTE
@@ -126076,7 +123259,6 @@ pto=maine =poi=son=ing
 pto=main=ic
 pto=sis
 pto=tic
-Pto=üs
 pts
 pty
 pty=a=lec=ta=sis
@@ -126354,7 +123536,6 @@ pun=net
 pun=ning
 pun=ster
 Pun=ta
-Pun=ta =A=re=nas
 Pun=ta=re=nas
 pun=til=la
 pun=til=las
@@ -126458,7 +123639,6 @@ pur=pure
 pur=pu=ra
 pur=pu=ric
 pur=pu=rin
-pur=pôrt
 pur=ree
 pur=si=er
 pur=si=est
@@ -126674,7 +123854,6 @@ pu=ru=lent
 pu=ru=lent=ly
 pu=ru=loid
 pu=ru=sha
-Pu=rús
 Pu=san
 Pu=sey
 Pu=sey=ism
@@ -126710,7 +123889,6 @@ pu=tri=lag=i=nous
 pu=tri=lag=i=nous=ly
 Pu=tu=ma=yo
 Pu=vis =de =Cha=vannes
-PVA
 PVC
 Pvt
 PWD
@@ -127306,8 +124484,6 @@ qua=si-=aw=ful
 qua=si-=a=dopt
 qua=si-=a=dopt=ed
 qua=si-=a=dult
-qua=si-=A=mer=i=can
-qua=si-=A=mer=i=can=ized
 qua=si-=a=mi=a=ble
 qua=si-=a=mus=ing
 qua=si-=a=pol=o=get=ic
@@ -127945,7 +125121,6 @@ quea=sy
 Quech=ua
 Quech=uan
 queen
-Queen =Anne's =Boun=ty
 Queen =Char=lotte =Is=lands
 queen =con=sort
 queen =dow=a=ger
@@ -128250,7 +125425,6 @@ qui=et=ly
 qui=et=ness
 qui=e=tude
 qui=e=tus
-qui=nar=i=i
 qui=nar=i=us
 qui=nate
 qui=na=ry
@@ -128339,7 +125513,6 @@ rab=id=i=ty
 rab=id=ly
 rab=id=ness
 rab=ot
-RAC
 race
 Race
 race =meet=ing
@@ -128396,7 +125569,6 @@ rac=on=teur
 rac=quet
 rac=y
 rad
-RADA
 Rad=cliffe
 rad=dle
 rad=dled
@@ -128421,19 +125593,16 @@ Rad=nor=shire
 rad=u=la
 rad=u=lar
 Rae
-RAEC
 Rae=burn
 Rae=ford
 Rae=nell
 Rae=tic
-RAF
 raff
 raff=ish
 raff=ish=ly
 raff=ish=ness
 raft
 raft=er
-RAFVR
 Raf=a=el
 raf=fee
 Raf=fer=ty
@@ -128579,9 +125748,7 @@ ral=ly=ing
 Ral=ston
 ram
 Ram
-RAM
 ram-=air =tur=bine
-RAMC
 ramp
 ramp=ant=ly
 ramp=ing=ly
@@ -128650,7 +125817,6 @@ ram=u=lose
 ram=u=lous
 Ran
 ran
-RAN
 rance
 ranch
 ranch=er
@@ -128730,7 +125896,6 @@ ran=som=er
 Ran=toul
 ran=u=la
 ran=u=lar
-RAOC
 rap
 rape
 rape=oil
@@ -128791,8 +125956,6 @@ rar=e=fy=ing
 rar=ing
 Rar=i=tan
 rar=i=ty
-RAS
-RASC
 rase
 rash
 Rasht
@@ -128856,7 +126019,6 @@ rathe=ness
 raths=kel=ler
 Rath=bone
 rath=er
-RATO
 rats
 rats=bane
 Rats=kel=ler
@@ -128936,7 +126098,6 @@ Rau=rich
 Rau=schen=burg
 Rau=schen=busch
 rau=wol=fi=a
-RAVC
 rave
 rave=lin
 rav=age
@@ -129275,18 +126436,7 @@ ra=vine
 ra=vine=y
 ra=vi=gote
 ra=vi=o=li
-Ra=vo=nelle
-Ra=wal=pin=di
-ra=win
-ra=win=sonde
-ra=ya
-ra=yah
-ra=zee
-ra=zeed
-ra=zee=ing
-ra=zoo
 ra=zor
-ra=zor-=billed =auk
 ra=zor-=cut
 ra=zor-=shell
 ra=zor=back
@@ -129294,22 +126444,6 @@ ra=zor=bill
 ra=zor=fish
 ra=zor=fish=es
 ra=zor=less
-Ra=úl
-RBE
-RCA
-RCAF
-rcd
-RCH
-RCM
-RCMP
-RCN
-RCO
-RCP
-rcpt
-RCS
-rct
-RCT
-RCVS
 re-=act
 re-=cede
 re-=col=lect
@@ -129788,7 +126922,6 @@ Reg=u=lus
 reg=u=lus=es
 Reich
 Reichs=bank
-Reichs=füh=rer
 reichs=mark
 Reichs=mark
 Reichs=rat
@@ -131117,7 +128250,6 @@ re=cord=a=ble
 re=cord=ed =de=liv=er=y
 re=cord=er
 re=cord=ing
-Re=cord=ing =An=gel
 Re=cor=de
 re=cor=o=na=tion
 re=cor=rect
@@ -131634,7 +128766,6 @@ re=ex=po=si=tion
 re=ex=po=sure
 re=ex=press
 re=ex=pres=sion
-re=ex=spôrt
 re=e=ject
 re=e=lect
 re=e=lec=tion
@@ -134044,7 +131175,6 @@ re=tir=ing
 re=tir=ing=ly
 re=ti=a
 re=ti=al
-re=ti=ar=i=i
 re=ti=ar=i=us
 re=ti=ar=y
 re=ti=form
@@ -134489,14 +131619,12 @@ Rh =neg=a=tive
 Rh =pos=i=tive
 Rh-=neg=a=tive
 Rh-=pos=i=tive
-RHA
 rhab=do=man=cy
 rhab=do=my=o=ma
 Rhad=a=man=thine
 Rhad=a=man=thus
 Rhad=a=man=thys
 Rhae=tian
-Rhae=tian =Alps
 Rhae=tic
 Rhae=ti=a
 Rhae=to-=Ro=mance
@@ -134725,7 +131853,6 @@ rhy=o=lite
 rhy=o=lit=ic
 rhy=ton
 rib
-RIBA
 rib=ald
 rib=ald=ly
 rib=ald=ry
@@ -135146,7 +132273,6 @@ ri=bo=nu=cle=ase
 ri=bo=nu=cle=ic =ac=id
 ri=bo=so
 ri=bo=some
-ri=bo=so=mal =RNA
 ri=bo=zo
 Ri=car=do
 ri=cer=car
@@ -135207,7 +132333,6 @@ Ri=o =Bran=co
 Ri=o =de =Ja=nei=ro
 Ri=o =Grande
 ri=ot
-Ri=ot =Act
 ri=ot=er
 ri=ot=ing=ly
 ri=ot=ist
@@ -135244,16 +132369,12 @@ ri=yal
 Ri=za
 Ri=zal
 rly
-RMA
 RMM
 RMS
 rms
-RNA
-RNAS
 RNLI
 RNR
 RNVR
-RNZAF
 RNZN
 roach
 roach=es
@@ -135533,7 +132654,6 @@ ron=delle
 ron=de=let
 ron=do
 ron=dure
-Ron=dô=nia
 Ron=d=nia
 Ron=kon=ko=ma
 Ron=ni
@@ -135669,7 +132789,6 @@ Rose=wall
 rose=wood
 Rosh =Ha=sha=na
 Rosh =Ha=sha=nah
-ROSPA
 Ross
 ross
 Ross =and =Crom=ar=ty
@@ -135900,7 +133019,6 @@ Row=land=son
 row=lock
 Rox=ane
 Rox=an=a
-Rox=as =y =A=cu=na
 Rox=burgh
 Rox=burgh=shire
 Rox=i
@@ -135908,9 +133026,7 @@ Rox=ie
 Royce
 Roy=al
 roy=al
-Roy=al =Air =Force
 roy=al =as=sent
-Roy=al =A=cad=e=my
 roy=al =blue
 Roy=al =Com=mis=sion
 roy=al =duke
@@ -136080,7 +133196,6 @@ ro=me=ro
 Ro=mish
 Ro=mu=lo
 ro=my=ko
-Ro=mâ=nia
 Ro=ne
 Ro=ne=o
 ro=nin
@@ -136782,7 +133897,6 @@ safe=ty =pin
 safe=ty =ra=zor
 safe=ty =valve
 safe=ty-=de=pos=it
-SAfr
 saf=fi=an
 saf=flow=er
 Saf=ford
@@ -136792,7 +133906,6 @@ saf=ra=nine
 saf=rol
 saf=role
 sag
-SAGE
 sage
 Sage
 sage =Der=by
@@ -136841,17 +133954,10 @@ sail=planed
 sail=plan=ing
 sain
 saint
-Saint =Ag=nes's =Eve
-Saint =Al=bans
-Saint =An=tho=ny's =Cross
-Saint =An=tho=ny's =fire
-Saint =Aus=tell
-Saint =Au=gus=tine
 Saint =Ber=nard
 Saint =Ber=nard =Pass
 Saint =Cath=a=rines
 Saint =Chris=to=pher
-Saint =Chris=to=pher-=Ne=vis-=An=guil=la
 Saint =Croix =Riv=er
 Saint =Da=vid's
 Saint =El=mo's =fire
@@ -136863,7 +133969,6 @@ Saint =Hel=ier
 Saint =He=le=na
 Saint =James's =Pal=ace
 Saint =Kil=da
-Saint =Kitts-=Ne=vis-=An=guil=la
 Saint =Lau=rent
 Saint =Law=rence
 Saint =Law=rence =Sea=way
@@ -136958,7 +134063,6 @@ salm=on =pink
 salm=on =trout
 salm=on=ber=ry
 salm=on=like
-SALT
 salt
 salt =a=way
 Salt =Lake =Cit=y
@@ -137055,7 +134159,6 @@ sal=low=y
 Sal=lust
 Sal=ly
 sal=ly
-Sal=ly =Ar=my
 Sal=ly =Lunn
 Sal=lye
 sal=ly=ing
@@ -137125,7 +134228,6 @@ sal=va=ble=ness
 sal=va=bly
 Sal=va=dor
 sal=va=tion
-Sal=va=tion =Ar=my
 sal=va=tion=al
 sal=va=tion=ism
 sal=va=tion=ist
@@ -137361,9 +134463,6 @@ San=som
 San=son-=Flam=steed =pro=jec=tion
 San=so=vi=no
 San=ta
-San=ta =An=a
-San=ta =An=na
-San=ta =A=na
 San=ta =Cat=a=li=na
 San=ta =Ca=ta=ri=na
 San=ta =Claus
@@ -137589,9 +134688,7 @@ sas=sy=wood
 sas=tru=ga
 Sat
 sat
-SAT
 Sat-=chit-=a=nan=da
-SATB
 satch=el
 sate
 satt=va
@@ -137686,7 +134783,6 @@ sau=cer
 sau=ci=er
 sau=ci=est
 sau=cy
-Sau=di =A=ra=bi=a
 sau=er=bra=ten
 sau=er=kraut
 sau=ger
@@ -137760,7 +134856,6 @@ saw=yer
 sax
 Sax
 Saxe
-Saxe-=Al=ten=burg
 Saxe-=Co=burg-=Go=tha
 Saxe-=Mei=ning=en
 Saxe-=Wei=mar-=Ei=sen=ach
@@ -137786,7 +134881,6 @@ sax=tu=ba
 Say
 say
 say-=so
-SAYE
 Sayre
 Sayre=ville
 say=a=ble
@@ -137898,7 +134992,6 @@ Sa=ha=ran=pur
 sa=heb
 Sa=hib
 sa=hib
-Sa=hit=ya =A=kad=e=mi
 sa=hua=ro
 sa=id
 Sa=is
@@ -138143,7 +135236,6 @@ sa=vour=ous
 sa=vour=y
 Sa=voy
 sa=voy
-Sa=voy =Alps
 Sa=voy=ard
 Sa=voy=ards
 Sa=voy=vied
@@ -138153,9 +135245,6 @@ Sa=voy=vy=ing
 Sa=vo=na
 Sa=yan =Moun=tains
 sa=yo=na=ra
-Sa=yão
-Sa=ïs
-Sa=ït=ic
 scab
 scab=bard
 scab=bard =fish
@@ -139194,7 +136283,6 @@ search=ing=ly
 search=ing=ness
 search=light
 seat
-SEATO
 seat=er
 seat=ing
 seat=less
@@ -139260,13 +136348,6 @@ sea=way
 sea=weed
 sea=wor=thi=ness
 sea=wor=thy
-seb=or=rhe=a
-seb=or=rhe=al
-seb=or=rhe=ic
-seb=or=rhoe=a
-sec
-sec'y
-SECAM
 sech
 sect
 secy
@@ -139274,7 +136355,6 @@ sec=a=teurs
 Sec=chi
 sec=co
 sec=ond
-Sec=ond =Ad=vent
 sec=ond =bal=lot
 sec=ond =ba=na=na
 sec=ond =cham=ber
@@ -141690,7 +138770,6 @@ sev=enth =chord
 sev=enth =heav=en
 sev=enth-=day
 Sev=enth-=Day
-Sev=enth-=Day =Ad=ven=tist
 sev=enth=ly
 sev=en=bark
 Sev=en=er
@@ -142185,7 +139264,6 @@ Se=to =Nai=kai
 se=ton
 Se=ton
 se=tose
-Se=tú=bal
 Se=t=bal
 Se=van
 Se=vas=to=pol
@@ -142220,7 +139298,6 @@ sgd
 SGP
 sgraf=fi=to
 Sgt
-SHA
 Shaa=ban
 Shab=bas
 Shab=bat
@@ -142271,7 +139348,6 @@ shad=ow=y
 Shad=rach
 Shad=well
 shad=y
-SHAEF
 shaft
 shaft =feath=er
 Shaftes=bur=y
@@ -142405,7 +139481,6 @@ shan=ty=ing
 shan=ty=like
 shan=ty=town
 shape
-SHAPE
 shaped
 shape=a=ble
 shape=less
@@ -142482,7 +139557,6 @@ shas=tra
 shas=tra=ca=ra
 shas=tra=ik
 shas=trik
-Shatt-=al-=Ar=ab
 shat=ter
 shat=ter=er
 shat=ter=ing=ly
@@ -143962,7 +141036,6 @@ Sin=i=fy
 Sin=i=fy=ing
 sin=i=grin
 Sin=kiang
-Sin=kiang-=Ui=ghur =Au=ton=o=mous =Re=gion
 sin=less
 sin=less=ly
 sin=less=ness
@@ -144184,8 +141257,6 @@ si=de=re=al =year
 si=de=re=al=ly
 Si=de=ro
 Si=di =If=ni
-Si=di-=bel-=Ab=b
-Si=di-=bel-=Ab=bès
 si=dle
 si=dling=ly
 Si=don
@@ -145943,7 +143014,6 @@ sol=u=bil=ize
 sol=u=bil=i=ty
 sol=u=ble
 sol=u=ble =glass
-sol=u=ble =RNA
 sol=u=ble=ness
 sol=u=bly
 sol=u=tiz=er
@@ -146284,13 +143354,6 @@ sous=lik
 Sous=telle
 south
 South
-South =Af=ri=ca
-South =Af=ri=can
-South =Af=ri=can =Dutch
-South =Aus=tral=i=a
-South =A=mer=i=ca
-South =A=mer=i=can =tryp=a=no=so=mi=a=sis
-South =A=ra=bi=a
 South =Car=o=li=na
 South =Chi=na =Sea
 South =Da=ko=ta
@@ -146306,7 +143369,6 @@ South =Sea =Is=lands
 South =Shet=land =Is=lands
 South =Ty=rol
 South =Vi=et=nam
-South =West =Af=ri=ca
 South =York=shire
 south-=south=east
 south-=south=west
@@ -146319,7 +143381,6 @@ South=bridge
 South=down
 South=east
 south=east
-South=east =A=sia
 south=east =by =east
 south=east =by =south
 south=east=er
@@ -146333,7 +143394,6 @@ South=end-=on-=Sea
 south=er
 south=ern
 South=ern
-South=ern =Alps
 South=ern =Brit=ish =Eng=lish
 South=ern =Cross
 south=ern =hem=i=sphere
@@ -146774,7 +143834,6 @@ so=tol
 So=vetsk
 So=vi=et
 so=vi=et
-So=vi=et =Cen=tral =A=sia
 So=vi=et =Rus=sia
 So=vi=et =Un=ion
 So=vi=et =Zone
@@ -146866,8 +143925,6 @@ Span=iard
 span=iel
 span=iel=like
 Span=ish
-Span=ish =Ar=ma=da
-Span=ish =A=mer=i=ca
 Span=ish =bay=o=net
 Span=ish =ce=dar
 Span=ish =Civ=il =War
@@ -146884,10 +143941,7 @@ Span=ish =on=ion
 Span=ish =pap=ri=ka
 Span=ish =rice
 Span=ish =Sa=ha=ra
-Span=ish =West =Af=ri=ca
 Span=ish =wind=lass
-Span=ish-=A=mer=i=can
-Span=ish-=A=mer=i=can =War
 span=ner
 span=ning
 span=worm
@@ -147686,7 +144740,6 @@ spi=rac=u=lar
 spi=rae=a
 spi=ral
 spi=ral =gal=ax=y
-spi=ral =of =Ar=chi=me=des
 spi=ral =stair=case
 spi=ral-=bound
 spi=raled
@@ -148383,7 +145436,6 @@ sqush=y
 Sri =Lan=ka
 Sri=na=gar
 Sri=ni=va=sa
-St =An=drew's =Cross
 St =An=drews
 St-=Ger=main-=en-=Laye
 St-=James's-=flow=er
@@ -148417,7 +145469,6 @@ stad=hold=er=ship
 stad=le
 staff
 staff =col=lege
-staff =of =Aes=cu=la=pi=us
 staff =of=fic=er
 staff =ser=geant
 Staffs
@@ -150093,8 +147144,6 @@ strat=a=gem=i=cal
 strat=a=gem=i=cal=ly
 strat=e=gist
 strat=e=gy
-Strat=ford-=on-=A=von
-Strat=ford-=up=on-=A=von
 strat=i=fied
 strat=i=fi=ca=tion
 strat=i=fi=ca=tion=al =gram=mar
@@ -150189,7 +147238,6 @@ stream=y
 Strea=tor
 streek
 street
-street =Ar=ab
 street =pi=an=o
 street=car
 street=lamp
@@ -150664,8 +147712,6 @@ sua=so=ry
 sub
 sub =ju=di=ce
 sub =ro=sa
-sub-=An=de=an
-sub-=At=lan=tic
 sub-=Car=pa=thi=an
 sub-=Chris=tian
 sub-=Hi=ma=la=yan
@@ -153062,7 +150108,6 @@ sut=tee
 Sut=ton
 Sut=ton =Cold=field
 Sut=ton =Hoo
-Sut=ton-=in-=Ash=field
 su=a=bil=i=ty
 su=a=ble
 su=a=bly
@@ -153145,7 +150190,6 @@ Su=la=we=si
 Su=lei=man
 Su=lei=man =I
 Su=lu
-Su=lu =Ar=chi=pel=a=go
 Su=lu =Sea
 Su=mac
 su=mac
@@ -155310,7 +152354,6 @@ tac=i=turn=i=ty
 tac=i=turn=ly
 Tac=i=tus
 tac=ma=hack
-Tac=na-=A=ri=ca
 tac=node
 tac=o=nite
 tac=point
@@ -156482,7 +153525,6 @@ teleg
 tell
 Tell
 tell =a=part
-Tell =el =A=mar=na
 tell=er
 tell=er=ship
 tell=ing
@@ -156679,7 +153721,6 @@ Tem=plar
 tem=plate
 tem=ple
 Tem=ple
-Tem=ple =of =Ar=te=mis
 tem=pled
 tem=plet
 tem=ple=like
@@ -156809,7 +153850,6 @@ Ten=iers
 ten=nant=ite
 ten=ner
 Ten=nes=see
-Ten=nes=see =Val=ley =Au=thor=i=ty
 Ten=nes=see =Walk=ing =Horse
 Ten=nes=see=an
 Ten=nes=se=an
@@ -157039,7 +154079,6 @@ ter=ri=fy=ing
 ter=ri=fy=ing=ly
 ter=ri=to=ri=al
 Ter=ri=to=ri=al
-Ter=ri=to=ri=al =Ar=my
 ter=ri=to=ri=al =court
 ter=ri=to=ri=al =wa=ters
 ter=ri=to=ri=al=ise
@@ -158049,7 +155088,6 @@ thir=ty-=first
 thir=ty-=four
 thir=ty-=fourth
 thir=ty-=nine
-Thir=ty-=nine =Ar=ti=cles
 thir=ty-=ninth
 thir=ty-=one
 thir=ty-=sec=ond
@@ -158763,7 +155801,6 @@ tim=o=thy =grass
 tim=pa=ni
 tin
 tin =liz=zie
-Tin =Pan =Al=ley
 tin =sol=dier
 tin =whis=tle
 tin-=o=pen=er
@@ -158899,7 +155936,6 @@ Tir=so =de =Mo=li=na
 Tir=than=ka=ra
 Tir=u=chi=ra=pal=li
 Tisch=en=dorf
-Tish=ab =b'Ab
 Tish=ri
 Tis=se=rand
 Tis=sot
@@ -160102,19 +157138,6 @@ tranc=ing
 trank
 tranquil=lize
 trans
-trans-=Af=ri=can
-trans-=Al=ge=ri=an
-trans-=Al=le=ghe=ni=an
-trans-=Ant=arc=tic
-trans-=An=de=an
-trans-=An=dine
-trans-=Ap=en=nine
-trans-=Aus=tral=ian
-trans-=Aus=tri=an
-trans-=A=dri=at=ic
-trans-=A=mer=i=can
-trans-=A=ra=bi=an
-trans-=A=si=at=ic
 trans-=Bal=kan
 trans-=Bal=tic
 trans-=Car=pa=thi=an
@@ -160235,7 +157258,6 @@ trans=fer
 trans=fer =fee
 trans=fer =list
 trans=fer =pay=ment
-trans=fer =RNA
 trans=ferred
 trans=fer=able =vote
 trans=fer=al
@@ -160585,7 +157607,6 @@ tran=su=date
 tran=su=da=tion
 tran=su=da=tive
 Tran=syl=va=ni=a
-Tran=syl=va=ni=an =Alps
 trap
 trap-=door =spi=der
 trapes
@@ -160866,7 +157887,6 @@ Trent
 trente =et =qua=rante
 Tren=chard
 tren=tal
-Tren=ti=no-=Al=to =A=di=ge
 Tren=to
 Tren=ton
 Tren=to=ni=an
@@ -161438,7 +158458,6 @@ Tri=pit=a=ka
 Tri=pi=ta=ka
 tri=plane
 tri=ple
-Tri=ple =Al=li=ance
 tri=ple =bond
 Tri=ple =En=tente
 tri=ple =jump
@@ -162229,7 +159248,6 @@ Tux=e=do
 tux=e=do
 Tux=tla =Gu=ti=rez
 tu=art
-Tu=a=mo=tu =Ar=chi=pel=a=go
 tu=a=ta=ra
 tu=ba
 tu=bal
@@ -162400,7 +159418,6 @@ tu=y
 tu=yer
 tu=yère
 tu=yères
-TVA
 Tver
 twad=dle
 twad=dler
@@ -162884,7 +159901,6 @@ un-=Ne=gro
 un-=Vic=to=ri=an
 unb
 unbd
-UNCTAD
 unc=ar=i=a
 unc=tion
 unc=tu=os=i=ty
@@ -162901,8 +159917,6 @@ Unit
 univ
 Univ
 UNO
-UNRRA
-UNRWA
 un=ab=bre=vi=at=ed
 un=ab=di=cat=ed
 un=ab=di=cat=ing
@@ -170061,7 +167075,6 @@ un=na=tion=al=is=tic
 un=na=tion=al=is=ti=cal=ly
 un=na=tion=al=ized
 un=na=tive
-un=na=ïve
 un=neat
 un=nec=es=sar=ies
 un=nec=es=sar=i=ly
@@ -174675,7 +171688,6 @@ up=most
 up=on
 up=per
 up=per =at=mo=sphere
-Up=per =Aus=tri=a
 Up=per =Bur=ma
 Up=per =Can=a=da
 up=per =cham=ber
@@ -174855,29 +171867,11 @@ Ush=ant
 Ush=as
 ush=er
 Ush=er
-ush=er=ette
-USIA
-USIS
-Usk
-USM
-USN
-USS
-Ussh=er
-USSR
-Ust-=Ka=me=no=gorsk
-Ust=yurt
-USW
 us=age
 us=ance
-us=a=ble
-Us=beg
-Us=bek
+us=a=blE
 us=er
 us=ing
-Us=k
-Us=kub
-Us=küp
-Us=kü=dar
 Us=k=dar
 Us=nach
 Us=nech
@@ -175018,9 +172012,6 @@ u=nity =of =in=ter=est
 u=nit=age
 u=nit=a=ble
 u=nit=ed
-U=nit=ed =Ar=ab =E=mir=ates
-U=nit=ed =Ar=ab =Re=pub=lic
-U=nit=ed =Ar=ab =States
 U=nit=ed =Em=pire =Loy=al=ist
 U=nit=ed =King=dom
 U=nit=ed =Na=tions
@@ -175153,7 +172144,6 @@ u=rae=us
 u=rae=us=es
 U=ral
 U=ral =Moun=tains
-U=ral-=Al=ta=ic
 U=rals
 U=ral=ic
 u=ral=ite
@@ -175327,7 +172317,6 @@ u=ti=liz=a=ble
 u=ti=liz=er
 u=ti=liz=ing
 u=ti=li=za=tion
-U=to-=Az=tec=an
 U=to=pi=a
 U=to=pi=an
 u=to=pi=an =so=cial=ism
@@ -175481,7 +172470,6 @@ Val=kyr
 Val=kyr=ie
 val=late
 val=la=tion
-Val=le =d'A=o=sta
 val=lec=u=la
 val=lec=u=lar
 val=lec=u=late
@@ -175542,7 +172530,6 @@ vam=pir=ic
 vam=pir=ism
 Van
 van
-Van =Al=len =belt
 Van =Bu=ren
 van =der =Wey=den
 Van =Die=men =Gulf
@@ -175603,7 +172590,6 @@ Van=zet=ti
 vap=id
 vap=id=ly
 vap=id=ness
-VAR
 Var
 var
 varve
@@ -175744,8 +172730,6 @@ Vas=thi
 vas=ti=tude
 vas=ti=ty
 vas=tus
-vat
-VAT
 Vat
 vat=ic
 vat=i=cal
@@ -176159,7 +173143,6 @@ ven=tur=ous=ly
 ven=tur=ous=ness
 Ven=tu=ri =tube
 ven=tu=rous
-Ven=tôse
 ven=ue
 ven=ule
 ven=u=lar
@@ -176517,7 +173500,6 @@ ve=he=men=cy
 ve=hic=u=lar
 ve=hic=u=lum
 ve=hi=cle
-Ve=ii
 Ve=io=vis
 ve=la
 Ve=la
@@ -177006,8 +173988,6 @@ vis =ma=jor
 vise
 vise=like
 Vish=nu
-Vish=nu=ism
-VISTA
 vis=age
 vis=aged
 vis=ard
@@ -177743,7 +174723,6 @@ vo=lar
 vo=lat=i=lise
 vo=lat=i=lize
 Vo=la=puk=ist
-Vo=la=pük
 vo=li=tion
 vo=li=tion=al
 vo=li=tion=al=ly
@@ -177791,10 +174770,6 @@ vrille
 vrill=ing
 Vri=ta
 vroom
-VSO
-VSOP
-VTOL
-Vuel=ta =A=ba=jo
 vug
 vugg
 vugh
@@ -178019,7 +174994,6 @@ wak=en=ing
 wak=er
 wak=ing
 Wal
-WAL
 Wald
 wald=glas
 wald=grave
@@ -178082,7 +175056,6 @@ Wal=hal=la
 wal=ies
 wal=ing
 Wal=kyr=ie
-Wal=kü=re
 wal=la
 Wal=lace
 Wal=lace's =line
@@ -178150,7 +175123,6 @@ wam=pum=peag
 wam=pus
 wam=pus=es
 wan
-WAN
 Wan-=ch'u=an
 wand
 Wands=worth
@@ -178168,7 +175140,6 @@ want=less=ness
 Wan=a=ma=ker
 Wan=a=que
 wan=chanc=y
-Wan=chüan
 Wan=ch=an
 Wan=da
 wan=der
@@ -178402,7 +175373,6 @@ wash=tub
 wash=wom=an
 wash=wom=en
 wash=y
-WASP
 wasp
 Wasp
 wasp-=waist=ed
@@ -179750,7 +176720,6 @@ wer=wolf
 Wes
 west
 West
-West =At=lan=tic
 West =Ben=gal
 West =Ber=lin
 West =Brom=wich
@@ -179783,7 +176752,6 @@ West=ches=ter
 west=er
 west=ern
 West=ern
-West=ern =Aus=tral=i=a
 West=ern =Church
 West=ern =Ghats
 west=ern =hem=i=sphere
@@ -179817,7 +176785,6 @@ west=lings
 west=lins
 West=meath
 West=min=ster
-West=min=ster =Ab=bey
 West=mont
 West=more=land
 West=mor=land
@@ -181541,31 +178508,13 @@ wove
 wove =pa=per
 wow
 wow=ser
-Wo=dan
-Wo=den
 wo=ful
 wo=ful=ly
 wo=ful=ness
-Wo=king
-Wo=lof
-Wo=tan
 wo=ven
-WPB
-wpb
-WPC
-wpm
-WRAAC
-Wraac
-WRAAF
 wrack
 wraith
 wraith=like
-Wran
-WRANS
-Wran=gel
-Wran=gel =Is=land
-Wran=gell
-Wran=gell =Moun=tains
 wran=gle
 wran=gler
 wrap
@@ -181578,7 +178527,6 @@ wrap=round
 wrasse
 wras=tle
 wrath
-Wrath
 wrath=ful
 wrath=i=ly
 wrath=i=ness
@@ -181813,7 +178761,6 @@ xe=ro=sere
 xe=ro=sis
 Xho=sa
 Xin=g
-Xin=gú
 xiph=i=ster=nal
 xiph=i=ster=num
 xiph=oid
@@ -181911,7 +178858,6 @@ Yam=a=ga=ta
 Yam=a=shi=ta
 yam=mer
 Yang
-Yang=kü
 Yang=tze
 Yang=tze-=Kiang
 yank
@@ -182156,8 +179102,6 @@ yip=pie
 yip=ping
 yirr
 Yiz=kor
-YMCA
-YMHA
 yo-=ho
 yo-=yo
 yob
@@ -182322,11 +179266,6 @@ yu=quil=las
 Yu=ri=ma=guas
 Yu=zov=ka
 Yve=lines
-YWCA
-YWHA
-Yün=nan
-Yü=an
-Y=an
 y=clad
 y=cleped
 y=clept
@@ -182378,7 +179317,6 @@ Zam=be=zi
 Zam=bi=a
 Zam=bi=an
 Zam=bo=an=ga
-ZANU
 zan=der
 Zan=te
 zan=thox=y=lum
@@ -182486,7 +179424,6 @@ Zem=strom
 zem=stvo
 Zen
 Zend
-Zend-=A=ves=ta
 Zeng=er
 zen=do
 Zen=ic
@@ -182513,7 +179450,6 @@ zest=ful=ly
 zest=ful=ness
 zest=less
 zest=y
-ZETA
 Zet=land
 zeug=ma
 zeug=mat=ic

@@ -115,7 +115,53 @@ namespace haiku
             return true;
         }
 
+        /// <summary>
+        /// Updates the number of votes when and up or down vote button has been clicked
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        protected void votebtn_Click(object sender, EventArgs e)
+        {
+            using (Button b = (Button)sender) {
 
+                string[] commandArgs = b.CommandArgument.ToString().Split(new char[] { ',' });
+                int id = Convert.ToInt32(commandArgs[0]);
+                int votes = Convert.ToInt32(commandArgs[1]);
+
+                if (b.CommandName == "upClick")
+                {
+                    votes += 1;
+                } 
+                else if (b.CommandName == "downClick")
+                {
+                    votes -= 1;
+                }
+
+                UpdateVotes(id, votes);
+            }            
+        }
+
+        protected void UpdateVotes(int id, int newVotes)
+        {
+            // set up connection
+            OleDbConnection con = new OleDbConnection();
+            con.ConnectionString = ConfigurationManager.ConnectionStrings["ConnectionString"].ToString();
+            con.Open();
+            
+            OleDbCommand cmd = new OleDbCommand(@"UPDATE [haikus] SET votes = @votes WHERE id = @ID", con);
+            cmd.Parameters.AddWithValue("@votes", newVotes);
+            cmd.Parameters.AddWithValue("@ID", id);
+
+            // execute + check for errors
+            int a = cmd.ExecuteNonQuery();
+            if (a <= 0)
+            {
+                ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "alertMessage", "alert('Something went wrong! Cannot add to database')", true);
+            }
+
+            // reload
+            con.Close();
+            Response.Redirect(Request.RawUrl);
+        }
     }
-
 }
