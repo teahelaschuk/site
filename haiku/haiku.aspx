@@ -91,7 +91,7 @@
     <br />
     <br />
     <asp:Panel ID="Panel1" runat="server" CssClass="footer">
-        Teah Elaschuk 2018 - Haiku Generator v1.4.2 [<a href="cl-haiku.html" style="font-size: smaller;">changelog</a>]
+        Teah Elaschuk 2018 - Haiku Generator v2.0 [<a href="cl-haiku.html" style="font-size: smaller;">changelog</a>]
     </asp:Panel>
 
 

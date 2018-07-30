@@ -40,9 +40,6 @@ namespace haiku
         /// </summary>
         protected void btn_saveq_Click(object sender, EventArgs e)
         {
-            // check haiku daily allowance -- incomplete
-            checkAllowance();
-
             // format user's initials
             if (text_initials.Text.Equals("Enter your initials") 
                 || String.IsNullOrEmpty(text_initials.Text))
@@ -55,10 +52,16 @@ namespace haiku
             }
 
             // add haiku to db
-            SaveHaiku(label_haiku1.Text, label_haiku2.Text, label_haiku3.Text, text_initials.Text);
+            if(SaveHaiku(label_haiku1.Text, label_haiku2.Text, label_haiku3.Text, text_initials.Text))
+            {
+                label_prompt.Text = "Saved!";
+            }
+            else
+            {
+                label_prompt.Text = "Something went wrong. (I'm working on it)";
+            }
 
             // update guestbook
-            label_prompt.Text = "Saved!";
             text_initials.Visible = false;
             btn_saveq.Visible = false;
             DataList_gl.DataBind();
@@ -97,21 +100,23 @@ namespace haiku
         }
 
         /// <summary>
-        /// VERY INCOMPLETE
+        /// not implemented yet
         /// </summary>
         /// <returns></returns>
         protected bool checkAllowance()
         {
-            //string script = "alert(\"Hello!\");";
-            //ScriptManager.RegisterStartupScript(this, GetType(),
-            //                      "ServerControlScript", script, true);
-
             int n = (Convert.ToInt32(Session["haikuCount"]));
-            if (n > 5)
+            if (n < 5)
             {
                 Session["haikuCount"] = n + 1;
-                return true;
             }
+
+            // for testing
+            string s = (n + 1).ToString();
+            string script = "alert(\"" + s + "!\");";
+            ScriptManager.RegisterStartupScript(this, GetType(),
+                                  "ServerControlScript", script, true);
+
             return true;
         }
                 
