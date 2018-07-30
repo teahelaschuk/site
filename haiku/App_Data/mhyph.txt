@@ -9224,11 +9224,6 @@ a=whirl
 a=woke
 a=wry
 a=xen=ic
-a=yah
-a=ya=huas=ca
-a=yin
-a=yous
-a=yun=ta=mien=to
 a=zal=ea
 a=zan
 a=zed=a=rach
@@ -9236,70 +9231,18 @@ a=ze=ot=ro=py
 a=ze=o=trope
 a=ze=o=trop=ic
 a=zon=al
-a=zon=al =soil
-a=zon=ic
-a=zot=ic
-a=zo=ic
-a=zo=to=bac=ter
-a=zu=le=jo
-a=zy=go=spore
-a=‘=des
-a=‘=ne=ous
-B =bat=ter=y
-B =com=plex
-B =ho=ri=zon
-B =Spe=cial
-B-=ax=es
-b/f
-b/l
-b/s
-baa
 Baal
-baal
-Baal=bek
-Baal=shem
-baas
-baas=kap
-baas=skap
-Baa=der-=Mein=hof =Gang
 baa=ing
-Bab
-Bab =el =Man=deb
-Babe
 babe
 Babel
-Babism
-Babs
-Bab=bage
-bab=bitt
-Bab=bitt
-Bab=bitt =met=al
-Bab=bitt=ry
-Bab=bit=ry
 bab=ble
 bab=bler
 bab=ble=ment
 bab=bling
 bab=bling=ly
-bab=e=si=a=sis
-Bab=ism
-Bab=ist
-Bab=ite
-bab=i=rous=sa
-bab=i=rus=sa
-bab=i=ru=sa
-bab=ka
 bab=ra=cot
-Bab=son
-Bab=y=lon
-Bab=y=lon=ish
-Bab=y=lo=ni=a
-Bab=y=lo=ni=an
-Bab=y=lo=ni=an =cap=tiv=i=ty
 bach
 Bach
-Bach =trum=pet
-Bach=a=rach
 Bach=el=ler
 bach=e=lor
 bach=e=lor =girl
@@ -33732,37 +33675,7 @@ Czech=o=slo=vak
 Czech=o=slo=va=ki=a
 Czech=o=slo=va=ki=an
 Czer=no=witz
-C=ce=res
-C=cu=ta
-C=de=nas
-C=diz
-C=do=ba
-C=do=va
-C=mon
-C=sel
-c=ti=mo
-C=vennes
-C=zanne
-C=zur
-D =re=gion
-d'ac=cord
-D'En=tre=cas=teaux =Is=lands
-d'In=dy
-D'In=ze=o
-D'I=ber=ville
-D's
-D'Ur=fey
-D-=day
-d-=glu=cose
-D-=no=tice
-D-=state
-D/F
-D/L
-D/O
-D/W
-da =ca=po
-Da =Ga=ma
-da =Vin=ci
+c'=mon
 dab
 dab=ber
 dab=bing
@@ -33773,17 +33686,11 @@ dab=ster
 dace
 dachs=hund
 dack=er
-Dack=o
-Dac=ca
 dac=es
 dac=ry=a
 dac=ry=a=gogue
 dac=ry=on
-dac=ry=or=rhe=a
-Dac=tyl
 dac=tyl
-Dac=tyls
-Dac=tyl=i
 dac=tyl=ic
 dac=tyl=i=cal=ly
 dac=tyl=og=ra=phy
@@ -33800,7 +33707,6 @@ Dade=ville
 Dad=dah
 dad=dy
 dad=dy-=long=legs
-Daed=a=lid
 Daed=a=lus
 dae=dal
 Dae=da=la
@@ -33826,32 +33732,16 @@ Daf=fo=dil
 daf=fo=dil=ly
 daf=fo=down=dil=ly
 daf=fy
-Daf=fy
 dag
-Dag
-Dagh=da
-Dag=da
-Dag=en=ham
 dag=ga
 dag=ger
 dag=ger=board
 dag=ging
 dag=gle
 dag=lock
-Dag=mar
-Dag=na
-Dag=ney
-Dag=ny
-Dag=wood
 dah
-Dahl=gren
 dahl=ia
-Dahl=ia
-Dah=lon=e=ga
-Dah=na
 dai-=sho
-dai-=sho-=no-=so=ro=i=mo=no
-Dain=ger=field
 dain=ti=er
 dain=ti=est
 dain=ti=ly
@@ -87018,7 +86908,6 @@ maw=sie
 Maw=son
 Max
 max
-Max =M=ler
 max=i
 max=il=la
 max=il=lar=ies

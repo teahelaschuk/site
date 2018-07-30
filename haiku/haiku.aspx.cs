@@ -97,29 +97,7 @@ namespace haiku
                 return false;
             }
             return true;
-        }
-
-        /// <summary>
-        /// not implemented yet
-        /// </summary>
-        /// <returns></returns>
-        protected bool checkAllowance()
-        {
-            int n = (Convert.ToInt32(Session["haikuCount"]));
-            if (n < 5)
-            {
-                Session["haikuCount"] = n + 1;
-            }
-
-            // for testing
-            string s = (n + 1).ToString();
-            string script = "alert(\"" + s + "!\");";
-            ScriptManager.RegisterStartupScript(this, GetType(),
-                                  "ServerControlScript", script, true);
-
-            return true;
-        }
-                
+        }              
 
         /// <summary>
         /// Calls on MakeLine() to form a haiku and displays it.
@@ -237,5 +215,31 @@ namespace haiku
             }
             con.Close();
         }
+
+
+        /*
+        /// <summary>
+        /// not implemented yet
+        /// </summary>
+        /// <returns></returns>
+        protected bool checkAllowance()
+        {
+            int n = (Convert.ToInt32(Session["haikuCount"]));
+            if (n < 5)
+            {
+                Session["haikuCount"] = n + 1;
+            }
+
+            // for testing
+            string s = (n + 1).ToString();
+            string script = "alert(\"" + s + "!\");";
+            ScriptManager.RegisterStartupScript(this, GetType(),
+                                  "ServerControlScript", script, true);
+
+            return true;
+        }
+        */
+
     }
+
 }
