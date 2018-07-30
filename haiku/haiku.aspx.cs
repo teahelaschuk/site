@@ -7,6 +7,7 @@ using System.Web.UI.WebControls;
 using System.IO;
 using System.Data.OleDb;
 using System.Configuration;
+using System.Threading;
 
 namespace haiku
 {
@@ -26,6 +27,9 @@ namespace haiku
 
         protected void btn_saveq_Click(object sender, EventArgs e)
         {
+            // check allowance
+            checkAllowance();
+
             // check name
             if (text_initials.Text.Equals("Enter your initials") 
                 || String.IsNullOrEmpty(text_initials.Text))
@@ -54,12 +58,35 @@ namespace haiku
             int a = cmd.ExecuteNonQuery();
             if (a <= 0)
             {
-                ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "alertMessage", "alert('Something went wrong! Cannot add to database')", true);
+                Response.Write("<script language='javascript'>alert('Something went wrong! Cannot add to database');</script>");
             }
             
             // refresh
             con.Close();
-            Response.Redirect(Request.RawUrl);
+
+            DataList_gl.DataBind();
+            UpdatePanel1.Update();
+            // Response.Redirect(Request.RawUrl);
+        }
+
+        /// <summary>
+        /// COME BACK TO THIS POINT -- ALERT BOX ISN'T WORKING, RESPONSE REDIRECT OCCURS BEFORE USER GETS TO HIT 'OK'
+        /// CLIENT SIDE..? MAYBE UPDATE PANEL AFTER ALL
+        /// </summary>
+        /// <returns></returns>
+        protected bool checkAllowance()
+        {
+            //string script = "alert(\"Hello!\");";
+            //ScriptManager.RegisterStartupScript(this, GetType(),
+            //                      "ServerControlScript", script, true);
+
+            int n = (Convert.ToInt32(Session["haikuCount"]));
+            if (n > 5)
+            {
+                Session["haikuCount"] = n + 1;
+                return true;
+            }
+            return true;
         }
 
         protected void btn_generate_Click(object sender, EventArgs e)
@@ -138,6 +165,9 @@ namespace haiku
                 }
 
                 UpdateVotes(id, votes);
+                
+                // reload
+                Response.Redirect(Request.RawUrl);
             }            
         }
 
@@ -159,9 +189,7 @@ namespace haiku
                 ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "alertMessage", "alert('Something went wrong! Cannot add to database')", true);
             }
 
-            // reload
             con.Close();
-            Response.Redirect(Request.RawUrl);
         }
     }
 }
