@@ -16,62 +16,88 @@ namespace haiku
         Random r;
         List<string> lines;
         int lineNum;
+        OleDbConnection con = new OleDbConnection();
+        OleDbCommand cmd = new OleDbCommand();
 
+        /// <summary>
+        /// Sets up the page
+        /// </summary>
         protected void Page_Load(object sender, EventArgs e)
         {
             r = new Random();
-
             string url = Server.MapPath("~/App_Data/mhyph.txt");
             lines = new List<string>(File.ReadAllLines(url));
-        }
 
-        protected void btn_saveq_Click(object sender, EventArgs e)
-        {
-            // check allowance
-            checkAllowance();
-
-            // check name
-            if (text_initials.Text.Equals("Enter your initials") 
-                || String.IsNullOrEmpty(text_initials.Text))
-                text_initials.Text = "Anonymous";
-            else
-                text_initials.Text = text_initials.Text.ToUpper();
-
-            // set up connection
-            OleDbConnection con = new OleDbConnection();
-            con.ConnectionString = ConfigurationManager.ConnectionStrings["ConnectionString"].ToString();
-            con.Open();
-            OleDbCommand cmd = new OleDbCommand();
-
-            // insert data
-            cmd.CommandText = 
-                "INSERT INTO [haikus] (line1, line2, line3, author, entrydate, votes)" +
-                "VALUES (@l1, @l2, @l3, @nm, @date, 0)";
-            cmd.Parameters.AddWithValue("@l1", label_haiku1.Text);
-            cmd.Parameters.AddWithValue("@l2", label_haiku2.Text);
-            cmd.Parameters.AddWithValue("@l3", label_haiku3.Text);
-            cmd.Parameters.AddWithValue("@nm", text_initials.Text);
-            cmd.Parameters.AddWithValue("@date", DateTime.Today);
-            cmd.Connection = con;
-
-            // execute + check for errors
-            int a = cmd.ExecuteNonQuery();
-            if (a <= 0)
+            if (!IsPostBack)
             {
-                Response.Write("<script language='javascript'>alert('Something went wrong! Cannot add to database');</script>");
+                label_prompt.Text = "Hit 'Generate Haiku' to get started. <br/> Save your best haiku in the guestbook below, and vote for your favourites.";
             }
-            
-            // refresh
-            con.Close();
-
-            DataList_gl.DataBind();
-            UpdatePanel1.Update();
-            // Response.Redirect(Request.RawUrl);
         }
 
         /// <summary>
-        /// COME BACK TO THIS POINT -- ALERT BOX ISN'T WORKING, RESPONSE REDIRECT OCCURS BEFORE USER GETS TO HIT 'OK'
-        /// CLIENT SIDE..? MAYBE UPDATE PANEL AFTER ALL
+        /// Triggered when the user saves their haiku to the guestbook. 
+        /// Adds the haiku to the database and sets up the next screen layout.
+        /// </summary>
+        protected void btn_saveq_Click(object sender, EventArgs e)
+        {
+            // check haiku daily allowance -- incomplete
+            checkAllowance();
+
+            // format user's initials
+            if (text_initials.Text.Equals("Enter your initials") 
+                || String.IsNullOrEmpty(text_initials.Text))
+            { 
+                text_initials.Text = "Anonymous";
+            }
+            else
+            {
+                text_initials.Text = text_initials.Text.ToUpper();
+            }
+
+            // add haiku to db
+            SaveHaiku(label_haiku1.Text, label_haiku2.Text, label_haiku3.Text, text_initials.Text);
+
+            // update guestbook
+            label_prompt.Text = "Saved!";
+            text_initials.Visible = false;
+            btn_saveq.Visible = false;
+            DataList_gl.DataBind();
+            UpdatePanel1.Update();
+
+        }
+
+        /// <summary>
+        /// Takes haiku data and adds to database. Returns true is successful.
+        /// </summary>
+        protected bool SaveHaiku(string line1, string line2, string line3, string name)
+        {
+            // set up db connection
+            con = new OleDbConnection()
+            {
+                ConnectionString = ConfigurationManager.ConnectionStrings["ConnectionString"].ToString()
+            };
+            con.Open();
+
+            cmd = new OleDbCommand(@"INSERT INTO[haikus](line1, line2, line3, author, entrydate, votes)" +
+                "VALUES (@l1, @l2, @l3, @nm, @date, 0)", con);
+            cmd.Parameters.AddWithValue("@l1", line1);
+            cmd.Parameters.AddWithValue("@l2", line2);
+            cmd.Parameters.AddWithValue("@l3", line3);
+            cmd.Parameters.AddWithValue("@nm", name);
+            cmd.Parameters.AddWithValue("@date", DateTime.Today);
+
+            // execute + check for errors -- incomplete
+            int a = cmd.ExecuteNonQuery();
+            con.Close();
+            if (a <= 0)
+            {
+                return false;
+            }
+            return true;
+        }
+
+        /// <summary>
+        /// VERY INCOMPLETE
         /// </summary>
         /// <returns></returns>
         protected bool checkAllowance()
@@ -88,19 +114,25 @@ namespace haiku
             }
             return true;
         }
+                
 
+        /// <summary>
+        /// Calls on MakeLine() to form a haiku and displays it.
+        /// </summary>
         protected void btn_generate_Click(object sender, EventArgs e)
         {
             label_haiku1.Text = MakeLine(5);
             label_haiku2.Text = MakeLine(7);
             label_haiku3.Text = MakeLine(5);
 
-            label_saveq.Visible = true;       
+            label_prompt.Text = "Is it brilliant? Add it to the guestbook.";       
             text_initials.Visible = true;
             btn_saveq.Visible = true;
-            div_accent.Attributes["style"] = "visibility: visible";
         }
 
+        /// <summary>
+        /// Makes a single line of a haiku given the number of syllables required.
+        /// </summary>
         protected string MakeLine(int max)
         {
             string s = "";
@@ -112,16 +144,19 @@ namespace haiku
                 {
                     lineNum = r.Next(0, lines.Count - 1);
                 }
-                while (!analyzeWord(lines[lineNum], ref s, ref syls, max));
+                while (!AnalyzeWord(lines[lineNum], ref s, ref syls, max));
 
                 max -= syls;
                 line += s + " ";
             }
-
             return line;
         }
 
-        protected bool analyzeWord(string raw, ref string s, ref int syls, int max)
+        /// <summary>
+        /// Takes a random work from the dictionary and determines whether it is viable, taking
+        /// the requirements of the line in consideration.
+        /// </summary>
+        protected bool AnalyzeWord(string raw, ref string s, ref int syls, int max)
         {
             int count = 1;
             string temp = "";
@@ -130,7 +165,9 @@ namespace haiku
                 if (c.Equals('='))
                 {
                     if (++count > max)
+                    { 
                         return false;
+                    }
                 }
                 else
                 {
@@ -143,14 +180,12 @@ namespace haiku
         }
 
         /// <summary>
-        /// Updates the number of votes when and up or down vote button has been clicked
+        /// Gets information about vote and passes information to UpdateVotes to process, then 
+        /// updates the guestbook with the new data.
         /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
         protected void votebtn_Click(object sender, EventArgs e)
         {
             using (Button b = (Button)sender) {
-
                 string[] commandArgs = b.CommandArgument.ToString().Split(new char[] { ',' });
                 int id = Convert.ToInt32(commandArgs[0]);
                 int votes = Convert.ToInt32(commandArgs[1]);
@@ -158,27 +193,34 @@ namespace haiku
                 if (b.CommandName == "upClick")
                 {
                     votes += 1;
-                } 
+                }
                 else if (b.CommandName == "downClick")
                 {
                     votes -= 1;
                 }
 
+                // update db
                 UpdateVotes(id, votes);
-                
-                // reload
-                Response.Redirect(Request.RawUrl);
+
+                // update guestbook
+                DataList_gl.DataBind();
+                UpdatePanel1.Update();
             }            
         }
 
+        /// <summary>
+        /// Connects to the database and updates the number of votes on the selected haiku
+        /// </summary>
         protected void UpdateVotes(int id, int newVotes)
         {
-            // set up connection
-            OleDbConnection con = new OleDbConnection();
-            con.ConnectionString = ConfigurationManager.ConnectionStrings["ConnectionString"].ToString();
+            // set up db connection
+            con = new OleDbConnection()
+            {
+                ConnectionString = ConfigurationManager.ConnectionStrings["ConnectionString"].ToString()
+            };
             con.Open();
-            
-            OleDbCommand cmd = new OleDbCommand(@"UPDATE [haikus] SET votes = @votes WHERE id = @ID", con);
+
+            cmd = new OleDbCommand(@"UPDATE [haikus] SET votes = @votes WHERE id = @ID", con);
             cmd.Parameters.AddWithValue("@votes", newVotes);
             cmd.Parameters.AddWithValue("@ID", id);
 
@@ -188,7 +230,6 @@ namespace haiku
             {
                 ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "alertMessage", "alert('Something went wrong! Cannot add to database')", true);
             }
-
             con.Close();
         }
     }

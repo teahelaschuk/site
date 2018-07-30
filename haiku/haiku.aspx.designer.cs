@@ -13,6 +13,24 @@ namespace haiku {
     public partial class haiku {
         
         /// <summary>
+        /// ScriptManager1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.ScriptManager ScriptManager1;
+        
+        /// <summary>
+        /// UpdatePanel2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.UpdatePanel UpdatePanel2;
+        
+        /// <summary>
         /// label_haiku1 control.
         /// </summary>
         /// <remarks>
@@ -49,13 +67,13 @@ namespace haiku {
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl div_accent;
         
         /// <summary>
-        /// label_saveq control.
+        /// label_prompt control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label label_saveq;
+        protected global::System.Web.UI.WebControls.Label label_prompt;
         
         /// <summary>
         /// text_initials control.
@@ -83,15 +101,6 @@ namespace haiku {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btn_generate;
-        
-        /// <summary>
-        /// ScriptManager1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.ScriptManager ScriptManager1;
         
         /// <summary>
         /// UpdatePanel1 control.

@@ -1,6 +1,11 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="haiku.aspx.cs" Inherits="haiku.haiku" %>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="content">
+        
+        <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+        <asp:UpdatePanel ID="UpdatePanel2" runat="server">
+                <ContentTemplate>
+
         <div class="box1">
             <h3 style="color: #AA00FF;">Haiku Generator:
                 <br />
@@ -14,9 +19,12 @@
             <asp:Label ID="label_haiku3" runat="server"></asp:Label>
             <br />
             <br />
+
+            
+
             <div runat="server" id="div_accent" class="accent_haiku">
                 <br />
-                <asp:Label ID="label_saveq" Visible="false" runat="server"><i>Is it brilliant? Add it to the guestbook.</i></asp:Label>
+                <asp:Label ID="label_prompt" runat="server"></asp:Label>
                 <br />
                 <br />
                 <asp:TextBox ID="text_initials" runat="server" MaxLength="3" Text="Enter your initials" Visible="False"></asp:TextBox>
@@ -28,6 +36,10 @@
             <br />
             <asp:Button ID="btn_generate" runat="server" OnClick="btn_generate_Click" Text="Generate Haiku" CausesValidation="False" />
         </div>
+
+        </ContentTemplate>
+        </asp:UpdatePanel>
+
         <br />
         <img class="img-haiku" src="Images/a1.png" alt="just some graphic" title="2018" />
 
@@ -37,7 +49,6 @@
                 ★★★★★★★★★★★
             </h3>
             <br />
-            <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
             <asp:UpdatePanel ID="UpdatePanel1" runat="server" UpdateMode="Conditional">
                 <ContentTemplate>
                     <asp:DataList CssClass="haikulist" Autopostback="true" ID="DataList_gl" runat="server" DataKeyField="ID" DataSourceID="haikus_saved">
@@ -80,7 +91,7 @@
     <br />
     <br />
     <asp:Panel ID="Panel1" runat="server" CssClass="footer">
-        Teah Elaschuk 2018 - Haiku Generator v1.4.1 [<a href="cl-haiku.html" style="font-size: smaller;">changelog</a>]
+        Teah Elaschuk 2018 - Haiku Generator v1.4.2 [<a href="cl-haiku.html" style="font-size: smaller;">changelog</a>]
     </asp:Panel>
 
 
