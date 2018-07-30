@@ -1,0 +1,150 @@
+﻿body {
+    background-color: black;
+    font-family: 'Times New Roman';
+    color: white;
+}
+
+.footer {
+    font-family: 'Courier New';
+    color: blue;
+}
+
+.navLink {
+    background-color: black;
+    border: none;
+    padding: 0 10px 0;
+    font-size: 16px;
+    font-family: 'Courier New';
+    color: blue;
+    font-size: larger;
+}
+
+.navLink:hover {
+    font-style: italic;
+}
+
+#header {
+    position: absolute;
+    left: 25px;
+    top: 20px;
+    height: 30px;
+    width: 95%;
+    display: inline;
+}
+
+a {
+    color: blue;
+    font-size: larger;
+}
+
+a:hover {
+    font-style: italic;
+}
+
+a:visited {
+    color: blue;
+}
+
+.link {
+    width: 60px;
+    text-align: center;
+}
+
+.container {
+    min-height: 100%;
+    padding: 0 0 100px;
+    position: relative;
+}
+
+.content {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.box1 {
+    margin: 10px;
+    padding: 20px;
+    border: double 5px grey;
+}
+
+.box2 {
+    min-width: 50%;
+    margin: 10px;
+    padding: 20px;
+    border: double 5px grey;
+    width: auto;
+    display: inline-block;
+    overflow-y: scroll;
+    max-height: 400px;
+}
+
+.accent_haiku {
+    border: #AA00FF 2px solid; 
+    max-width: 60%; 
+    margin:auto; 
+}
+
+.img-haiku {
+    display: inline-block;
+    padding-left: 45px;
+}
+
+.haikuInfoLabel {
+    font-size: smaller;
+    color: lightgray;
+}
+
+.votebtn {
+    background-color: transparent;
+    border: none;
+    font-size: smaller;
+    color: gray;
+}
+
+.votebtn:hover {
+    color: lavender;
+}
+
+
+
+
+.haikulist {
+    align-content: center;
+    margin: auto;
+    max-height: 70%;
+}
+
+img {
+    float: left;
+    max-width: 30%;
+    margin: 20px;
+}
+
+.smaller {
+    max-width: 25%;
+}
+
+.bigger {
+    min-width: 30%;
+}
+
+.special-text {
+    width: 40%;
+    margin-left: 10%;
+    min-height: 100px;
+    line-height: 50px;
+    float: left;
+    text-align: center;
+}
+
+.special {
+    float: right;
+    margin-top: 0;
+    margin-right: 10%;
+}
+
+hr {
+    width: 100%;
+    border-color: black;
+}

@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="haiku.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>TEAH ELASCHUK DOT NET</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="StyleSheet" href="style.css" type="text/css">
+</head>
+<body>
+    <form id="form1" runat="server"> 
+        <div class="nav">
+            <asp:Button class="navLink" ID="link_home" runat="server" Text="Home" OnClick="navClick" OnClientClick="myfunction(); return false;"/> /
+            <asp:Button class="navLink" ID="link_about" runat="server" Text="About" OnClick="navClick" OnClientClick="myfunction(); return false;"/> /
+            <asp:Button class="navLink" ID="link_gallery" runat="server" Text="Gallery" OnClick="navClick" OnClientClick="myfunction(); return false;" /> /
+            <asp:Button class="navLink" ID="link_haiku" runat="server" Text="Haiku" OnClick="navClick" OnClientClick="myfunction(); return false;"/> /
+            <asp:Button class="navLink" ID="link_portfolio" runat="server" Text="Portfolio" OnClick="navClick" OnClientClick="myfunction(); return false;" />
+        </div>
+
+
+        <br/>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
